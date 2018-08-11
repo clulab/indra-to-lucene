@@ -3,8 +3,19 @@ package org.clulab.wm.indraToLucene
 import java.io._
 
 import scala.collection.mutable.ListBuffer
+import scala.io.Source
 
-object Files {
+object Utils {
+  type FileMapping = (File, String) => File
+
+  def getContents(file: File) = {
+    val source = Source.fromFile(file)
+    val rawText = source.getLines.mkString("\n")
+
+    source.close()
+    rawText
+  }
+
   /** Recursively finds all files with the given extension in the given directory */
   def findFiles(dir: String, ext: String): List[File] = {
     val files = new ListBuffer[File]
