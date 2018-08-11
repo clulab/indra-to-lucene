@@ -12,6 +12,9 @@ import java.nio.file.Paths
 object Indexer {
   val INDEX_DIR = "./index"
 
+  val TEXT_NAME_FIELD = "textName"
+  val INDRA_NAME_FIELD = "indraName"
+
   val TEXT_FIELD = "text"
   val INDRA_FIELD = "indra"
 }
@@ -38,15 +41,17 @@ class Indexer {
         val text = Utils.getContents(textFile)
         val indra = Utils.getContents(indraFile)
 
-        addDocument(writer, text, indra)
+        addDocument(writer, textFile.getName(), indraFile.getName(), text, indra)
       }
     }
     writer.close()
   }
 
-  protected def addDocument(writer: IndexWriter, text: String, indra: String): Unit = {
+  protected def addDocument(writer: IndexWriter, textName: String, indraName: String, text: String, indra: String): Unit = {
     val document = new Document
 
+    document.add(new StoredField(Indexer.TEXT_NAME_FIELD, textName))
+    document.add(new StoredField(Indexer.INDRA_NAME_FIELD, indraName))
     document.add(new TextField(Indexer.TEXT_FIELD, text, Field.Store.YES))
     document.add(new StoredField(Indexer.INDRA_FIELD, indra))
     writer.addDocument(document)
