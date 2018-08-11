@@ -11,6 +11,10 @@ import org.apache.lucene.store.FSDirectory
 
 case class SearchResult(docId: Int, score: Float, text: String, indra: String)
 
+object Searcher {
+  val TOTAL_HITS = 5000
+}
+
 class Searcher(indexDir: String) {
   val reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexDir)))
   val searcher = new IndexSearcher(reader)
@@ -36,8 +40,4 @@ class Searcher(indexDir: String) {
     }
     results
   }
-}
-
-object Searcher {
-  val TOTAL_HITS = 500000
 }
