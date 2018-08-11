@@ -21,7 +21,7 @@ class Searcher(indexDir: String) {
 
   def close() = reader.close()
 
-  def search(queryString: String, maxHits: Int = Searcher.MAX_HITS): Seq[SearchResult] =
+  def search(queryString: String, maxHits: Int = Searcher.MAX_HITS): Array[SearchResult] =
       searchByField(queryString, maxHits, Indexer.TEXT_FIELD, new StandardAnalyzer())
 
   protected def searchByField(queryString: String, maxHits: Int, field: String, analyzer: Analyzer): Array[SearchResult] = {
