@@ -9,7 +9,7 @@ class Test extends FlatSpec with Matchers
 
 object TestUtils {
 
-  def resourceNameToFileName(resourceName: String): String = {
+  def resourceNameToAbsoluteFileName(resourceName: String): String = {
     val resource = this.getClass().getResource(resourceName)
     val file = Paths.get(resource.toURI()).toFile()
 

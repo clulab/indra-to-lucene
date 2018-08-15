@@ -7,7 +7,7 @@ class TestRoundTrip extends Test {
   protected def find(needle: String, haystack: String): Boolean =
       haystack.toLowerCase.contains(needle.toLowerCase)
 
-  val TEXT_DIR = TestUtils.resourceNameToFileName("/text").replace('\\', '/')
+  val TEXT_DIR = TestUtils.resourceNameToAbsoluteFileName("/text")
   val INDRA_DIR = ""
   val INDEX_DIR = "./index"
 
@@ -23,62 +23,67 @@ class TestRoundTrip extends Test {
 
   new Indexer().index(TEXT_DIR, INDRA_DIR, INDEX_DIR, mappingIdentity)
 
-  behavior of "the searcher"
+  def testSearch(searcher: Searcher): Unit = {
+    behavior of "the searcher"
+
+    it should "use keywords properly" in {
+      val term = "hunger"
+      val results = searcher.search(term)
+
+      results.size should be(20)
+      results.foreach { result =>
+        find(term, result.text) should be(true)
+        find(term, result.indra) should be(true)
+      }
+    }
+
+    it should "use OR properly" in {
+      val leftTerm = "poverty"
+      val rightTerm = "shortages"
+      val term = leftTerm + " OR " + rightTerm
+
+      val results = searcher.search(term)
+
+      results.size should be(23)
+      results.foreach { result =>
+        (find(leftTerm, result.text) || find(rightTerm, result.text)) should be(true)
+      }
+    }
+
+    it should "use AND properly" in {
+      val leftTerm = "poverty"
+      val rightTerm = "shortages"
+      val term = leftTerm + " AND " + rightTerm
+
+      val results = searcher.search(term)
+
+      // This should be less than the OR search.
+      results.size should be(6)
+      results.foreach { result =>
+        (find(leftTerm, result.text) && find(rightTerm, result.text)) should be(true)
+      }
+    }
+
+    it should "use NOT properly" in {
+      val leftTerm = "poverty"
+      val rightTerm = "shortages"
+      val leftNotRightResults = searcher.search(leftTerm + " NOT " + rightTerm)
+      val rightNotLeftResults = searcher.search(rightTerm + " NOT " + leftTerm)
+
+      // These should make up the different between AND and OR results.
+      leftNotRightResults.size + rightNotLeftResults.size should be(23 - 6)
+
+      leftNotRightResults.foreach { result =>
+        (find(leftTerm, result.text) && !find(rightTerm, result.text)) should be(true)
+      }
+      rightNotLeftResults.foreach { result =>
+        (find(rightTerm, result.text) && !find(leftTerm, result.text)) should be(true)
+      }
+    }
+  }
 
   val searcher = new Searcher(INDEX_DIR)
-
-  it should "use keywords properly" in {
-    val term = "hunger"
-    val results = searcher.search(term)
-
-    results.size should be (20)
-    results.foreach { result =>
-      find(term, result.text) should be (true)
-      find(term, result.indra) should be (true)
-    }
-  }
-
-  it should "use OR properly" in {
-    val leftTerm = "poverty"
-    val rightTerm = "shortages"
-    val term = leftTerm + " OR " + rightTerm
-
-    val results = searcher.search(term)
-
-    results.size should be (23)
-    results.foreach { result =>
-      (find(leftTerm, result.text) || find(rightTerm, result.text)) should be (true)
-    }
-  }
-
-  it should "use AND properly" in {
-    val leftTerm = "poverty"
-    val rightTerm = "shortages"
-    val term = leftTerm + " AND " + rightTerm
-
-    val results = searcher.search(term)
-
-    // This should be less than the OR search.
-    results.size should be (6)
-    results.foreach { result =>
-      (find(leftTerm, result.text) && find(rightTerm, result.text)) should be (true)
-    }
-  }
-
-  it should "use NOT properly" in {
-    val leftTerm = "poverty"
-    val rightTerm = "shortages"
-    val leftNotRightResults = searcher.search(leftTerm + " NOT " + rightTerm)
-    val rightNotLeftResults = searcher.search(rightTerm + " NOT " + leftTerm)
-
-    // These should make up the different between AND and OR results.
-    leftNotRightResults.size + rightNotLeftResults.size should be (23 - 6)
-
-    leftNotRightResults.foreach { result =>
-      (find(leftTerm, result.text) && !find(rightTerm, result.text))  should be (true)
-    }
-    rightNotLeftResults.foreach { result =>
-      (find(rightTerm, result.text) && !find(leftTerm, result.text))  should be (true)
-    }
-  }
+  testSearch(searcher)
+//  searcher.close()
+//  TestUtils.deleteDirectoryRecursion(indexFile)
 }
