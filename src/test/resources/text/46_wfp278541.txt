@@ -1,0 +1,104 @@
+South Sudan: The 2015 Rainfall Seasonal Analysis
+September 2015
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2015
+
+HIGHLIGHTS
+
+• The growing season of 2015 in South Sudan started well due to early favourable rainfall, with earlier than
+average or timely planting across most of Western Equatoria, Greater Bahr-el-Ghazal, northern areas and
+Upper Nile. In Central Equatoria and some eastern areas of the country, moderate delays were noticed, but
+without much consequence.
+
+• The rainfall season continued normally across the country until late June. Field reports indicate that in
+bimodal areas (west and south west), first-season harvests have started, and second-season activities are
+underway, as rainfall remained close to average until now.
+• However, in July and August, significant rainfall deficits extended across Jonglei, eastern Lakes, Eastern
+Equatoria, and Central Equatoria. A continuation of these conditions may have serious impacts on crop
+performance in these regions.
+• A developing El Nino event and pessimistic forecasts for September to December rainfall in the northern
+half of the country, raise the possibility of drier than average conditions affecting late maturing crops in
+Lakes, West Bahr-el-Ghazal and Upper Nile. Perspectives for the second season planting in the Greater
+Equatoria are less clear. So far the season is developing normally in some areas but continued monitoring
+is required.
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2015
+
+Map 1: Seasonal cumulative rainfall until end of August 2015, as a percentage of the 20-year average.
+Hashed pattern indicates main agricultural areas. Brown shades indicate below-average rainfall; blue
+shades indicate above-average seasonal rainfall.
+
+Map 2: 30 days cumulative rainfall until 31 of August 2015, as a percentage of the 20-year average.
+Hashed pattern indicates main agricultural areas. Brown shades indicate below-average rainfall; blue
+shades indicate above-average seasonal rainfall.
+
+Seasonal rainfall performance
+Until end of August, seasonal rainfall was moderately above average in western and northern parts of the country (Western and Northern Bahr el Ghazal states, as well
+as Upper Nile state) and moderately below average in south-eastern regions (south and east of Jonglei and areas of Central and Eastern Equatoria States). This broadly
+favourable rains are expected to have a positive impact on the agricultural season. This is in line with field reports information.
+However, a closer look at recent rainfall performance reveals strong rainfall deficits during the month of August (see Map 2) across most of Jonglei, East Equatoria, as
+well as parts of Lakes and Central Equatoria. In fact, these deficits have started from early July – this agrees with field reports of rainfall irregularity, prolonged dry spell
+observed in Unity State, Jonglei (Uror and some parts of Nyirol), Eastern Equatoria (greater Kapoeta, part of Magwi and Ikwoto counties) and Central Equatoria. In
+addition, there was a short dry spell reported in Western Bank Counties of Panyikang, Fashoda and Manyo.
+The impact of these deficits on the seasonal total rainfall (Map 1) is not so apparent since the early season rainfall (up to June) was quite favourable and above
+average.
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2015
+
+Left: Date of onset of the growing season compared to average. Pinks and yellows to reds for delayed growing seasons, green shades for earlier than average growing seasons.
+Right: Late August 2015 Vegetation Index as a percentage of the 12-year average. Hashed pattern indicates main agricultural areas. Orange shades for below-average; green shades for above-average vegetation.
+
+Onset of Season and Vegetation Status
+The growing season has started earlier than usual in western areas (Western Equatoria and Greater Bahr-el-Ghazal) as well as along the border with Sudan and in Upper Nile
+state, due to good rains during the earlier stages of the season. In central and eastern areas (Central Equatoria, parts of Jonglei) the season started moderately later than
+usual, due to drier than average conditions in April. Overall, no significant perturbations of the planting dates are noticeable.
+The recent drier than average conditions in July and August, led to below average vegetation developing along the north, central and eastern parts of South Sudan (Upper
+Nile, Unity, Jonglei and East Equatoria). This tendency has been worsening progressively as the season advances. This ties in with field reports of prolonged dry spells affecting
+the crop performance in Upper Nile, Unity State, Jonglei, Eastern Equatoria and Central Equatoria. In addition it will impact negatively the planting of the second season crops
+in Central Equatoria. Preliminaries results from FSNMS Round 16 (July 2015) indicates that the majority of HHs (41%) report shortage of rain as the main challenges of crop
+production this season, followed by pests and diseases, reported by 18%, and shortage of seeds reported by 16%.
+In the bimodal rainfall areas of western South Sudan, the vegetation conditions indicate a normal season and the first-season harvests are underway.
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2015
+The El Nino Event of 2015-2016
+
+Rainfall forecasts for September-December 2015
+
+An El Nino event is officially active since March 2015. After remaining
+at relatively weak levels until May 2015, it is now intensifying and
+should peak in the last quarter of 2015 and disappear from February
+2016 onwards.
+
+According to GHACOF 41, for the coming September to December 2015 period, there is increased
+likelihood of near normal to below normal rainfall forecast for most of South Sudan (Zone II) except the
+south-east where there is Increased likelihood of above normal to near normal rainfall. If these forecasts
+are realized, this may impact negatively on development of late maturing crops in Lakes, Upper Nile, and
+West Bahr-el-Ghazal, but provide favourable conditions for the second crop season in most of Great
+Equatoria States. Note, however other forecasts are somewhat more pessimistic.
+
+Historically, El Nino events have an impact on South Sudan leading to
+growing season rainfall deficits and poor vegetation development. The
+recent drier than average conditions observed in South Sudan could
+be related to impact of the current El Niño
+
+Probability of an El Nino event (red bars) vs neutral conditions (green) and La Nina
+(blue). El Nino probabilities remain above 90% throughout the Sahelian growing season.
+
+Seasonal rainfall forecasts for September to December 2015 rainfall – GHACOF – 41.
+
+Data Sources:
+Rainfall: CHIRPS, Climate Hazards Group, UCSB
+Vegetation: MODIS NDVI, EOSDIS-NASA
+Land Cover: FAO GLC-Share
+
+Processing:
+VAM software components, ArcGIS
+
+For more information, please contact:
+Raul Cumba (VAM South Sudan) - raul.cumba@wfp.org
+Rogerio Bonifacio (VAM HQ) - rogerio.bonifacio@wfp.org
+
++211 920002729
++39 06 6513 3917
+
+

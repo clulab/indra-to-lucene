@@ -1,0 +1,172 @@
+South Sudan: The 2015 Rainfall Seasonal Analysis
+
+December 2015
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2015
+
+HIGHLIGHTS
+• The rainfall season in South Sudan is now coming to an end, with only southern areas anticipated to receive
+lighter rains until the start of the next rainfall season around March 2016.
+• Moderately above average seasonal rainfall was observed in the central, south-eastern and northern parts
+of the country while moderately below average rainfall was observed mostly in southern Jonglei state.
+Since October, the continued favourable rain are expected to have positive impact on the second season
+crops of the dual cropping areas of Equatoria, after significant mid season drier than average conditions.
+• In November, there was widespread above average rainfall across central and southern Unity, southern
+Jonglei, Central and Eastern Equatoria States. Vegetation cover from satellite data is also at much above
+average levels. This is in line with field report which are indicating the improvement of crop conditions,
+and water and pasture condition for the livestock in the pastoralist areas.
+• The Prospects of the second agriculture season in the Greater Equatoria are moderate to good. So far,
+green harvest of the second agriculture season are on going in bimodal rainfall areas.
+• The on-going El Nino event is now at its peak and is very likely to extend into the first quarter of 2016.
+Thus, the recent above average rainfall observed in Central and Eastern Equatoria states should continue
+for a while, providing better prospects for pastoralists.
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2015
+
+Overall Seasonal Rainfall Performance
+Seasonal rainfall performance
+Up to end of November, seasonal rainfall was
+moderately above average in northern parts of
+the country (Bahr el Ghazal, Warrap and Upper
+Nile). Little change is expected now since
+limited or no more rainfall is expected until next
+season.
+The southern half of Jonglei and some parts of
+Lakes had a drier than average season.
+
+Overall, Central and East Equatoria had an
+above average rainfall season. This is mostly
+due to late abundant rainfall which is having a
+positive impact on the second season crops of
+the dual cropping areas of Equatorias. This is in
+line with information from field reports.
+Map 1: Seasonal cumulative rainfall until end of November 2015, as a percentage of the 20-year average.
+Hashed pattern indicates main agricultural areas. Brown shades indicate below-average rainfall; blue
+shades indicate above-average seasonal rainfall.
+
+However, there was also poor distribution of
+rainfall as the current favourable rainfall was
+preceded by drier than average periods (see
+subsequent explanations).
+
+Timing of the season
+The rainfall season of 2015 is now approaching its end and only small amounts are to be expected in the southernmost areas of the
+country until the new season starts again from about early March onwards.
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2015
+
+Recent Rainfall Performance
+Recent Rainfall Patterns
+During November, drier than average conditions were
+registered in Jonglei-Upper Nile and the borders of
+Bahr-el-Ghazal and Western Equatoria. However,
+these late season deficits are of little importance as
+in most of these regions the bulk of the harvest was
+already completed.
+
+The south of the country in contrast, has enjoyed
+wetter than average conditions, mainly in Central and
+East Equatoria, confirming the information from the
+field. Reports from Eastern Equatoria indicate that
+better November rains improved crop prospects in
+Magwi, West Ikotos and Budi, alleviating the effects
+of drier than average conditions in August and
+September.
+
+Map 2: 30 days cumulative rainfall until 30 of November 2015, as a percentage of the 20-year average.
+Hashed pattern indicates main agricultural areas. Brown shades for below-average rainfall; blue shades for aboveaverage seasonal rainfall.
+
+In WBS, harvest of groundnut and bambara nut is
+completed. Sesame’s harvesting and processing is
+ongoing while the good performance of the long
+maturing sorghum in most areas of Raja and Wau
+counties leads to expectations of good yields.
+
+In Central Equatoria, though first season stocks are depleted at household level, some locations have already started harvesting the second season short
+term crops (maize and groundnut).
+In pastoralists areas, the late favourable rainfall resulted in improved water and pasture condition for grazing of animals. The volume of milk also increased.
+This recovery in rainfall is very important for livestock health, in particular considering the pronouncedly drier than average middle season rainfall (July to
+September), even if some areas (southern Jonglei) remain in overall seasonal deficit.
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2015
+
+Vegetation Status
+Vegetation Status
+The late abundant rains in Central and East
+Equatoria have a strong effect in vegetation
+cover which is now significantly above average
+levels. Indeed field observation confirms good
+status of pasture and water availability for
+livestock in these regions.
+In some areas this also brought benefits to the
+second crops (Magwi and Budi), but in more
+eastern areas, little recovery was seen and
+crops were significantly affected by mid season
+dryness.
+
+Map 3: Late November 2015 Vegetation Index as a percentage of the 12-year average. Hashed pattern indicates main agricultural
+areas. Orange shades for below-average; green shades for above-average vegetation.
+
+After drier than average periods midway
+through the year, vegetation shows good
+recovery in Jonglei where below average
+patterns are still prevalent though already
+showing signs of return to average levels.
+
+In several states, the main harvest is completed and production is anticipated to have mixed performance compared to last season. In
+Western Equatoria, the green harvest of maize and groundnuts (second season crop) is ongoing. In addition, reports from Central
+Equatoria indicate continued availability of second season green harvests in most markets around the state (groundnut, maize and
+vegetables).
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2015
+
+El Nino Event and Seasonal Rainfall Forecast
+The El Nino Event of 2015-2016
+
+Rainfall forecasts for January – February 2016
+
+An El Nino event is officially active since
+March 2015. It is now at its peak and
+should start dissipating after the first
+quarter of 2016.
+
+Forecasts from ECMWF (January to March 2016) indicate normal rainfall for South Sudan.
+
+Historically, El Nino events impact South
+Sudan, leading to growing season rainfall
+deficits during the July-September period
+mostly in more South-East areas.
+
+In practice, there will only be significant rainfall in Eastern Equatoria, specially in border
+areas with Kenya and Uganda as a result of the El Nino enhanced rainfall in East Africa. This
+will continue to benefit late planted and second crops and importantly will provide good
+perspectives for pastoralists in these regions.
+
+However, these same areas later benefit
+from wetter than average conditions as a
+result of the spread of the typical El Nino
+enhanced rainfall from East Africa. This
+has been taking place since October,
+mostly in Central and Eastern Equatoria.
+So far this season has conformed to this
+general pattern quite well.
+
+ECMWF forecast for January – March 2016 rainfall.
+Green shades = wetter than average conditions more likely. Brown shades = drier than average conditions more likely
+
+Data Sources:
+Rainfall: CHIRPS, Climate Hazards Group, UCSB
+Vegetation: MODIS NDVI, EOSDIS-NASA
+Land Cover: FAO GLC-Share
+
+Processing:
+VAM software components, ArcGIS
+
+For more information, please contact:
+Raul Cumba (VAM South Sudan) - raul.cumba@wfp.org
+Rogerio Bonifacio (VAM HQ) - rogerio.bonifacio@wfp.org
+
++211 920002729
++39 06 6513 3917
+
+

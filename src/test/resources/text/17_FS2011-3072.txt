@@ -1,0 +1,675 @@
+Famine Early Warning Systems Network—Informing Climate Change Adaptation Series
+
+A Climate Trend Analysis of Sudan
+Warrap, and North Bahr el Ghazal). [Please see “Objectives and Methods” for state names and populations.]
+This brief report, drawing from a multiyear effort by the
+U.S. Agency for International Development (USAID)
+Famine Early Warning Systems Network (FEWS NET),
+identifies significant reductions in rainfall and increases
+in temperature across these regions. These analyses are
+based on quality-controlled station observations, climatemodel reanalyses, and land surface-model simulations.
+
+Conclusions
+• Summer rains in western and southern Sudan
+
+have declined by 10–20 percent since the mid1970s.
+
+• Observed warming of more than 1 degree
+Celsius is equivalent to another 10–20 percent
+reduction in rainfall for crops.
+• The warming and drying have impacted southern Darfur and areas around Juba.
+• Rainfall declines west of Juba threaten southern Sudan’s future food production prospects.
+• In many cases, areas with changing climate
+are coincident with zones of substantial conflict, suggesting some degree of association;
+however, the contribution of climate change
+to these conflicts is not currently understood.
+• Rapid population growth and the expansion
+of farming and pastoralism under a more
+variable climate regime could dramatically
+increase the number of at-risk people in Sudan
+over the next 20 years.
+
+Rainfall has Declined by 20 Percent
+Between the mid-1970s and late 2000s, summer
+rainfall decreased by 10–20 percent across parts of western and southern Sudan, placing already food insecure
+populations at greater risk. These declines can be visualized in three ways: as a contraction of the region receiving
+adequate rainfall for viable agricultural livelihoods, as a
+map of anticipated changes in rainfall, and as time-series
+plots of selected regions.
+Sudan receives most of its rain between June and
+September, and rainfall totals of more than 500 millimeters (mm) during this season typically provide enough
+water for farming and livestock. Between 1960 and 1989,
+the region receiving (on average) this much rain or more
+was vast, over 858,000 square kilometers (km2)—an area
+the size of France and the United Kingdom combined.
+This region is shown in light brown in the left panel of
+
+Food Security Context: Drying Trends in
+Highly Insecure Food Areas
+In 2010, approximately 8 million people faced
+moderate to high levels of food insecurity in northern and
+southern Sudan (Famine Early Warning Systems Network, 2010). These food insecure populations, primarily agro-pastoralists, tend to be located in western parts
+of northern Sudan (Darfur and Kordofan) or in drier
+portions of southern Sudan (Jonglei, East Equatoria,
+U.S. Department of the Interior
+U.S. Geological Survey
+
+Juba, Southern Sudan, from the air.
+
+Printed on recycled paper
+
+Fact Sheet 2011–3072
+June 2011
+
+the change magnitudes. South Darfur exhibits the largest
+declines, followed by Blue Nile and West Equatoria.
+These reductions in rainfall appear most likely to affect
+the insecure areas around the cities of Al Fāshir, Nyala,
+and Wāu (fig. 1).
+Smoothed time series (fig. 2, middle and lower
+panels, 5-year running means) of 1900–2009 rainfall, extracted for the extended Darfur region (10 to
+16 degrees north, 22 to 29 degrees east) and southern
+Sudan (3 to 7 degrees north, 27 to 35 degrees east), show
+that 1990–2009 rainfall has been, on average, about
+20 percent lower (-1 standard deviation) than rainfall
+between 1900 and 1989.
+
+figure 1 and should be understood to lie beneath the dark
+brown and orange areas. Over the past 20 years, this
+region has contracted (dark brown polygon), exposing
+populations in Darfur, Kordofan, Upper Nile, Jonglei,
+and East Equatoria to increased rainfall deficits. In the
+west, this contour shifted from approximately 11 degrees
+north to 10 degrees north. In the Upper Nile, the shift
+was even more drastic from approximately 11 degrees
+north to 9 degrees north. A third westward retraction is
+occurring in Jonglei and East Equatoria, with the 500 mm
+contour shifting from approximately 33 degrees east to
+32 degrees east.
+If present rainfall trends continue, by 2025 the drying
+impacts likely will reach into West and North Bahr Al
+Ghazal, Warrap, Unity, Central Equatoria, and Al Buhairat (fig. 1, orange polygon); an area with a total population of 4.1 million. The area receiving more than 500 mm
+of rainfall could shrink by 249,000 km2 (30 percent of the
+1960–89 area), leaving a large number of people exposed
+to increased food insecurity and impacting crop production in the southeastern part of the country.
+Rainfall reductions can be visualized by combining the observed 1960–2009 changes with predicted
+2010–39 changes, based on persistence of the observed
+trends (fig. 2, top panels). Rainfall declines range from
+-150 to -50 mm across the western and southern portions
+of the country, large numbers for a drought-prone country. Observed changes alone account for 63 percent of
+A. Rainfall
+
+Much Warmer Air Temperatures
+Temperatures have increased by more than 1 degree
+Celsius (°C) across much of central and southern Sudan.
+As with rainfall, these changes can be visualized as
+expansions of hot (and in this case dry) areas, as maps
+of anticipated changes, or as time series. Figure 1 (right
+panel) shows warming in Sudan as successive advances
+of the average temperatures, represented here by the
+30°C contour line. Areas of Sudan warmer than 30°C
+correspond with regions of sparse vegetation and low
+rainfall. These warm areas have advanced southward,
+B. Temperature
+
+35˚
+30˚
+
+25˚
+
+35˚
+30˚
+
+25˚
+
+20˚
+
+20˚
+
+Port
+Sudan
+
+Nile
+
+Khartoum
+
+15˚
+
+Very warm
+temperatures
+advance south
+
+Khartoum
+
+15˚
+Al Fāshir
+
+rfu
+
+Da
+
+Nyala
+
+r
+
+r
+
+rfu
+
+Da
+
+Al Fāshir
+
+Port
+Sudan
+
+Nile
+
+Areas with average
+temperatures of more
+than 30 degrees Celsius
+
+1960–1989 (observed)
+1990–2009 (observed)
+
+Nyala
+
+2010–2039 (predicted)
+10˚
+
+1960–1989 (observed)
+
+10˚
+
+1990–2009 (observed)
+2010–2039 (predicted)
+Wāu
+
+Productive rainfed
+crop areas shrinking
+5˚
+
+GREEN BELT
+
+Wāu
+
+Maridi
+Yei
+
+Terakeka
+Juba
+Keji
+
+IRONSTONE PLATEAU/
+HILLS AND MOUNTAINS
+
+5˚
+
+GREEN BELT
+
+Maridi
+Yei
+
+Terakeka
+Juba
+
+IRONSTONE PLATEAU/
+HILLS AND MOUNTAINS
+
+Keji
+
+Figure 1. Climate change in Sudan. A, Average location of the 500-millimeter rainfall isohyets for the years 1960–1989 (light brown), 1990–
+2009 (dark brown), and 2010–2039 (predicted, orange). The green polygons in the foreground show the main crop surplus region (the Green
+Belt livelihood zone) and the agro-pastoral Ironstone Plateau and Hills and Mountains livelihood zones. B, Similar changes for the 30 degrees
+Celsius isotherm. Areas north of this line are very hot; this intense heat makes plant growth and pastoral livelihoods difficult.
+
+A
+
+Rainfall
+25°
+
+Temperature
+
+30°
+
+35°
+
+25°
+
+30°
+
+35°
+
+15°
+
+10°
+Darfur
+
+5°
+Southern Sudan
+
+Change in rainfall
+
+EXPLANATION
+
+Change in temperature
+
+Less than -150 millimeters
+
+Less than 0.5 degree Celsius
+
+Less than -100 millimeters
+
+Less than 0.7 degree Celsius
+
+Less than -50 millimeters
+
+Less than 0.9 degree Celsius
+
+Plus or minus 50 millimeters
+
+Less than 1.1 degrees Celsius
+
+Less than 50 millimeters
+
+Less than 1.3 degrees Celsius
+
+B
+2.5
+
+Darfur
+
+2.0
+
++1 degree Celsius
+
+Temperature
+
+Standard deviations
+
+1.5
+1.0
+0.5
+0
+-0.5
+
+Rainfall
+
+-1.0
+
+-20 percent rainfall
+
+especially in the vulnerable areas surrounding Al Fāshir
+and Nyala. This transition to an even warmer climate has
+strong food security implications, reducing crop harvests
+and pasture availability, and amplifying the impact of
+droughts in this conflict torn area.
+Over the past 30 years, central and southern Sudan
+have been among the most rapidly warming locations on
+the globe, with station temperatures increasing as much
+as 0.4°C per decade. Assuming these trends persist, a
+composite can be created of observed and anticipated
+air temperature changes (fig. 2, top right panel). Again,
+observed changes alone account for 63 percent of the
+change magnitudes. The spatial pattern of warming
+corresponds (broadly) with the areas associated with
+reduced precipitation. Western and southern Sudan are
+becoming drier and hotter, which is consistent with an
+increase in atmospheric circulation bringing dry subsiding air (Please see “Objectives and Methods” section for
+background information) during the main rainy season
+(June–September).
+Time series of air temperature data (fig. 2, middle
+and lower panels, 5-year running means) show that the
+magnitude of recent warming is large and unprecedented
+within the past 110 years. It was estimated that the 1975
+to 2009 warming was more than 1.3°C for southern
+Sudan and more than 1°C within the extended Darfur
+region. Given that the standard deviation of annual air
+temperatures in these regions is approximately 0.5°C,
+these increases represent a very large (2+ standard deviations) change from the climatic norm. Such warming,
+in regions with very high average air temperatures, can
+amplify the impact of water shortages on agriculture.
+
+09
+20
+
+55
+19
+
+19
+
+00
+
+-1.5
+
+Temperature Increases Intensify the Impact
+of Droughts
+
+C
+2.5
+
++1.3 degrees Celsius
+Southern Sudan
+
+Temperature
+
+2.0
+
+Standard deviations
+
+1.5
+1.0
+0.5
+0
+-0.5
+
+Rainfall
+
+-1.0
+
+-20 percent rainfall
+09
+20
+
+55
+19
+
+19
+
+00
+
+-1.5
+
+Figure 2. Observed and projected change in rainfall and
+temperature. A, Together with smoothed rainfall and air temperature
+time series, B, for the extended Darfur region (10–16 degrees north,
+22–29 degrees east), and C, for southern Sudan (3–7 degrees north,
+27–35 degrees east).
+
+Under normal growing conditions, with plenty of
+available water, energy from the sun causes evaporation
+of water from the soil and transpiration of water vapor
+from leaves. The combination of these two flows of water
+vapor is called evapotranspiration. Year-to-year variations
+in evapotranspiration are strongly related to changes in
+plant growth, cereal formation and filling, end-of-season
+yields, and pasture biomass. Increasing air temperatures,
+especially in very warm regions, can reduce evapotranspiration. As already high temperatures rise, the environment becomes less hospitable to plants. These warming
+effects can combine with decreases in rainfall to reduce
+evapotranspiration and crop yield. Over the past 20 years,
+declines in evapotranspiration (fig. 3) are larger for the
+extended Darfur region (approximtely -40 percent) and
+southern Sudan (approximately -28 percent) than the
+associated decreases in rainfall (approximately -10 percent). Temperature impacts appear to be amplifying the
+effects of drought.
+
+Rainfall
+
+28.5
+
+90
+
+Evapotranspiration
+70
+
+50
+1988
+
+1998
+
+2008
+
+130
+
+28.0
+
+22.00
+
+Southern Sudan region
+
+Air temperature
+
+Air temperature, in degrees Celsius
+
+110
+
+29.0
+Percentage of 1979−88 average
+
+Air temperature
+
+Extended Darfur region
+
+Air temperature, in degrees Celsius
+
+Percentage of 1979−88 average
+
+130
+
+110
+
+Rainfall
+
+21.25
+
+90
+
+Evapotranspiration
+70
+
+50
+1988
+
+1998
+
+2008
+
+20.50
+
+Figure 3. Smoothed time series of June through September rainfall, actual evapotranspiration, and average air temperature for the extended
+Darfur region and the southern Sudan region.
+
+While limitations inherent in the available data and
+models make all the estimates uncertain, both simple
+plots based on available station data (fig. 2) and results
+from sophisticated land-surface models (fig. 3) tell a
+similar story; western and southern Sudan are experiencing substantially warmer and drier weather, and the
+combination of these effects is reducing evapotranspiration and producing more frequent droughts.
+
+Convergence of Evidence
+The results presented here point to a convergence
+of evidence among multiple datasets. The station-based
+analyses of rainfall and temperature show large departures from normal, with both drier and warmer conditions in western and southern Sudan. Further evidence of
+these observed changes comes from nearby southwestern
+Ethiopia. FEWS NET has analyzed observations from
+Ethiopian rain gage stations, and these studies reveal
+similar trends (see section “Objectives and Methods”).
+In addition, the evapotranspiration data come from
+another independent source—land-surface model results
+downloaded from the Global Land Data Assimilation
+System. All results point to substantial recent drying and
+warming.
+
+Some Implications for Food Security and
+Adaptation
+The data shown here depict drying trends in one of
+the world’s most food insecure regions. The extended
+Darfur region and southern Sudan have experienced considerable rainfall declines since the 1960–89 period. The
+dryness in the south is consistent with previous FEWS
+NET studies (see section “Objectives and Methods”)
+identifying large declines in June–September rainfall
+in southern Ethiopia. A -1 standard deviation decline in
+rainfall (close to -20 percent) is sufficient to markedly
+increase the number of expected poor harvests. Increasingly frequent droughts might be offset by improved
+water- and agricultural-management practices, and raising yields in wetter areas may be a more viable option
+than extending agriculture into more marginal areas. In
+both cases, however, rapid population growth may make
+it difficult to slow the process of agricultural extensification into marginal areas.
+Since 1980, decreasing rainfall has been accompanied
+by rapid increases in air temperature on the order of more
+than 1°C. This warming, which is two and a half times
+greater than global warming, is reducing evapotranspiration and making normal years effectively drier, especially
+in the extended Darfur and southern Sudan regions.
+
+Objectives and Methods
+The FEWS NET Informing Climate Change Adaptation series seeks to guide adaptation efforts by providing
+high quality subnational analyses of recently observed
+climate trends. For development and food security decision makers, knowing whether these observed trends are
+
+related to natural climate variations, global warming,
+25°
+30°
+35°
+or some combination of the two is less important than
+knowing now where to focus adaptation efforts.
+Northern
+These FEWS NET reports rely on rigorous analysis
+Red Sea
+20°
+of station data, combined with attribution studies using
+observed climate data. This brief report examines Sudan
+rainfall and temperature trends over the last 110 years
+Khartoum
+North
+Nile
+(1900–2009) using observations from 110 rainfall gages
+Darfur
+and 36 air temperature stations for the main summer
+Kassala
+North
+15°
+rainy period, corresponding to June through September.
+Kordofan
+Al Jazeera
+Gadaref
+The data were quality controlled, converted into 1960–
+White Nile
+2009 trend estimates, and interpolated using a rigorous
+Sennar
+West
+West
+geo-statistical technique (kriging). Kriging produces
+Kordofan
+Blue
+South
+South
+EXPLANATION
+standard error estimates, and these can be used to assess Darfur
+Nile
+Kordofan
+Darfur
+Population
+the relative spatial accuracy of the identified trends.
+10°
+Upper
+Less than 0.5 million
+Nile
+Dividing the trends by the associated errors allows the
+Unity
+Less than 0.9 million
+relative certainty of estimates to be identified (Funk and
+Warrap
+Less than 1.3 million
+West Bahr
+others, 2005; Verdin and others, 2005; Brown and Funk,
+Al
+Jonglei
+Less than 1.7 million
+el Ghazal
+Buhairat
+2008; Funk and Verdin, 2009).
+Greater than 1.7 million
+North Bahr
+The observed warming trends are more likely to
+East
+5° West
+Equatoria
+el Ghazal
+Equatoria
+continue than the rainfall trends. But recent declines in
+rainfall appear linked to a warming of the Indian Ocean
+Central Equatoria
+and, therefore, likely to persist at least for the next
+decade. Readers interested in more information can see
+Figure 4. 2008 census data for Southern Sudan and Landscan 2007
+the reference links below. These publications are availpopulation for Northern Sudanese states (http://www.populationexplorer.com).
+able at http://earlywarning.usgs.gov/adds/reports.php.
+In addition to climate data, FEWS NET analyses also
+Funk, C., Dettinger, M.D., Michaelsen, J.C., Verdin, J.P.,
+integrate demographic, vulnerability, livelihood, and agriBrown, M.E., Barlow, M., and Hoell, A., 2008, Warming of
+cultural information. These information sources allow the
+the Indian Ocean threatens eastern and southern African food
+evaluation of the potential consequences of climate trends
+security but could be mitigated by agricultural development:
+within the broader context of the region’s human geograProceedings of the National Academy of Sciences of the
+phy and food economy. For Sudan, warming and drying
+United States of America, v. 105, no. 32, p. 11,081–11,086.
+in the densely populated area of the country (fig. 4) may
+(Also available online at ftp://chg.geog.ucsb.edu/pub/pubs/
+place large vulnerable populations at risk.
+
+References
+Brown, M.E., and Funk, C.C., 2008, Food security under climate change: Science, v. 319, p. 580–581. (Also available at
+ftp://chg.geog.ucsb.edu/pub/pubs/Science_2008.pdf.)
+
+Famine Early Warning Systems Network, 2010, Food security framework, available at http://www.fews.net/ml/en/info/
+Pages/fmwkfactors.aspx?gb=sd&l=en&loc=2.
+
+Funk, C., Eilerts, G., Davenport, F., and Michaelsen, J., 2010, A
+climate trend analysis of Kenya—August 2010: U.S. Geological Survey Fact Sheet 2010–3074, 4 p. (Also available at
+http://pubs.usgs.gov/fs/2010/3074/pdf/fs2010-3074.pdf.)
+Funk, C., Senay, G., Asfaw, A., Verdin, J., Rowland, J., Korecha, D., Eilerts, G., Michaelsen, J., Amer, S., and Choularton,
+R., 2005, Recent drought tendencies in Ethiopia and equatorial-subtropical eastern Africa: U.S. Agency for International
+Development, Washington, D.C. (Also available online at
+ftp://chg.geog.ucsb.edu/pub/pubs/FEWSNET_2005.pdf.)
+
+PNAS_2008.pdf.)
+Funk, C.C., and Brown, M.E., 2009, Declining global per
+capita agricultural production and warming oceans threaten
+food security: Food Security, v. 1, no. 3, p. 271–289. (Also
+available online at ftp://chg.geog.ucsb.edu/pub/pubs/
+FoodSecurity_2009.pdf.)
+Funk C., and Verdin, J.P., 2009, Real-time decision support
+systems—The famine early warning system network, in
+Gebremichael, M., and Hossain, F., eds., Satellite Rainfall
+Applications for Surface Hydrology: Netherlands, Springer,
+p. 295–320. (Also available online at ftp://chg.geog.ucsb.edu/
+pub/pubs/RealtimeDSS_for_FEWS_NET_final.pdf.)
+Verdin, J.P., Funk, C.C., Senay, G.B., and Choularton, R., 2005,
+Climate science and famine early warning: Philosophical
+Transactions of the Royal Society B—Biological Sciences,
+v. 360, no. 1,463, p. 2,155–2,168. (Also available online at
+ftp://chg.geog.ucsb.edu/pub/pubs/RoyalSociety_2005.pdf.)
+Williams, A.P., and Funk, C.C., 2011, A westward extension of
+the warm pool leads to a westward extension of the Walker
+circulation, drying eastern Africa: Climate Dynamics, in
+press. (Also available online at http://www.springerlink.com/
+content/u0352236x6n868n2/.)
+
+The Climate Change and Conflict Link
+A lively debate exists about the nature and strength of a presumed link between climate change and
+conflict in Sudan. This is especially true about Darfur, where the central role of natural resources in
+a high-profile conflict dynamic are well-established, and climate change is often assumed to be a key
+cause. At the usual national or subnational scale of studies of this climate change and conflict link, the
+debate most often centers on fairly coarse resolution pictures of the livelihoods involved in the conflict
+(pastoralists and farmers) and the specific local expressions of the climate change conceived to be driving the conflict (warmer and drier). Applying coarse, dimensionless patterns of climate stress to a broad
+and overly generalized picture of the human livelihoods may fail to provide a rigorous analytic structure
+to inform the global debate on the threats and impacts of climate change and actionable insights on climate-related adaptive measures that could be useful in conflict-affected areas such as Darfur. In Southern
+Sudan, the conflict seems to become increasingly apparent in Warrap, the Lakes area, and near the border
+between Ironstone and the western flood plains.
+The “upscaled” and nationally-derived climate change information provided here, allied with the
+high-resolution livelihood information already available for Sudan, offers a potentially rich new opportunity. By observing and assessing the actual and expected future interactions of climate change with
+highly resolved pictures of livelihood-related grievances and forces promoting conflict in specific communities, emergent conflict areas may be better identified.
+This report was written by Chris Funk (USGS), Gary Eilerts
+(USAID), Jim Verdin (USGS), Jim Rowland (USGS), and Michael
+Marshall (USGS). It builds on a multi-year research project (see
+references) carried out under a USAID-funded FEWS NET agreement (AFP–P–00–03–00027–00) with USGS. Comments and
+suggestions were kindly provided by Everlyn Muchomba (FEWS
+NET), Abdulrahim Norein (FEWS NET), Laura Harrison (UCSB),
+and Harikishan Jayanthi (UCSB).
+
+Photographs from USAID.
+
+Publishing support provided by the Rolla and Lafayette Publishing Service Centers
+
+

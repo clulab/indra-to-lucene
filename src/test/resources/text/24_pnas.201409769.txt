@@ -1,0 +1,1315 @@
+Systematic review of current efforts to quantify the
+impacts of climate change on undernutrition
+Revati K. Phalkeya,b,1, Clara Aranda-Jana,c, Sabrina Marxd, Bernhard Höfled, and Rainer Sauerborna
+a
+Institute of Public Health, Heidelberg University, D-69120 Heidelberg, Germany; bDivision of Epidemiology and Public Health, Nottingham Medical School,
+City Hospital, NG5 1PB, Nottingham, United Kingdom; cInstitute for Manufacturing, Department of Engineering, University of Cambridge, Cambridge
+CB30FS, United Kingdom; and dInstitute of Geography, Heidelberg University, D-69120 Heidelberg, Germany
+
+Edited by Kristie L. Ebi, University of Washington, Seattle, WA, and accepted by the Editorial Board June 21, 2015 (received for review May 27, 2014)
+
+Malnutrition is a challenge to the health and productivity of populations and is viewed as one of the five largest adverse health
+impacts of climate change. Nonetheless, systematic evidence quantifying these impacts is currently limited. Our aim was to assess the
+scientific evidence base for the impact of climate change on childhood undernutrition (particularly stunting) in subsistence farmers in
+low- and middle-income countries. A systematic review was conducted to identify peer-reviewed and gray full-text documents in
+English with no limits for year of publication or study design. Fifteen
+manuscripts were reviewed. Few studies use primary data to investigate the proportion of stunting that can be attributed to climate/
+weather variability. Although scattered and limited, current evidence
+suggests a significant but variable link between weather variables,
+e.g., rainfall, extreme weather events (floods/droughts), seasonality,
+and temperature, and childhood stunting at the household level
+(12 of 15 studies, 80%). In addition, we note that agricultural, socioeconomic, and demographic factors at the household and individual levels also play substantial roles in mediating the nutritional
+impacts. Comparable interdisciplinary studies based on primary data
+at a household level are urgently required to guide effective adaptation, particularly for rural subsistence farmers. Systemization of
+data collection at the global level is indispensable and urgent. We
+need to assimilate data from long-term, high-quality agricultural,
+environmental, socioeconomic, health, and demographic surveillance systems and develop robust statistical methods to establish
+and validate causal links, quantify impacts, and make reliable
+predictions that can guide evidence-based health interventions
+in the future.
+
+|
+
+|
+
+climate change weather variability malnutrition
+childhood undernutrition crop yield
+
+|
+
+were stunted worldwide. In Africa more than 36% of the children
+under age 5 y are stunted (7). Lloyd et al. predict relative increases
+in severe stunting of 31–55% in West sub-Saharan Africa and 61%
+in South Asia, making it an impending epidemic and therefore a
+critical research priority (8, 9).
+Stunting is a cumulative measure of both acute and chronic
+undernutrition and tends not to vary instantaneously in response
+to acute conditions such as diarrhea and measles, among others.
+However, it is a powerful risk factor for subsequent disease and
+death and is associated with 53% of the infectious diseaserelated deaths in developing countries (10). The risk of dying is
+increased by 1.6-fold [95% confidence interval (CI): 1.3, 2.2] in a
+moderately stunted child and by more than 4.1-fold (95% CI: 2.6,
+6.4) in a severely stunted child (1, 2).
+Stunted children also show poor health, delayed milestone
+achievements, late school enrollment, poor cognitive and psychomotor functioning, decreased fine motor skills, and poor social
+skills (11). Thus stunting affects productivity and may reduce
+lifetime earnings by more than 7% (12). Furthermore, children
+born to malnourished mothers are at risk for fetal growth retardation (13, 14), small-for-age births (15), prematurity, childhood stunting, delivery complications, and increased neonatal and
+postnatal mortality (16, 17). Undernutrition during pregnancy is
+estimated to contribute to 800,000 neonatal deaths annually and
+to cause 20% of stunting in children under age 5 y (13, 17, 18).
+Malnourished children also are at higher risk of adult obesity and
+chronic diseases (13, 14).
+Significance
+
+|
+
+The World Health Organization and the Intergovernmental
+Panel for Climate Change propose undernutrition as the most
+significant impact of climate change on child health. The question then arises: Where does the empirical evidence to back this
+claim come from? Current evidence for the impacts of climate on
+childhood undernutrition draws on a limited number of heterogeneous studies with methodological limitations and is based
+predominantly on secondary data. Establishing and validating
+causal pathways among complex confounding factors remain
+the main challenge in quantifying the climate-attributable fraction of undernutrition. Systematically generating evidence from
+long-term, high-quality primary data on a range of factors (agricultural, environmental, socioeconomic, and health) at the household level is critical for designing adaptation strategies, particularly
+for subsistence farmers.
+
+M
+
+alnutrition is a challenge to the health and productivity of
+populations, particularly in low- and middle-income countries. Over one third of the global annual 6.9 million deaths of
+children under age 5 y were attributable to undernutrition, either
+directly or via their increased susceptibility to succumb to other
+diseases (1, 2). Although the proportion of malnourished children
+has decreased globally, particularly in China and other middleincome countries, progress has been uneven and slow in subSaharan Africa and India. Moreover, there is evidence that climate change will slow this secular decrease, and it is projected
+that a world with a medium-high climate change will have an
+additional 25.2 million malnourished children than would the
+counterfactual world without climate change (Table 1) (3).
+According to the World Health Organization (WHO) (4) and the
+fifth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC, 2014), malnutrition is viewed as one of the
+five largest adverse health impacts of climate change (5, 6).
+Malnutrition refers to both undernutrition (underweight, wasting, and stunting) and overnutrition (overweight and obesity) as
+well as to micronutrient deficiencies that may occur in both groups.
+Our particular concern is stunting (height-for-age being 2 or more
+SD below the international median value in well-nourished children). In 2011, an estimated 165 million children under age 5 y
+
+E4522–E4529 | PNAS | Published online July 27, 2015
+
+Author contributions: R.K.P., S.M., B.H., and R.S. designed research; R.K.P. and C.A.-J.
+performed research; R.K.P., C.A.-J., and R.S. analyzed data; and R.K.P. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission. K.L.E. is a guest editor invited by the Editorial
+Board.
+Freely available online through the PNAS open access option.
+1
+
+To whom correspondence should be addressed. Email: rphalkey@urz.uni-heidelberg.de.
+
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1409769112/-/DCSupplemental.
+
+www.pnas.org/cgi/doi/10.1073/pnas.1409769112
+
+PNAS PLUS
+
+Table 1. Number (in millions) of undernourished children under age 5 y in 2000 and 2050 using the National Center
+for Atmospheric Research climate model and the A2 scenario
+No. of undernourished children under age 5 y, in millions
+
+2000, base climate
+
+Without
+climate change
+
+With climate
+change
+
+Additional no. of
+children undernourished
+because of climate change,
+2000–2050
+
+32.7
+75.6
+23.8
+7.7
+3.5
+4.1
+147.9
+
+41.7
+52.3
+10.1
+5.0
+1.1
+2.7
+113.3
+
+52.2
+59.1
+14.5
+6.4
+2.1
+3.7
+138.5
+
+10.5
+6.8
+4.4
+1.4
+1.0
+1.0
+25.2
+
+2050
+
+Region*
+Sub-Saharan Africa
+South Asia
+East Asia/Pacific
+Latin America & Caribbean
+Middle East/North Africa
+Europe and Central Asia
+Total
+
+It is important to note here that the largest burden of current
+undernutrition is attributed to calorie insufficiency caused by lack
+of food intake (1). Food availability (production and supply, trade,
+and food aid), stability (demand and supply), access (both physical
+and economic access to adequate amounts of nutritious, safe, and
+culturally appropriate foods), and utilization (dietary diversity,
+child-care practices, sanitation, and annual infectious disease episodes) are four essential dimensions of food security (19).
+Changes in weather averages, climate variability, and extreme
+weather events (particularly floods and droughts) determine the
+quantity, quality, and stability of crop yields (20). The steady rise
+in the world population, food wastage, and increasing diversion
+of cereal crops to feed livestock will put an additional strain on
+food systems. Climate change is likely to reduce agricultural production and affect more than 30% of the farmers in developing
+countries that already are food insecure (21). Both Asia and
+Africa are projected to experience continuing decreases in per
+capita food availability from these negative productivity impacts
+(8, 22). Although economic growth may help offset some of these
+pressures, declining per capita harvested area affects per capita
+food production and therefore creates a deficit in per capita calorie availability (hence leading to undernutrition). The impacts
+are borne disproportionately by smallholder subsistence farming
+households, as already noted in parts of Africa (23).
+Climate change will affect the quality of food crops as well as
+their quantity. Recent evidence confirms that elevated atmospheric
+CO2 significantly decreases the concentrations of zinc, iron, and
+proteins in wheat, barley, and rice but not in sorghum (the main
+staple African countries) (24). In countries such as India, where
+legumes rather than animals are the preferred source of protein,
+these changes in the quality of food crops will accelerate the
+largely neglected epidemic of “hidden hunger” or micronutrient
+deficiency (24). Micronutrient deficiencies increase the risk
+of acquiring an infectious disease. In turn these diseases lead
+to or worsen undernutrition, creating an ominous vicious circle.
+Worldwide, more than 13% of lower respiratory tract infections
+(mainly pneumonia and influenza), 10% of malarial infections,
+and 8% of diarrheal infections are attributable to zinc deficiency, and about 27% of preschool children have iron-deficiency
+anemia (25).
+Empirical studies investigating the correlation of all the factors,
+from weather and climate variability to crop yields and undernutrition, are limited. Seasonal (e.g., preharvest and postharvest)
+variations in wasting have been studied widely. However, a majority of the previous studies make only partial assessments. We
+found only two models that covered agroclimatic analysis to
+evaluate effects on childhood malnutrition (9, 26) and one review
+assessing the impacts of climate change on pregnancy outcomes
+Phalkey et al.
+
+(27). Earlier reviews have investigated the impact of agricultural
+interventions or food production and agricultural strategies for
+improving outcomes in children’s nutrition and health (28–30), the
+impact of climate change on disability-adjusted life years (31), the
+impacts of temperature on children’s health (32), the health effects of drought (33), and the effects of climate change on crops
+yields (34).
+The objective of this review is to document systematically the
+available evidence on the association between weather/climate
+variables and undernutrition (particularly stunting) in children
+under age 5 y. The aim is to understand which weather and
+agricultural factors are critical to nutritional outcomes at a
+household level to promote interdisciplinary research based on
+primary data. We wish to emphasize the importance of building a
+long-term and wide-ranging evidence base to inform policy and
+to develop targeted adaptation strategies at a household level in
+areas in which climate changes are likely to impact agricultural
+productivity negatively.
+Materials and Methods
+Search Methods for Identification of Reviews. A literature search was conducted using the databases PubMed, Web of Knowledge, OvidSP, EBSCO
+(CINAHL, Econlit, GreenFile, and MLA international bibliography), and Scirus
+for peer-reviewed articles. Gray literature searches were conducted using
+Eldis, AgSpace, Popline (limited to publications), and Scirus (limiting the
+searches to preferred web), WHOLIS, and AGRIS [the Food and Agriculture
+Organization of the United Nations (FAO) and the International Food Policy
+Research Institute (IFPRI)].
+The key search terms used in combinations were “climate variability”
+(weather, climate), “crop yields” (agriculture*output), “malnutrition”
+(malnutrition; undernutrition; undernourishment; nutrition disorder; wasting; stunting, malnutrition-related deaths; growth and development; intrauterine growth-IUG; and fetal growth retardation-FGR). The search
+strategy was specific to each database. Terms within one concept were
+combined using the Boolean operator OR, and combinations between concepts used the logical AND. For peer-reviewed journal databases, these
+terms were searched as MESH terms in PubMed, topic field in Web of
+Knowledge, subject field in EBSCO, keyword in Scirus, and abstract, title, full
+text, and caption text in OvidSP. Gray literature searches were conducted in
+all databases of the Eldis. In Popline and Scirus, keyword and free-text
+searches were done using combinations, and searches were limited to
+publications in Popline and to the “preferred web” option in Scirus. Terms
+were chosen according to the specialization of each organization (e.g., undernutrition for WHO and crops and agriculture for FAO and IFPRI). Two
+researchers (R.K.P. and C.A.-J.) independently conducted the database
+searches in July and August, 2013, with an additional update of the literature in March 2014 (Fig. 1).
+Inclusion and Exclusion Criteria. Inclusion criteria were set at peer-reviewed
+and gray full-text manuscripts in English with no limits for year of publication
+or study design. Studies that explicitly made a link between climate/weather
+
+PNAS | Published online July 27, 2015 | E4523
+
+SUSTAINABILITY
+SCIENCE
+
+Modified from ref. 3.
+*Developing countries only.
+
+Peer reviewed literature
+
+Pubmed
+
+Ebsco
+
+Scopus
+
+506
+
+108
+
+79
+
+Total hits:
+1900
+
+51
+
+22
+
+24
+
+Selected
+based on
+tle: 292
+
+WoK
+
+Embase
+
+507
+
+173
+
+55
+
+37
+
+1608 based on
+inclusion/exclu
+sion (I/E)
+criteria
+
+59 duplicates
+deleted
+Abstracts to
+be
+reviewed:
+233
+
+Gray literature
+
+Eldis
+
+Popline
+
+IFPRI
+
+WHOLIS
+
+123
+
+60
+
+9
+
+240
+
+54
+
+20
+
+7
+
+9
+
+Agris
+
+19
+
+3
+
+AgSpace
+
+61
+
+2
+
+Scirus
+
+81 selected
+for full-text
+review
+
+14
+15 included
+studies
+
+7
+
+13 peerreviewed
+arcles
+Fig. 1.
+
+66 excluded
+based on I/E
+criteria
+
+2 gray
+literature
+
+Decision tree for article exclusion/inclusion.
+
+variables and undernutrition (with a focus on stunting, i.e., low heightfor-age) in children under age 5 y, that were conducted in low- and
+middle-income countries as defined by the World Bank (with no limitation of geographic location), and that investigated these impacts in rural
+smallholder subsistence farmers were included. Studies that focused exclusively on wasting or undernutrition and did not include stunting were
+excluded because of greater seasonal variations. Commentaries, editorial
+notes, and opinion articles were excluded. Manuscripts that projected
+future impacts were excluded from main review but were included as
+supporting studies.
+Data Extraction and Synthesis of Findings. The PRISMA Statement checklist for
+systematic reviews was referred for the review process (35). Search results
+were merged, and duplicates were removed automatically, with a manual
+second revision. At first stage, title and abstracts were screened. Studies for
+which inclusion was uncertain were left for full-text review (Fig. 1). All 81
+selected articles were reviewed full-text, data were extracted manually, and
+information was documented in a matrix by both reviewers (C.A.-J. and R.K.P.)
+independently. Disagreements were resolved with mutual consent.
+Data variables included nutritional status [Z scores for height/length-forage (HAZ), weight-for-age (WAZ), weight-for-height/length (WHZ), birth
+weight, fetal growth restriction, and small-for-age]; weather/climate/seasonal factors (temperature, rainfall/precipitation, extreme weather events,
+seasonality, and elevation/altitude); agricultural factors (farm size, irrigation,
+agricultural expenditure, labor, herbicide/insecticide and equipment); crop
+factors (crop type, crop yield, crop failure, and crop price); household demographic and socioeconomic factors (household size, composition, food
+consumption pattern, income, water and sanitation, aggregate income, expenditure, livelihood pattern, off-farm income, livestock rearing, and maternal
+education, among others); and individual factors (sex, age, morbidity, and diet).
+In addition the most significantly associated variables in each study were
+recorded to assess frequencies.
+
+E4524 | www.pnas.org/cgi/doi/10.1073/pnas.1409769112
+
+152 abstracts
+excluded
+based on I/E
+criteria
+
+Results
+The review yielded a total of 15 studies (two gray literature and
+13 published documents). Experiences from 16 countries (Eritrea, Southern Sudan, Bangladesh, Ethiopia, India, Kenya, Mali,
+Mexico, Nepal, Papua New Guinea, Rwanda, Somalia, Swaziland, Tanzania, Uganda, and Zimbabwe), mainly in the WHOAfrican region, were documented (Table 2). Two studies presented multicountry experiences (36, 37). The studies were
+conducted between 1973 and 2008, with the majority covering
+the period 1998–2006. Four additional studies (38–41) examined
+the link between agricultural variables such as crop yields and
+undernutrition without explicit assessments of weather variables
+and therefore are included in the supporting text but not in
+the tables.
+The sample size and the age grouping of children under age
+5 y in each study varied greatly and ranged from 41 to more than
+18,000 and from age 0 to 66 mo, respectively. A majority of the
+studies used secondary data, and only five studies (33%) presented primary data analysis. The main findings from each study
+are summarized in Tables S1 and S2. Weather/climate variables
+were found to be significantly associated with nutritional outcome (particularly stunting) in a majority of studies (12 studies,
+80%) followed by individual demographic variables (11 studies,
+73%), household socioeconomic variables (eight studies, 53%),
+and crop variables (six studies, 40%).
+Because of the differences in the objectives and designs of the
+studies included in the review, it was difficult to summarize the
+findings. We therefore describe the results in four subsections organized along the impacts of climate/weather variables,
+Phalkey et al.
+
+PNAS PLUS
+
+Table 2. Overview of the studies included in the review and summary of the main findings
+Significant association
+
+Author
+
+Year of
+publication
+
+Study
+period
+
+1
+2
+3
+
+Akresh
+Alderman
+Chotard
+
+2006
+2010
+2010
+
+1991–1992
+NA
+2000–2006
+
+4
+5
+6
+7
+8
+
+Grace
+Huss-Ashmore
+Jankowska
+Kigutha
+Mueller
+
+2012
+1994
+2012
+1995
+1999
+
+9
+
+Mueller
+
+2001
+
+10
+Panter-Brick
+11 Rodriguez-Llanes
+12
+Skoufias
+13
+Stewart
+14
+Woldehana
+15
+Yamano
+
+1997
+2011
+2012
+1989
+2010
+2005
+
+Sample Age Geographic
+size
+in mo
+focus
+
+473
+0–59
+Rwanda
+NA
+0–59
+Multiple*
+879
+12–59 Multiple†
+surveys
+1998–2008 2,255
+0–59
+Kenya
+1985–87
+75
+0–59 Swaziland
+2006
+14,238 0–59
+Mali
+1992–1993
+41
+18–36
+Kenya
+1982–83
+15,975 0–59 Papua New
+Guinea
+1982–83
+18,868 0–59 Papua New
+Guinea
+1982
+71
+0–49
+Nepal
+2008
+252
+6–59
+India
+1999
+1,530 12–47
+Mexico
+1988–1989
+281
+6–35 Bangladesh
+2002, 2006 1,860 54–66
+Ethiopia
+1995–96
+1,083 6–24,
+Ethiopia
+1,006 25–60
+
+Total
+Percent of 15 studies
+
+Data
+source
+Secondary
+Secondary
+Secondary
+Secondary
+Primary
+Secondary
+Primary
+Secondary
+
+SE
+Agricultural
+Crop
+Weather variables Demographic
+variables
+variables variables livelihoods
+variables
+Morbidity Diet
+✔
+
+✔
+
+✔
+✔
+
+✔
+
+✔
+✔
+✔
+
+✔
+
+✔
+
+✔
+✔
+✔
+
+✔
+✔
+✔
+
+✔
+✔
+
+✔
+
+✔
+✔
+
+Secondary
+
+✔
+
+Primary
+Primary
+Secondary
+Primary
+Secondary
+Secondary
+
+✔
+✔
+✔
+
+5 Primary
+33
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+✔
+✔
+
+5
+33
+
+6
+40
+
+12
+80
+
+✔
+
+✔
+✔
+
+✔
+
+✔
+✔
+✔
+
+8
+53
+
+✔
+✔
+✔
+
+✔
+✔
+✔
+✔
+✔
+✔
+
+✔
+✔
+✔
+
+11
+73
+
+5
+33
+
+✔
+
+5
+33
+
+agricultural variables, household socioeconomic and demographic factors, and individual demographic and health factors on
+childhood undernutrition.
+Weather and Climate Variables. Eight of the studies (53%) investigated the impact of rainfall (level, pattern, and variability)
+on undernutrition, and all reported significant associations. It
+generally was agreed that variations in the rainfall explain crop
+failures, which in turn affect nutrition. Children born in Rwanda
+in years with large positive rainfall shocks (increase in rainfall)
+showed 0.427 SD higher (P < 0.01) HAZ, and those born in years
+with normal rainfall exhibited 0.272 SD higher HAZ (P < 0.05)
+compared with those born in years with large negative rainfall
+shocks (decrease in rainfall) (42). Grace et al. (26) confirm this
+result in Kenya (SD = 0.0007, P < 0.1) but additionally report
+that the variations in rainfall and temperature, as well as temperature alone, had statistically insignificant impacts on stunting.
+Skoufias et al. (43) observed that negative rainfall shocks generally were associated with taller children if the shock occurred
+in the previous year’s wet season (0.7 points higher, for the
+central region of the country) or in the dry season 2 y prior (0.54
+points taller, for the Pacific, Gulf, and Caribbean region), thus
+indicating regional differences. Huss-Ashmore et al. (44) also
+found a positive correlation between the average rainfall and
+stunting (R2 = 0.155) but noted that the effect operates through
+a set of demographic and economic variables.
+About half of the studies (eight studies, 53%) investigated the
+impact of extreme weather events (droughts in four studies and
+floods in four studies) on children’s nutritional status, and all
+reported a significant association. Exposure to extreme events
+(flood or drought) at an early age (36, 45), for a longer duration
+of time (37), and more frequently (46) was considered particularly damaging. Alderman et al. (36) noted that exposure to
+drought in the first 5 y of life may contribute to a decline in mean
+height of 1% of the median reference in Tanzania. Woldehanna
+et al. (11) also found that prenatal exposure to drought had a
+significant and negative effect on stunting, particularly in rural
+areas (−0.200, P < 0.01) in Ethiopia, indicating regional variaPhalkey et al.
+
+tions in the effect. Children in flooded households in India were
+most likely to be stunted and underweight but not wasted (45).
+Early exposure also was rated as a higher risk. In contrast, Stewart
+et al. (47) did not observe a significant difference in the anthropometric measurements of children from inside or outside the
+embankment for the degree of flood damage in Bangladesh, even
+in the postharvest season. They report that other factors such as
+landlessness and maternal education were significantly associated
+with anthropometry.
+The seasonality of rainfall was discussed in six of the 15
+studies. It was highly significant for wasting in 0- to 35-mo-old
+children (P < 0.02 to P < 0.03) and for stunting in 12- to 23-moold children (P < 0.03) and 24- to 35-mo-old-children (P <
+0.0001) in Nepal (48). Similar observations were reported from
+Papua New Guinea (49), Mexico (43), and the Greater Horn of
+Africa (37). Mueller et al. (46) observed high seasonality of
+rainfall [odds ratio (OR) = 1.35; 95% CI: 1.14, 1.60] as a significant factor for stunting and high rain deficit (OR = 1.70; 95%
+CI: 1.31, 2.20) and regular inundation (OR = 1.41; 95% CI: 1.14,
+1.73) as significant factors for wasting in Papua New Guinea,
+thus indicating that weather variables have different impacts on
+the different nutritional parameters.
+On the other hand, Wright et al. (50) did not observe seasonality as a determinant of underweight children in Zimbabwe.
+They instead noted geographic factors, diarrhea, poor household
+food access, and increased workload for women during the
+weeding and harvest seasons as the main contributors.
+Three of the 15 studies investigated the impacts of temperature on children’s nutrition. Skoufias et al. (43) assessed the
+growing degree days (GDD) for crops instead of the ambient
+temperature and observed that positive GDD (8 °C to 32 °C)
+during previous wet season or in the 2 y before the survey had
+insignificant impacts on children’s nutrition status. Negative
+GDD shocks during the previous dry season were positively
+correlated with the prevalence of stunting, particularly in the
+central region and at high altitudes. Although the authors were
+uncertain if the pathway of the effect was through crop yields or
+disease and illness, their findings indicated that the time of the
+PNAS | Published online July 27, 2015 | E4525
+
+SUSTAINABILITY
+SCIENCE
+
+*Ethiopia, Zimbabwe, Tanzania.
+†
+Eritrea, Ethiopia, Kenya, Somalia, Southern Sudan, and Uganda.
+
+weather shock, the geographic region, and the altitude were
+important determinants in addition to the amount of rainfall
+and temperature.
+Seven of the 15 studies investigated the impact of elevation/
+altitude or relief. Both high altitude and relief were significant
+for stunting as well as for wasting and underweight in Papua New
+Guinea (46, 49). However, Skoufias et al. (43) report region and
+altitude as significant only for stunting in Mexico.
+Agricultural and Crop Variables. Agricultural variables mainly included cultivated land area and were reported in five of the 15
+studies (33%) and in three of the four supporting studies. Although farm size <2 ha was found to be a significant factor in El
+Salvador (38), it was reported as insignificant in Rwanda (42).
+Three studies reported that landlessness, damaged plot size, the
+distribution of available plot size for crops, and the number of
+livestock played more significant roles than the farm size itself
+(12, 41, 47). In Malawi, the effects of the size of cultivated land
+area varied across regions (P = 0.083). The size of cultivated area
+(<0.7 ha) was positively significant for HAZ for children aged
+24–59 mo (mean: −2.38, P > 0.01) but not for children aged 6–23
+mo (P = 0.329) (40).
+Crop yields are a function of the plot size, among other factors. Six of the 15 studies (40%) and one of the four supporting
+studies mentioned crop failure/damage or crop yield/productivity
+as a significant variable in addition to climate variables. Most
+crop damages were caused by droughts or insect attacks and crop
+diseases (12). In Ethiopia, postnatal exposure to a crop failure
+shock was significantly negatively associated with childhood
+stunting (11), and a 10% point increase in the proportion of
+damaged plot area corresponded to a reduction in child growth
+by 0.12 cm (1.8%) over a 6-month period (12). In Rwanda,
+children in households that experienced positive production
+shocks at the time of birth had better HAZ (P < 0.01) (42). On
+the other hand no correlation was found between household
+crop yields and undernutrition in Northern Laos (39) and Bangladesh (47). Kigutha et al. (51) also did not observe significant
+fluctuations in weight or height between lean and postharvest
+seasons and attributed improved postharvest WAZ to the type of
+food consumed. The type of crop grown and the variety in crop
+rotations also were reported as important determinants of the
+impacts of crop yields on undernutrition in El Salvador (49) and
+Papua New Guinea (38).
+Household Socioeconomic and Demographic Factors. Household size
+(51) and composition (11), especially the number of children
+under age 5 y (38, 44), were among the most important household parameters discussed in addition to the weather parameters. Mueller et al. (46) reported that in Papua New Guinea none
+of the environmental or agricultural factors were significant
+predictors of underweight children, and the socioeconomic status
+was the most important factor determining children’s growth
+(49). In contrast, no association was noted between household
+variables and children’s weight in Swaziland (44).
+In addition to weather variables, livelihood patterns were
+discussed in five of the 15 studies and in two of the supporting
+studies as most important household socioeconomic variables.
+Six of these seven studies found a significant association. For all
+countries combined in the Greater Horn of Africa, Chotard et al.
+(37) observed that the prevalence of childhood wasting was dependent on the livelihood pattern and was 6.7 percentage points
+higher in pastoral groups than in agriculturalists. In Kenya, the
+prevalence of stunting varied according to the dominant livelihood strategy and was highest in mixed farming zones (26). In
+Mali, high prevalence of stunting (particularly in rural areas),
+underweight, and anemia were predicted in children from households
+with agricultural, agropastoral, and pastoral livelihood patterns
+and in children living in arid and semiarid climatic conditions
+E4526 | www.pnas.org/cgi/doi/10.1073/pnas.1409769112
+
+(52). Similar findings were reported from Brazil, where landowners’ children showed better nutritional status than sharecroppers’ and laborers’ children (41).
+Four (26, 38, 39, 47) of the nine studies (7 of the 15 studies and
+two supporting studies) that assessed the association between
+maternal education and childhood undernutrition reported a significant association. Similarly, two (26, 38) of the four studies that
+assessed the association between undernutrition and the source of
+water (a strong socioeconomic indicator) reported a significant
+association. Further, although most studies focused on rural
+households (inclusion criteria), five studies investigated the discrepancies between urban and rural. Three of them (11, 48, 52)
+suggested higher prevalence of weather-related undernutrition in
+the rural areas, one suggested no difference (26), and one noted
+urban areas to be at a higher risk (37).
+Individual Demographic and Health Factors. After climate and
+weather variables, individual factors were the most frequently
+reported factors and were discussed in 11 (73%) of the 15 studies
+and in all four supporting studies. Age, sex, morbidity status, and
+diet were the most commonly assessed individual-level variables.
+Eight of the 15 studies and three of the four supporting studies
+reported age as a risk factor. Younger children were considered
+at a lower risk for all three parameters of undernutrition in
+studies from the Greater Horn of Africa (37), Northern Laos
+(39), and El Salvador (38) but were at lower risk only for stunting
+in Malawi (40). However, they were reported to be at a higher
+risk for stunting in a study from Swaziland (44). Six studies
+identified specific age groups as vulnerable: 3–18 mo in Nepal
+(48), 26–36 mo in India (5), 12–36 mo in Bangladesh (47), 6–24
+mo (12) in Ethiopia (11), and 23 mo and older in Mexico (43).
+Brentlinger et al. (38) reported that the risk of undernutrition
+varied by type and was higher for stunting in the children aged
+36–60 mo, for wasting in those aged 12–24 mo, and for underweight in children older than 48 mo.
+Five of the 15 studies and two of the four supporting studies
+mentioned sex as a vulnerability. However, the results are mixed.
+Although female children were worse off in studies reported
+from Rwanda (42), Bangladesh (47), and Malawi (40), male
+children were at a higher risk in Kenya (26, 51) and El Salvador
+(38). In Mexico, Skoufias et al. (43) report that the male children
+tended to be shorter but only when exposed to a warmer prior
+wet season and who lived at a higher altitude.
+All six studies (33.3%) assessing the impact of morbidity (43,
+46–48, 50, 51) and the five studies assessing the impact of dietary
+factors (37, 46, 48, 49, 51) reported significant associations with
+undernutrition. Three studies (46, 48, 52) made a reference to
+concurrent micronutrient deficiencies, and all three associated
+these deficiencies with the composition of the diet and the seasonality of nutrient availability. Malaria, diarrhea, and acute respiratory infections were the most commonly discussed disease
+conditions that, along with dietary composition, nutritional quality, and traditional consumption patterns, were factors contributing to undernutrition in children.
+
+Discussion
+The UNICEF framework describes a causal chain of factors that
+determine childhood malnutrition running from basic factors
+(quantity, quality, and control of human/economic/organizational
+resources) to underlying factors (insufficient access, inadequate
+child care practices, poor sanitation, inadequate health services,
+and so forth) and to immediate factors (inadequate dietary intake
+and disease) (53). Results of the review confirm that undernutrition
+results from a combination of closely linked, interdependent,
+complex agricultural, environmental, socioeconomic, demographic,
+and health factors at the community, household, and individual
+levels (Fig. 2). We note that a large proportion of the mediating
+factors are climate/weather sensitive.
+Phalkey et al.
+
+PNAS PLUS
+
+average
+temperature &
+weather
+variability
+air
+humidity
+
+Greenhouse gas
+emissions (GHG)
+
+precipitation
+level
+
+Climate/
+weather
+precipitation
+index
+
+soil
+moisture
+fertilizer
+
+evapotranspiration
+rate
+evaporation
+rate
+soil
+quality
+
+infectious
+diseases
+
+Food crop
+yields
+
+food prices
+
+labor capacity
+
+household
+income
+
+food
+affordability
+
+health care
+
+utilization
+rate
+household
+access to
+food
+
+rate of child
+malnutrition
+
+per capita food
+availability
+consumption &
+utilization
+
+Child
+undernutrion
+
+rate of malnutritionrelated child mortality
+
+children's‘ quality
+of life
+mothers‘ quality
+of life
+
+malnourished
+mothers
+rate of maternal
+rate of malnutritionmalnutrition
+related maternal
+mortality
+
+Climate/weather variables and individual vulnerabilities emerged
+as the factors most frequently associated with anthropometric
+measures (particularly stunting) in the children under age 5 y.
+Existing studies report that household variables have a stronger
+relationship to undernutrition than environmental variables
+(54, 55). However, this review suggests that climate and weather
+variables play an equally significant role in determining childhood
+undernutrition.
+More than 80% of the 15 studies included in the review identified one or more climate/weather variables as being significantly
+associated with anthropometry. Although rainfall, rather than its
+variance or temperature alone, emerged as a commonly discussed factor, the evidence is mixed and inadequate for drawing
+meaningful conclusions.
+Crop yields determine the quantity and the nutritional quality of
+food. Agricultural variables such as plot size, access to equipment
+and fertilizers, and crop type and variety have been reported as
+indirect determining factors for crop yields (56). However, neither
+plot size nor crop yields was associated with anthropometry in a
+consistent way in the identified studies. Although the reasons are
+unclear, nonfarm income and the nutritional composition of the
+food consumed may offer some explanations (57).
+Weather variables are significant direct determinants of crop
+yields, especially in rainfed farming systems. More than 80% of
+agriculture globally and close to 95% of agriculture in Africa is
+rainfed (58). Less than a fifth of the cropped agricultural land in
+Africa is irrigated. This dependence on rainfall puts smallholder
+subsistence farmers, and especially the children in these households, at alarming risks from impacts of climate change on crop
+yields and hence on calorie availability. Securing agricultural
+productivity through reliable early warning systems for crop
+failure may help subsistence farmers offset some of these impacts
+and therefore should be explored (36).
+In addition to changes in the weather, climate change is expected
+to increase both the intensity and frequency of extreme weather
+events (6). Needless to say the most vulnerable populations in the
+world will be disproportionately affected. The impacts of floods
+and droughts on acute malnutrition (mediated through crop
+damage or disease) have been well documented in earlier studies.
+This review identifies the impact of floods on stunting (mediated
+indirectly through loss of livelihood, access to food, and other
+factors) in addition to their direct impacts on wasting and underweight (42, 45) and highlights the need to consider stunting in
+Phalkey et al.
+
+the planning of acute flood relief programs. Addressing chronic
+malnutrition in the development agendas aimed at both climate
+change and disaster management is also recommended (11).
+We observe that in general a majority of the impacts outlined
+in the identified studies were a function of geographic location,
+individual factors (such as sex, age, and disease), the anthropometric measure in question, the intensity, time, and duration of
+exposure, and household socioeconomic status, among other
+environmental factors. All these factors lead to complex but
+context-specific individualized impacts. Their consideration is an
+essential component for designing future studies.
+Methodological Limitations Identified and Implications for Future
+Research. We identified several problems with the documenta-
+
+tion of current evidence for the impacts of climate change on
+childhood undernutrition. The foremost is the dearth of holistic
+studies in the area, even though malnutrition is projected as
+being one of the most significant impacts of climate change on
+child health. All studies investigated only a part of the spectrum,
+or, rather, the jig-saw puzzle, of the variables that determine
+childhood undernutrition within the context of climate change
+(Fig. 2). Most studies accounted for changes in average weather
+conditions, and the role of acute, short-duration weather shocks
+in reversible stunting is inadequately investigated.
+The review remains statistically inconclusive on a range of
+observations, not only because of the complexity of the issue but
+also because of the shortage of appropriate studies and the
+mixed and inconsistent observations reported. Most of the
+studies lacked the necessary methodological rigor, did not follow
+uniform methods, and were of varying sample sizes, thus rendering the evidence difficult to summarize, patchy, and incomplete and making any comparisons unrealistic. Ten of the 15
+studies reported analyses from secondary data not collected with
+the intention of testing the association between climate/weather
+variables and undernutrition. All primary data reported (five
+studies) were obtained from cross-sectional studies that are inherently incapable of establishing causality. Furthermore, data
+reported in a majority of the studies were old (1986–2008) and did
+not cover time periods adequate for assessing the impacts of climate change. None provided sufficiently significant evidence on a
+wide range of parameters. The lack of robust evidence does not
+substantiate the absence of a correlation between climate/weather
+variables (other than those mediated through crop yields)
+PNAS | Published online July 27, 2015 | E4527
+
+SUSTAINABILITY
+SCIENCE
+
+Fig. 2. Complex pathways from climate/weather variability to undernutrition in subsistence farming households. The factors involved in and the probable
+impacts of weather variables on crop yields (blue arrows) and of food crop yields on undernutrition (red arrows).
+
+and childhood undernutrition. Therefore, the existing studies have
+value in identifying the issues qualitatively, but their results should
+be interpreted contextually.
+The review identified several significant gaps in research. Although a majority of the studies acknowledge the complexity of
+the pathways between climate/weather and undernutrition as
+mediated by several confounders, none attempts a comprehensive assessment, most probably because of the unavailability of
+reliable, concurrent data on the entire/exhaustive range of factors (environmental, agricultural, health, demographic, and socioeconomic) that would allow adjusting for confounders.
+Only three studies investigated micronutrient deficiencies, even
+though climate change also will affect the nutrient content of food
+grains. In addition, few studies investigate urban food security with
+respect to climate change. Urban poor are net food buyers, and
+therefore affordability and access become the main concerns (59).
+These factors are governed by global factors such as production,
+distribution, storage, and consumption in addition to pricing
+strategies. Steep social gradients in urban areas create a different
+level of complexity. To capture the complete spectrum of the
+impacts of climate change on childhood undernutrition, both
+these areas require further research.
+The review confirms that effective adaptation will require
+systematic assimilation of strong underpinning evidence at a
+household level but generated globally over time and focused
+particularly on the least adapted and most vulnerable small-scale
+subsistence farmers. We recommend that future assessments
+should address a range of factors such as rainfall (amount, seasonality, and variance), temperature, extreme weather events,
+and elevation/altitude. Preferably, the investigations should account for all nutritional parameters (including micronutrient
+deficiencies), given that the mortality risk is increased more than
+ninefold in severely underweight or wasted children and in those
+stunted (1). Multicenter studies covering geographically distinct
+areas, although resource intensive, would be ideal. Alternately,
+uniformly designed individual studies that maintain a focus at the
+micro level but allow meta-analysis could prove useful also.
+Long-term, high-quality data from health and demographic surveillance systems, high-resolution spatial data systems, and environmental monitoring systems will allow us to establish and validate
+the links and will help quantify effectively the impacts of climate
+change on childhood nutrition. These data are indispensable for
+effective early warning systems and future predictions at the
+household levels but currently are unavailable at a majority of the
+locations. Meanwhile, where available, data should be assimilated
+from individual systems for sufficient time spans (a minimum of
+10 y). Additionally, it may become necessary to implement
+novel applications of existing statistical approaches and to develop new ones. Existing Health and Demographic Surveillance
+Systems such as those within the INDEPTH Network (www.
+indepth-network.org/) (60) offer a reliable starting point for
+investigations of this complex nature and should be explored.
+
+lection bias. Because of the lack of clarity in the studies’ definitions of climate and weather variability/change, some of the
+impacts may remain under- or overreported. Caution is needed
+in interpreting these results, because the studies included predominantly secondary data from national surveys collected for
+other objectives. We excluded studies with an exclusive focus on
+micronutrient deficiencies (e.g., anemia) and acute undernutrition
+(wasting or underweight), because these parameters show a
+stronger seasonal component. We also did not include studies
+investigating the impacts of climate change on undernutrition
+among the urban poor (net buyers). This exclusion may have led
+to a selection bias and therefore an underestimation of the overall
+climate-related impact on childhood undernutrition. We included
+documents from both peer-reviewed and gray literature, and the
+overall conclusions from the review suggest similar findings across
+the identified studies. Therefore, we believe the review is valuable
+in corroborating preliminary evidence.
+Conclusions
+Assessing the pathways through which climate change impacts
+undernutrition is, without doubt, a complex and daunting challenge but is one that must be addressed. The impact of climate/
+weather variability on crop yields has been documented and
+widely acknowledged, as have the direct impacts of crop yields on
+childhood undernutrition, especially acute undernutrition. Current evidence, although limited, does suggest a strong link between weather variables and childhood stunting. However, very
+few studies based on primary data investigate the proportion of
+the total number of stunted children that can be attributed to
+climate/weather variability. Further, few studies attempt to investigate the proportion of morbidity and mortality in children
+under age 5 y that is directly or indirectly attributable to undernutrition at a household level, probably because of the complexities of sociodemographic and economic factors and, more
+importantly, because long-term, reliable data are not available.
+The main challenge to date remains establishing the causality of
+an association. Existing methods for analysis may require reviewing. Although both the WHO and the IPCC report malnutrition as
+the most significant impact of climate change on health, current
+evidence in the field is inconsistent, addresses a limited set of
+variables, and therefore is inadequate.
+In the presence of limited comprehensive empirical evidence at
+the household level, current adaptation strategies lack the necessary
+precision. Understanding and quantifying associations between climate variability, crop yields, and childhood undernutrition, ideally
+at both the macro and the micro levels, is necessary. Documenting
+these associations systematically over the next years, even “with
+associated uncertainties,” may help generate more realistic estimates for the future and therefore should be done.
+
+Limitations of the Study. The inclusion of only documents in the
+English language in the review may have led to a degree of se-
+
+ACKNOWLEDGMENTS. We thank Mr. D. Fleischer and Ms. A. Stegner at the
+library of Heidelberg University for help in obtaining relevant documents,
+especially those without open access. This research was funded by the
+Heidelberg Center for the Environment of Heidelberg University.
+
+1. Black RE, et al.; Maternal and Child Undernutrition Study Group (2008) Maternal and
+child undernutrition: Global and regional exposures and health consequences. Lancet
+371(9608):243–260.
+2. Caulfield LE, de Onis M, Blössner M, Black RE (2004) Undernutrition as an underlying
+cause of child deaths associated with diarrhea, pneumonia, malaria, and measles. Am
+J Clin Nutr 80(1):193–198.
+3. Nelson GC, et al. (2009) Climate Change: Impact on Agriculture and Costs of Adaptation (International Food Policy Research Institute, Washington, DC), pp 1–30.
+4. Campbell-Lendrum D, Corvalan CF, Prüss-Ustün A (2003) How Much Disease Could
+Climate Change Cause? Quantifying Climate Change Impacts, ed McMichael AJ (The
+World Health Organization, Geneva), pp 133–158.
+5. Intergovernmental Panel on Climate Change (2007) Glossary of Terms Used in the
+IPCC Fourth Assessment Report (Cambridge University Press, Cambridge, UK), pp
+871–872.
+
+6. IPCC (2012) Summary for policymakers. Managing the Risks of Extreme Events and
+Disasters to Advance Climate Change Adaptation, A Special Report of Working
+Groups I and II of the Intergovernmental Panel on Climate Change, eds Field CB, et al.
+(Cambridge University Press, Cambridge, UK), pp 1–19.
+7. UNICEF (2012) UNICEF-WHO-World Bank Joint Child Malnutrition Estimates Available at www.who.int/nutgrowthdb/jme_unicef_who_wb.pdf. Accessed March 30,
+2013.
+8. Nelson GC, et al. (2010) Food Security, Farming, and Climate Change to 2050: Scenarios,
+Results, Policy Options (International Food Policy Research Institute, Washington, DC).
+9. Lloyd SJ, Kovats RS, Chalabi Z (2011) Climate change, crop yields, and undernutrition:
+Development of a model to quantify the impact of climate scenarios on child undernutrition. Environ Health Perspect 119(12):1817–1823.
+10. Schaible UE, Kaufmann SH (2007) Malnutrition and infection: Complex mechanisms
+and global impacts. PLoS Med 4(5):e115.
+
+E4528 | www.pnas.org/cgi/doi/10.1073/pnas.1409769112
+
+Phalkey et al.
+
+Phalkey et al.
+
+PNAS | Published online July 27, 2015 | E4529
+
+PNAS PLUS
+
+36. Alderman H (2010) Safety nets can help address the risks to nutrition from increasing
+climate variability. J Nutr 140(1):148S–152S.
+37. Chotard S, Mason JB, Oliphant NP, Mebrahtu S, Hailey P (2010) Fluctuations in
+wasting in vulnerable child populations in the Greater Horn of Africa. Food Nutr Bull
+31(3, Suppl):S219–S233.
+38. Brentlinger PE, Hernán MA, Hernández-Díaz S, Azaroff LS, McCall M (1999) Childhood
+malnutrition and postwar reconstruction in rural El Salvador: A community-based
+survey. JAMA 281(2):184–190.
+39. Kaufmann S (2008) The Nutrition Situation in Northern Laos-Determinants of Malnutrition and Changes After Four Years of Intensive Interventions. PhD thesis (Justus
+Liebig University Giessen, Giessen, Germany).
+40. Pelletier DL, Msukwa LA (1991) The use of national sample surveys for nutritional
+surveillance: Lessons from Malawi’s National Sample Survey of Agriculture. Soc Sci
+Med 32(8):887–898.
+41. Victora CG, Vaughan JP (1985) Land tenure patterns and child health in southern
+Brazil: The relationship between agricultural production, malnutrition and child
+mortality. Int J Health Serv 15(2):253–274.
+42. Akresh R, Verwimp P, Bundervoet T (2006) Civil War, Crop Failure and Child Stunting
+in Rwanda. Post-Conflict Transitions Working Paper 12 (University of Illinois, UrbanaChampaign, IL), pp 1–32.
+43. Skoufias E, Vinha K (2012) Climate variability and child height in rural Mexico. Econ
+Hum Biol 10(1):54–73.
+44. Huss-Ashmore R, Curry J (1994) Diet, nutrition, and agricultural development in
+Swaziland: Household economics and demography. Ecol Food Nutr 33:107–121.
+45. Rodriguez-Llanes JM, Ranjan-Dash S, Degomme O, Mukhopadhyay A, Guha-Sapir D
+(2011) Child malnutrition and recurrent flooding in rural eastern India: A communitybased survey. BMJ Open 1(2):e000109.
+46. Mueller I, Smith TA (1999) Patterns of child growth in Papua New Guinea and their
+relation to environmental, dietary and socioeconomic factors–further analyses of the
+1982-1983 Papua New Guinea National Nutrition Survey. P N G Med J 42(3-4):94–113.
+47. Stewart MK, et al. (1990) Post-flood nutritional anthropometry of children in Matlab,
+Bangladesh. Ecol Food Nutr 24:121–131.
+48. Panter-Brick C (1997) Seasonal growth patterns in rural Nepali children. Ann Hum Biol
+24(1):1–18.
+49. Mueller I, Vounatsou P, Allen BJ, Smith T (2001) Spatial patterns of child growth in
+Papua New Guinea and their relation to environment, diet, socio-economic status and
+subsistence activities. Ann Hum Biol 28(3):263–280.
+50. Wright J, et al. (2001) Seasonal aspects of weight-for-age in young children in Zimbabwe. Public Health Nutr 4(3):757–764.
+51. Kigutha HN, van Staveren WA, Veerman W, Hautvast JG (1995) Child malnutrition in
+poor smallholder households in rural Kenya: An in-depth situation analysis. Eur J Clin
+Nutr 49(9):691–702.
+52. Jankowska MM, Lopez-Carr D, Funk C, Husak GJ, Chafe ZA (2012) Climate change and
+human health: Spatial modeling of water availability, malnutrition, and livelihoods in
+Mali, Africa. Appl Geogr 33:4–15.
+53. UNICEF (2013) Improving Child Nutrition: The Achievable Imperative for Global Progress
+(United Nations Children’s Fund, New York), pp 7. Available at www.unicef.org/gambia/
+Improving_Child_Nutrition_-_the_achievable_imperative_for_global_progress.pdf. Accessed
+July 9, 2015.
+54. Balk D, et al. (2005) Child hunger in the developing world: An analysis of environmental and social correlates. Food Policy 30(5–6):584–611.
+55. Muller O, Krawinkel M (2005) Malnutrition and health in developing countries. CMAJ
+173(3):279–286.
+56. Fischer G, Shah M, Tubiello FN, van Velhuizen H (2005) Socio-economic and climate
+change impacts on agriculture: An integrated assessment, 1990-2080. Philos Trans R
+Soc Lond B Biol Sci 360(1463):2067–2083.
+57. Schmidhuber J, Tubiello FN (2007) Global food security under climate change. Proc
+Natl Acad Sci USA 104(50):19703–19708.
+58. World Food Program (2011) Malnutrition and climate vulnerability in Africa. Available at documents.wfp.org/stellent/groups/public/documents/newsroom/wfp243427.
+pdf. Accessed May 12, 2014, p 2.
+59. Tacoli C, Bukhari B, Fisher S (2013) Urban poverty, food security and climate change.
+Human Settlements Working Paper no.37: Rural-Urban Interactions and Livelihood
+Strategies (International Institute for Environment and Development, London).
+Available at pubs.iied.org/pdfs/10623IIED.pdf, pp 1–35. Accessed July 9, 2015.
+60. Sié A, et al. (2010) The Health and Demographic Surveillance System (HDSS) in Nouna,
+Burkina Faso, 1993-2007. Glob Health Action, 10.3402/gha.v3i0.5284.
+
+SUSTAINABILITY
+SCIENCE
+
+11. Woldehanna T (2010) Do Pre-Natal and Post-Natal Economic Shocks Have a Long
+Lasting Effect on the Height of 5-Year-Old Children? Evidence from 20 Sentinnel
+Sites of Rural and Urban Ethiopia. Working Paper No. 60 (Young Lives, Department
+of International Development, University of Oxford, Oxford, UK).
+12. Yamano T, Alderman H, Christiaensen L (2005) Child growth, shocks, and food aid in
+rural Ethiopia. Am J Agric Econ 87(2):273–288.
+13. Black RE, et al.; Maternal and Child Nutrition Study Group (2013) Maternal and child
+undernutrition and overweight in low-income and middle-income countries. Lancet
+382(9890):427–451.
+14. Adair LS, et al.; COHORTS group (2013) Associations of linear growth and relative
+weight gain during early life with adult health and human capital in countries of low
+and middle income: Findings from five birth cohort studies. Lancet 382(9891):
+525–534.
+15. Krawinkel MB (2013) Discussion on epidemiology of low birthweight and long-term
+outcomes of fetal malnutrition. Nestle Nutr Inst Workshop Ser 74:26–30.
+16. Martorell R, Zongrone A (2012) Intergenerational influences on child growth and
+undernutrition. Paediatr Perinat Epidemiol 26(Suppl 1):302–314.
+17. Stoltzfus RJ, Rasmussen KM (2013) The dangers of being born too small or too soon.
+Lancet 382(9890):380–381.
+18. Bhutta ZA, et al.; Lancet Nutrition Interventions Review Group; Maternal and Child
+Nutrition Study Group (2013) Evidence-based interventions for improvement of maternal and child nutrition: What can be done and at what cost? Lancet 382(9890):
+452–477.
+19. Food and Agricultural Organization of the United Nations (2010) Household food
+security and community nutrition. Available at www.fao.org/ag/agn/nutrition/
+household_en.stm. Accessed July 9, 2015.
+20. Porter JR, Semenov MA (2005) Crop responses to climatic variation. Philos Trans R Soc
+Lond B Biol Sci 360(1463):2021–2035.
+21. Lobell DB, et al. (2008) Prioritizing climate change adaptation needs for food security
+in 2030. Science 319(5863):607–610.
+22. Knox J, Hess T, Daccache A, Wheeler T (2012) Climate change impacts on crop productivity in Africa and South Asia. Environ Res Lett 7:1–8.
+23. Brown ME, Funk CC (2008) Food security under climate change. Science 319:580–581.
+24. Myers SS, et al. (2014) Increasing CO2 threatens human nutrition. Nature 510(7503):
+139–142.
+25. Bernstein AS, Myers SS (2011) Climate change and children’s health. Curr Opin Pediatr
+23(2):221–226.
+26. Grace K, Davenport F, Funk C, Lerner AM (2012) Child malnutrition and climate in
+Sub-Saharan Africa: An analysis of recent trends in Kenya. Appl Geogr 35(1–2):
+405–413.
+27. Rylander C, Odland JØ, Sandanger TM (2013) Climate change and the potential effects on maternal and pregnancy outcomes: An assessment of the most vulnerable–
+the mother, fetus, and newborn child. Glob Health Action 6:19538.
+28. Girard AW, Self JL, McAuliffe C, Olude O (2012) The effects of household food production strategies on the health and nutrition outcomes of women and young children: A systematic review. Paediatr Perinat Epidemiol 26(Suppl 1):205–222.
+29. Masset E, Haddad L, Cornelius A, Isaza-Castro J (2012) Effectiveness of agricultural
+interventions that aim to improve nutritional status of children: Systematic review.
+BMJ 344:d8222.
+30. Masset E, Haddad L, Cornelius A, Isaza-Castro J (2011) A Systematic Review of Agricultural Interventions That Aim to Improve Nutritional Status of Children. (Evidence
+for Policy and Practice Information and Co-ordinating Centre, Social Science Research
+Unit, Institute of Education, University of London, London).
+31. Zhang Y, Bi P, Hiller JE (2007) Climate change and disability-adjusted life years.
+J Environ Health 70(3):32–36.
+32. Xu Z, et al. (2012) Impact of ambient temperature on children’s health: A systematic
+review. Environ Res 117:120–131.
+33. Stanke C, Kerac M, Prudhomme C, Medlock J, Murray V (2013) Health effects
+of drought: A systematic review of the evidence. PLoS Curr, 10.1371/currents.
+dis.7a2cee9e980f91ad7697b570bcc4b004.
+34. Knox JW, Hess TM, Daccache A, Perez Ortola M (2011) What are the projected impacts
+of climate change on food crop productivity in Africa and South Asia? DFID Systematic Review, Final Report (Cranfield University, Cranfield, UK).
+35. Moher D, Liberati A, Tetzlaff J, Altman DG, Group P (2009) Preferred reporting items
+for systematic reviews and meta-analyses: The PRISMA statement. Ann Intern Med
+151(4):264–269, W264.
+
+

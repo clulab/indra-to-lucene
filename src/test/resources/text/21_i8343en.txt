@@ -1,0 +1,2907 @@
+GLOBAL EARLY WARNING – EARLY ACTION REPORT
+ON FOOD SECURITY AND AGRICULTURE
+JANUARY – MARCH 2018
+
+HIGH RISK
+ON WATCH
+
+The designations employed and the presentation of material in this information product do not imply the
+expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations
+(FAO) concerning the legal or development status of any country, territory, city or area or of its authorities,
+or concerning the delimitation of its frontiers or boundaries. The mention of specific companies or products
+of manufacturers, whether or not these have been patented, does not imply that these have been endorsed
+or recommended by FAO in preference to others of a similar nature that are not mentioned.
+The views expressed in this information product are those of the author(s) and do not necessarily reflect the views
+or policies of FAO.
+ISBN 978-92-5-130124-1
+© FAO, 2018
+FAO encourages the use, reproduction and dissemination of material in this information product. Except where
+otherwise indicated, material may be copied, downloaded and printed for private study, research and teaching
+purposes, or for use in non-commercial products or services, provided that appropriate acknowledgement of FAO
+as the source and copyright holder is given and that FAO’s endorsement of users’ views, products or services
+is not implied in any way.
+All requests for translation and adaptation rights, and for resale and other commercial use rights should be made
+via www.fao.org/contact-us/licence-request or addressed to copyright@fao.org.
+FAO information products are available on the FAO website (www.fao.org/publications) and can be purchased
+through publications-sales@fao.org.
+
+This publication has been printed using selected products and processes so as to ensure minimal environmental
+impact and to promote sustainable forest management.
+
+GLOBAL RISK MAP
+JANUARY – MARCH 2018
+This forward-looking report highlights major disaster risks to food security and agriculture in the indicated reporting period. When a new emergency or deterioration of the current situation is very likely and
+might have severe impacts, it is indicated as “high risk”. In the case of moderate to high likelihood and moderate or significant impact, the risk is listed as “on watch”. Ongoing humanitarian crises, such as
+protracted emergencies, are not highlighted in this report unless a deterioration is likely. For an overview of all ongoing humanitarian emergencies, please refer to the map on page 28.
+
+GLOBAL RISK
+
+Mongolia
+
+Syrian Arab Republic
+
+P. 22
+
+P. 18
+
+La Niña
+P. 24
+
+Yemen*
+
+REGIONAL RISKS
+
+P. 6
+
+Africa – Fall Armyworm
+P. 23
+
+Sudan
+P. 19
+
+Sahel
+
+South Sudan*
+
+P. 20
+
+Democratic People’s
+Republic of Korea
+
+Afghanistan
+
+P. 8
+
+P. 15
+
+Nigeria (Northeast)
+
+P. 17
+
+Somalia*
+
+P. 14
+
+Myanmar & Bangladesh
+
+P. 11
+
+Central African Republic (CAR)
+
+P. 7
+
+Ethiopia and Kenya
+
+P. 21
+
+P. 13
+
+Democratic Republic of the Congo
+
+Madagascar
+
+P. 10
+
+P. 16
+
+* In the worst-case scenario the risk of famine remains.
+For further details see the country risk page.
+
+Risk Level
+
+ON WATCH
+
+HIGH RISK
+
+Hazards
+
+Cholera
+
+CONFLICT
+
+cyclones
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+DISPLACEMENT
+
+Drought
+
+DZUD
+
+ECONOMIC
+
+FAW
+
+Flood
+
+Pastoral
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+1
+
+SEASONALITY MAPS (JANUARY-MARCH 2018)
+The Global Seasonality Map provides overview of the agricultural and climate seasonality of the countries highlighted in this report. The agricultural seasons are country-specific and provide an insight into the status of
+the main (staple) crops during the reporting period. The climatic seasons provide a general overview of weather patterns in the highlighted countries as well as tropical cyclone basins relevant to the reporting period.
+The map is indicative and does not give exact geographical delineations. For more country specific details on the agricultural seasons of different crop types please visit the GIEWS Country Briefs page:
+http://www.fao.org/giews/countrybrief/index.jsp.
+
+AGRICULTURE AND CLIMATE MAP
+Syrian Arab
+Republic
+
+Mongolia
+
+Yemen
+Democratic People’s
+Republic of Korea
+
+Sudan
+
+South Sudan
+
+Bangladesh
+
+Nigeria (Northeast)
+
+Afghanistan
+Myanmar
+
+Central African Republic (CAR)
+
+Somalia
+
+Democratic Republic of the Congo
+(North)
+
+Kenya and
+Ethiopia
+
+Democratic Republic of the Congo
+(South)
+
+Madagascar
+
+Climate seasons
+
+Rainy
+
+2
+
+agricultural seasons in countries at risk
+
+Snow
+
+Dry
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+Harvesting
+
+Planting/Growing
+
+Off-Season
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+HURRICANE AND CYCLONE BASINS MAP
+
+Source: NWS/NOAA
+
+tropical cyclone formation basins
+
+Northeast Pacific Basin
+June-October
+Peak: September
+
+North Atlantic Ocean
+June-November
+Peak: September
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+North Indian Basin
+April-December
+Peak: May and November
+
+Indian Basin
+Peak Mid-January
+Peak Mid-February
+
+Australian/Southwest Pacific Basin
+November-May
+Peak: March
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+3
+
+“In today’s global context of unprecedented humanitarian needs and increasing frequency of large scale natural disasters, anticipating and mitigating
+crises has never been more critical. The Early Warning - Early Action initiative has been developed with the understanding that disaster losses
+and emergency response costs can be drastically reduced by using early warning analysis to act before a crisis escalates into an emergency.
+Early actions strengthen the resilience of at-risk populations, mitigate the impact of disasters and help communities, governments and national
+and international humanitarian agencies to respond more effectively and efficiently”
+José Graziano da Silva
+FAO Director-General
+
+Background
+The Global Early Warning – Early Action (EWEA) report on food security and agriculture is
+developed by the Food and Agriculture Organization of the United Nations (FAO). The report
+is part of FAO’s EWEA system, which aims to translate forecasts and early warnings into
+anticipatory action.
+EWEA enables FAO to act early before disasters have happened and to mitigate or even
+prevent their impact. By lessening damages to livelihoods and protecting assets and
+investments, FAO can help local livelihoods become more resilient to threats and crises while,
+where possible, addressing their root causes.
+The Global EWEA report is a quarterly forward-looking analytical summary of major disaster
+risks to food security and agriculture. The report specifically highlights two types of contexts:
+➤➤ potential new emergencies caused by imminent disaster threats; and
+➤➤ the risk of a significant deterioration in countries currently in a situation of protracted
+crisis or already in the response stage of an emergency, with a severe impact on
+food security and/or agriculture. For this kind of risk, the analysis will focus on the
+additional risk factors, which would, either alone or in combination with others, lead
+to a substantial deterioration of the situation.
+
+The report’s summary is rooted in the analysis provided by existing FAO corporate and
+joint multi-agency information and early warning systems, mainly:
+➤➤ Global Information and Early Warning System on Food and Agriculture (GIEWS);
+➤➤ Food Chain Crisis and Emergency Prevention System (FCC-EMPRES); and
+➤➤ Integrated Food Security Phase Classification (IPC) and Cadre Harmonise (CH).
+Additional corporate information and external sources were also consulted for the
+development of this report. A detailed list is available on page 27.
+Through a consensus-based process, countries have been indicated as “high risk”
+when there is a very likely new emergency or deterioration of the current situation with
+potentially severe effects on agriculture and food security, and in which FAO and partners
+should start implementing early actions on a no-regret basis. Countries listed as “on
+watch” instead have a moderate to high likelihood of a new emergency or deterioration
+of the current situation, with potentially moderate or significant impacts on agriculture
+and food security. An overview of the risk ranking methodology is provided on page 5.
+
+Countries affected by protracted crises or already in the response stage of an emergency,
+where there are limited signs of a significant deterioration, are not included in the report.
+However, an overview of countries with humanitarian response plans or emergency
+plans is provided on page 28.
+
+4
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Methodology
+
+1. Shortlisting countries flagged by the corporate early warning systems, IPC and CH
+through core publications and alerts.
+2. Triangulation of information on countries and regions at risk from other datasets and
+external early warning systems.
+3. Consolidation of information from corporate and external early warning systems.
+4. Final vetting and ranking of countries and regions at risk.
+The final vetting and ranking of countries is carried out by the focal point group, making
+use of the following criteria:
+➤➤ Likelihood of occurrence is classified into five levels (very unlikely, unlikely,
+moderately likely, likely and very likely). The term likelihood applies to the probability
+that, within the time period considered, either a new disaster risk or the significant
+deterioration of the situation will occur.
+➤➤ Potential impact is ranked into five levels (negligible, minor, moderate, severe and
+critical). The impact is analysed through two dimensions, in terms of magnitude
+(the number of potentially affected people and/or geographical extent of the impact
+on agriculture and people’s livelihoods and food security) and severity (the gravity
+of the impact on agriculture and people’s livelihoods and food security, especially
+in relation to pre-existing vulnerability and food insecurity).
+➤➤ Country capacity to cope with and respond to potential disasters or deteriorated
+situations is also classified into five levels (very low, low, medium, high and very
+high). Lack of coping capacity, one of the Index for Risk Management’s (INFORM)
+dimensions, is used as a reference.
+
+HIGH FAO and partners should start implementing early actions on a
+no-regrets basis. Inclusion in the report under the High Risk category.
+
+RISK VALUE
+
+The most at-risk countries and regions are selected through a consultative process led
+by the early warning system focal points group. The group also serves as the report’s key
+source of information (as outlined in the list of sources section). The main steps of the
+methodology are the following:
+
+MEDIUM FAO should strengthen corporate monitoring,
+
+preparedness and plan for the implementation of certain low cost early
+actions. Inclusion in the report under the On Watch category.
+
+LOW Continue with Monitoring of risk/country.
+No inclusion in the report.
+
+In a context where a new emergency or the further deterioration of the situation might
+lead to an increased risk of famine, or when the occurrence of famine has been declared,
+this aspect is particularly highlighted in the cover map and narrative of the report with
+respectively two categories: “Risk of famine” and “Famine declared”.
+
+Recommendations for early actions
+Early action recommendations, indicated for each risk, aim to briefly outline some
+of the most appropriate interventions over the coming months which could prevent,
+mitigate or prepare for the potential impact of a specific disaster on the agriculture
+sector and livelihoods. Recommendations are therefore sector specific and non-binding
+in nature. Early actions can vary from interventions aiming to protect livelihood assets
+to planning and preparatory activities. Recommendations are developed by FAO through
+a consultative process involving technical experts and FAO country, sub-regional and
+regional offices.
+
+The three criteria are inserted in a risk matrix which determines the final result of the
+risk evaluation.
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+5
+
+		
+		
+		
+		
+
+1
+
+Risk of famine due to accessibility restrictions
+and further disease outbreaks
+
+Risk overview
+
+HIGH RISK
+
+Potential impact
+
+➤➤ If disruption to humanitarian access continues, a further deterioration in already the largest humanitarian crisis
+in the world is expected. In a worst-case scenario, those most vulnerable could suffer famine-like conditions
+(IPC Phase 5). The Food Security and Agriculture Cluster (FSAC) estimates that more than 10.4 million people
+are likely to be severely food insecure if access restrictions continue.
+➤➤ With poor access to life-saving medicines and clean water, disease outbreaks are likely to worsen. The International
+Committee of the Red Cross has warned that an estimated 1 million people are at risk of contracting cholera
+by early 2018. Cases of diphtheria are also spreading, with over 1 million children currently at risk.
+
+6
+
+[January – March]
+Critical
+
+Off-Season
+
+Negligible
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Dry
+
+Very
+likely
+
+Large-scale humanitarian crisis, cholera and diphtheria outbreaks
+compound food insecurity
+
+➤➤ Yemen faces further deterioration due to a blockade imposed on critical imports and disease epidemics.
+The worst affected areas were reported in the southern and western part of the country.
+➤➤ The blockade on air, sea and land entry points, imposed on 6 November 2017, stalled the flow of essential
+supplies to 27 million people. As of July 2017, an estimated 17 million people are in food security Crisis
+(IPC Phase 3) or Emergency (IPC Phase 4). In December, the Humanitarian Needs Overview estimated this
+had increased to 17.8 million people. While the methodologies of these assessments differ, they reveal food
+insecurity levels are increasing.
+➤➤ Yemen is reliant on maritime imports for around 80 percent of its food needs. Nearly three weeks into
+the blockade, ports of entry began to receive humanitarian shipments. On 28 November, a World Food
+Programme (WFP) vessel carrying 25 000 tonnes of wheat arrived at Saleef port. Domestic agricultural
+production has decreased due to below-average rainfall, limited inputs and high prices. Domestic cereal
+production in 2017 is forecasted at 335 000 tonnes, about half of the five-year average.
+➤➤ Shipments carrying medicine also landed at Sana’a airport, delivering an estimated 1.9 million cholera
+vaccines. As of December 2017, more than 979 000 suspected cholera cases and 2 200 deaths were reported.
+With transport routes compromised, efforts to control the epidemic are being reversed. In particular, Sa’ada,
+Taiz and Al Hudaydah governorates have run out of clean water, as the blockade halted critical fuel inputs
+to pump water. These conditions have also ignited a diphtheria outbreak. Some 318 suspected cases and
+28 deaths have been reported since mid-August.
+
+   2
+
+Seasonality:
+
+IMPACT
+
+YEMEN
+
+Risk: High
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+3
+
+Recommended early actions
+
+To address the risk of famine in the worst-case scenario, access to
+vulnerable communities is urgently required to support humanitarian efforts.
+If restrictions are lifted and access is granted, the following actions are
+recommended:
+•• enhance emergency livelihood support activities in particular to support
+backyard income-generating activities and food production;
+•• safeguard pastoralist assets by enabling access to livestock vaccinations,
+health treatments and restocking;
+•• initiate cash-for-work activities to generate income and support
+agricultural value chains;
+•• support the reinstatement of social safety net programmes and policies
+to reduce unemployment and support livelihoods;
+•• in addition, it is important continue monitoring the quantities of wheat,
+rice and fuel entering the country, as well as price developments;
+•• launch second round of the FSAC-led famine risk monitoring in January
+2018 for all high priority districts; and
+•• improve national early warning systems by: (i) strengthening agro-climatic
+monitoring; (ii) enhancing capacity for data collection, management and
+climate analysis of national institutions; and (iii) designing appropriate
+communication/dissemination strategies.
+
+Funding of the Food Security and Agriculture Cluster 2017
+
+65%
+0
+
+25
+
+50
+
+75
+
+100
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Risk: High
+
+MYANMAR AND BANGLADESH
+
+		
+		
+
+1
+
+[January – March]
+Critical
+
+Displacement and conflict
+
+Negligible
+
+Large-scale displacements and lack of food access and fuel options
+compound food insecurity
+
+Risk overview
+
+➤➤ Rohingya refugees are likely to continue crossing the border into Bangladesh due to persistent conflict and food
+access restrictions. An estimated 100 000 additional people are expected to arrive over the next six months.
+➤➤ As the dry season continues, water issues will persist in refugee settlements. Disease outbreaks, including AWD
+and diphtheria, will likely remain high, thereby compounding existing food and nutrition vulnerabilities.
+
+LIKELIHOOD
+
+To avoid further deterioration of food security and nutrition during January–
+March 2018, the following actions are recommended:
+•• support home production and micro-gardening efforts among refugee
+populations where possible;
+•• supply refugee households with safe food storage equipment to prevent
+infestations and food-borne illnesses;
+•• train women groups in energy-saving cooking measures and use of
+efficient stoves;
+•• undertake cash-for-work activities to address environmental degradation,
+land stabilization and erosion control in areas where water sources,
+population security and agricultural lands are threatened; and
+•• form agro-forestry and collaborative forest management farming
+systems, and plant fast-growing fuelwood plants, tree nurseries and
+seedlings;
+For communities remaining in Rakhine State:
+•• distribute agricultural inputs to increase availability of fresh food to communities;
+•• support the establishment of aquaculture systems and poultry units to
+increase availability of protein rich food; and
+•• undertake cash transfer activities to rebuild productive infrastructures.
+-
+
+-
+
+BANGLADESH - Funding of the Food Security Cluster 2017
+
+35%
+0
+
+-
+
+25
+
+50
+
+75
+
+100
+
+MYANMAR - Funding of the Food Security Cluster 2017
+
+60%
+0
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Dry
+
+Very
+likely
+
+HIGH RISK
+
+Potential impact
+
+Very
+unlikely
+
+Recommended early actions
+
+3
+
+➤➤ Violence in Rakhine State has led to widespread destruction of villages and livelihoods. The spread of conflict
+has instigated large displacements of Rohingya people to Bangladesh, while the remaining population in
+Rakhine State face food access constraints. As of 19 December 2017, over 655 000 Rohingya refugees have
+fled to Bangladesh since violence erupted on 25 August. Most refugees have sought shelter in Cox’s Bazar
+and its upazilas. In these areas, an estimated 7.5 percent of children suffer from severe acute malnutrition.
+➤➤ In October 2017, an assessment carried out by Relief International and International Rescue Committee
+highlighted that 77 percent of households adopted negative coping mechanisms in Cox’s Bazar due to food
+insecurity. Negative coping mechanisms included relying on less expensive foods (90 percent), reducing the
+number of daily meals (69 percent) and restricting adult consumption (68 percent).
+➤➤ An estimated 60 percent of drinking water in refugee camps is contaminated. Since 25 August, more than
+36 000 Acute Watery Diarrhea (AWD) cases were reported, including 10 deaths. With the dry season
+(November/December) progressing, tube wells were dug shallower and poor hygiene practices have
+exacerbated the spread of disease.
+➤➤ High population density in refugee camps has overwhelmed existing facilities. Congestion has resulted in
+limited land space for refugees and adoption of survival mechanisms – i.e. the collection of firewood, has
+degraded the local environment. Due to the scare resources, increased tensions between host communities
+and Rohingya refugees have been reported.
+➤➤ In Rakhine State, authorities have reportedly closed village markets and limited food transport routes.
+Humanitarian organizations continue to face access constraints in Northern and Central Rakhine.
+As of November 2017, Myanmar and Bangladesh have signed an agreement for the possible repatriation of
+Rohingya refugees to Rakhine state. However, the eligibility criteria and location remain unclear.
+
+   2
+
+Planting/Growing
+
+IMPACT
+
+		
+
+Seasonality
+
+25
+
+50
+
+75
+
+100
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+7
+
+		Conflict
+		
+
+1
+
+Off-Season
+
+Negligible
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Dry
+
+Very
+likely
+
+Risk overview
+3
+
+Recommended early actions
+
+HIGH RISK
+
+To curb the increasing risk of famine, access to communities is essential to
+address basic needs and support their livelihoods. FAO recommends the
+following actions:
+•• invest in networks of community-based animal health workers to support
+livestock health services;
+•• provide veterinary services to pastoralists, focusing on endemic
+and infectious diseases like foot-and-mouth disease (FMD), bovine
+pleuropneumonia, haemorrhaegic septicaemia and East Coast fever;
+•• support the distribution of fuel-efficient cooking stoves – particularly to
+women – to reduce tensions over the exploitation of natural resources;
+•• support measures to mitigate FAW infestation, including trainings
+through farmer field schools; and
+•• support local negotiations for livestock migration routes and grazing
+rights.
+
+Potential impact
+
+From January to March 2018, the food security situation is projected to deteriorate unseasonably with the lean
+season expected three months earlier than normal. This will result in an estimated 5.1 million (48 percent of
+the total population) people being classified as severely food insecure in January - March 2018, with 20 000
+remaining in Catastrophe (IPC Phase 5).
+The key harvest season from November to January has been severely affected by the conflict. Food access will
+remain constrained due to hyperinflation and poorly functioning markets.
+In a worst-case scenario, the combination of climatic shocks, humanitarian access constraints, and macroeconomic instability will likely result in the risk of famine-like conditions (IPC Phase 5) in multiple areas as the
+country heads towards the peak of the lean season in 2018.
+
+8
+
+[January – March]
+Critical
+
+Risk of famine due to armed conflict
+
+➤➤ Conflict has progressively spread across the country, disrupting access for both the local population and
+humanitarian actors. The distribution of humanitarian assistance is becoming increasingly difficult since the
+conflict has curtailed key transportation routes.
+➤➤ Despite the recent main season harvests, the number of people currently facing severe food insecurity has
+not decreased significantly from 6 million (56 percent of the total population) in September to 4.8 million
+(45 percent of the total population) in October-December. Most concerning, 25 000 people still face
+Catastrophe (IPC Phase 5) levels.
+➤➤ Acute malnutrition levels has worsened compared with October 2016. Malnutrition rates in most communities
+are well above the emergency threshold of 15 percent, with populations in Renk, Twic and Wau counties
+experiencing extreme critical levels of acute malnutrition (>30 percent) among children under five.
+➤➤ The expected seasonal respite due to the ongoing harvest will be minimal in conflict-affected areas, where
+households are likely to harvest less than three months of cereal. In addition, the fall armyworm (FAW) might
+further reduce crop production.
+➤➤ The conflict is driving continued large-scale displacements, particularly of farming households from the
+country’s greenbelt. The number of people displaced since the start of the conflict in 2013 has reached more
+than 4 million, including 1.9 million internally and more than 2 million to neighbouring countries.
+➤➤ Food prices are significantly higher. The retail price of sorghum, maize and wheat flour have increased by up
+to 281 percent compared to October 2016.
+
+   2
+
+Seasonality:
+
+IMPACT
+
+SOUTH SUDAN
+
+Risk: High
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+Funding of the Food Security and Livelihood Cluster 2017
+
+68%
+0
+
+25
+
+50
+
+75
+
+100
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+IPC phase classification
+
+SOUTH SUDAN
+
+Acute Food Insecurity Situation in South Sudan,
+October – December 2017
+25°E
+
+Famine
+
+Stressed
+
+Emergency
+
+Minimal
+
+Crisis
+
+Not analysed
+
+Insufficient data
+
+Acute Food Insecurity Situation in South Sudan,
+January to March 2018
+
+30°E
+
+35°E
+
+25°E
+
+30°E
+
+35°E
+
+Manyo
+
+Renk
+
+Renk
+
+SUDAN
+
+SUDAN
+Melut
+
+10°N
+
+Aweil North
+
+Aweil East
+
+Northern
+B Aweil
+a h West
+r el
+G h a z a l Aweil South
+
+Abiemnhom
+
+! !
+!!
+!
+
+Rubkona
+
+Twic
+
+Mayom
+
+Guit
+
+Tonj North
+
+Luakpiny/Nasir
+Nyirol
+
+!
+
+Aweil North
+
+ETHIOPIA
+
+!
+
+Aweil East
+
+Northern
+B Aweil
+a h West
+r el
+G h a z a l Aweil South
+
+Western
+Raga
+Bahr el
+Ghazal
+
+Maiwut
+
+Ulang
+
+Lakes
+
+Rumbek East
+
+Nagero
+
+Awerial
+
+!
+!! !
+
+J oUror
+nglei
+
+Rumbek East
+
+Nagero
+Wulu
+
+Bor South
+
+Yambio
+
+Ibba
+
+Maridi
+
+Mundri East
+Mundri West
+
+Note: State and County Boundaries on this map
+do not imply acceptance or recognition by the
+Government of South Sudan/Sudan. They are shown on the map
+only for Humanitarian work purpose.
+Source of county boundaries: NBS
+
+!!
+
+Yei
+
+DEMOCRATIC
+REPUBLIC OF CONGO
+
+Kajo-keji
+30°E
+
+Stressed
+Crisis
+
+Famine
+
+No data
+Elevated Risk of Famine
+
+5°N
+
+Displaced Population
+In Camps (Color depicts
+phase classification)
+
+!
+
+Area would likely be at least
+1 Phase worse without
+humanitarian assistance
+
+Analysis Confidence Level
+Ç
+ÇÇ
+Ç
+
+Low
+
+International
+State
+County
+Undefined *
+Abyei Area **
+
+Yambio
+
+5°N
+
+Ibba
+
+Maridi
+
+Mundri East
+Mundri West
+
+Torit
+
+Magwi
+
+Budi
+Ikotos
+
+UGANDA
+
+* Final boundary between the Republic of
+Sudan and the Republic of South Sudan has
+not yet been determined.
+** Final status of the Abyei area is not yet
+determined
+Data Sources:
+NBS, IPCTWG, FAO, WFP, FEWSNET
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Note: State and County Boundaries on this map
+do not imply acceptance or recognition by the
+Government of South Sudan/Sudan. They are shown on the map
+only for Humanitarian work purpose.
+Source of county boundaries: NBS
+
+KENYA
+35°E
+
+¯ Source: IPC (2017)
+
+!!
+
+Proj/Datum: Geographic/ WGS84
+
+100
+
+Kilometers
+
+1:4,080,521
+
+Yei
+
+DEMOCRATIC
+REPUBLIC OF CONGO
+
+Kajo-keji
+
+150
+
+200
+
+The boundaries and names and the designations
+used on this map do not imply official endorsement
+or acceptance by the United Nations/UNFAO
+Some map data not verified, use at your own risk
+
+Stressed
+INTEGRATED FOOD SECURITY
+PHASE CLASSIFICATION
+REPUBLIC OF SOUTH SUDAN
+
+Crisis
+
+Famine
+
+No data
+Elevated Risk of Famine
+
+Kapoeta East
+5°N
+
+Ilemi Traingle
+
+Kapoeta South
+Torit
+
+Lainya
+
+Morobo
+30°E
+
+Phase Classification
+Emergency
+Minimal
+
+South Sudan IPC - September 2017
+
+25 50
+
+Kapoeta North
+
+Eastern
+Equatoria
+
+Juba
+
+25°E
+
+Date Created: 17 September 2017
+
+0
+
+Lopa/Lafon
+
+Central
+Equatoria
+
+Nzara
+
+Ilemi Traingle
+
+INTEGRATED FOOD SECURITY PHASE CLASSIFICATION (OCTOBER - DECEMBER 2017)
+!
+!
+
+Boundary
+
+Phase Classification
+Emergency
+Minimal
+
+Kapoeta East
+
+Kapoeta South
+
+Lainya
+
+Morobo
+
+Western
+EEzo
+quatoria
+
+Kapoeta North
+
+Eastern
+Equatoria
+
+Juba
+
+25°E
+
+INTEGRATED FOOD SECURITY
+PHASE CLASSIFICATION
+REPUBLIC OF SOUTH SUDAN
+
+Lopa/Lafon
+
+Central
+Equatoria
+
+Nzara
+
+Pibor
+
+Terekeka
+
+Magwi
+
+Budi
+Ikotos
+
+KENYA
+
+UGANDA
+
+35°E
+
+INTEGRATED FOOD SECURITY PHASE CLASSIFICATION (JANUARY - MARCH 2018)
+!
+!
+
+Displaced Population
+In Camps (Color depicts
+phase classification)
+
+!
+
+Area would likely be at least
+1 Phase worse without
+humanitarian assistance
+
+Analysis Confidence Level
+Ç
+ÇÇ
+Ç
+
+Low
+
+Boundary
+
+Western
+EEzo
+quatoria
+
+!
+!! !
+
+Mvolo
+
+Terekeka
+
+5°N
+
+Pochalla
+
+Yirol East
+
+Awerial
+
+Tambura
+
+Akobo
+
+Uror
+
+Duk
+
+Yirol West
+
+Pibor
+
+Mvolo
+
+ETHIOPIA
+
+Twic East
+
+Lakes
+
+Maiwut
+
+Ulang
+
+Ayod
+
+Leer
+Mayendit
+
+Tonj South Cueibet Rumbek Centre
+
+CENTRAL AFRICAN
+REPUBLIC
+
+10°N
+
+Longochuk
+Luakpiny/Nasir
+Nyirol
+
+Rumbek North Panyijiar
+
+Jur River
+
+!!
+
+Maban
+
+Canal/Pigi
+
+Fangak
+
+Koch
+Tonj North
+
+Bor South
+
+Yirol West
+Wulu
+
+Tambura
+
+Guit
+
+!!
+
+Upper
+Nile
+Baliet
+
+Unity
+
+Pochalla
+
+!
+
+Yirol East
+
+Mayom
+
+Panyikang
+
+Akobo
+
+Uror
+
+Twic East
+
+! !
+!!
+!
+
+Rubkona
+
+Twic
+
+Warrap
+
+Wau
+
+Tonj South Cueibet Rumbek Centre
+
+Abiemnhom
+
+Gogrial WestGogrial East
+
+Aweil Centre
+
+Fashoda
+Malakal
+
+Pariang
+
+Tonj East
+
+J oUror
+nglei
+
+Duk
+
+10°N
+
+Abyei
+
+Ayod
+
+Rumbek North Panyijiar
+
+Jur River
+
+10°N
+
+Longochuk
+
+Canal/Pigi
+
+Fangak
+
+Leer
+Mayendit
+
+Tonj East
+
+CENTRAL AFRICAN
+REPUBLIC
+
+!!
+
+Koch
+
+Warrap
+
+Wau
+
+Panyikang
+
+Melut
+
+!!
+
+Maban
+
+Upper
+Nile
+Baliet
+
+Unity
+
+Gogrial WestGogrial East
+
+Aweil Centre
+
+Fashoda
+Malakal
+
+Pariang
+
+Abyei
+
+Western
+Raga
+Bahr el
+Ghazal
+
+HIGH RISK
+
+Manyo
+
+International
+State
+County
+Undefined *
+Abyei Area **
+
+* Final boundary between the Republic of
+Sudan and the Republic of South Sudan has
+not yet been determined.
+** Final status of the Abyei area is not yet
+determined
+Data Sources:
+NBS, IPCTWG, FAO, WFP, FEWSNET
+
+¯ Source: IPC (2017)
+Date Created: 17 September 2017
+
+South Sudan IPC - September 2017
+Proj/Datum: Geographic/ WGS84
+
+0
+
+25 50
+
+100
+
+Kilometers
+
+1:4,080,521
+
+150
+
+200
+
+The boundaries and names and the designations
+used on this map do not imply official endorsement
+or acceptance by the United Nations/UNFAO
+Some map data not verified, use at your own risk
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+9
+
+		Localized conflict
+		
+
+1
+
+[January – March]
+Critical
+
+North
+
+Negligible
+
+Escalation in localized conflict leading to continued displacement
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Very
+likely
+
+South
+
+Planting/
+Growing
+
+Harvest
+
+Rainy
+
+Dry
+
+Risk overview
+
+HIGH RISK
+
+➤➤ Violence in the Kasaï region, Tanganyika and South Kivu provinces of the Democratic Republic of the Congo
+continues to cause widespread displacement and long-term damage to livelihoods. The political instability
+in the country and the recent violent events against the United Nations Organization Stabilization Mission
+in the Democratic Republic of the Congo soldiers further compounded the situation.
+➤➤ As of November 2017, there are 4.1 million internally displaced people (IDPs), of which 2 million in the Kasai
+and Tanganyika provinces and 1 million in North and South Kivu. The majority of the IDPs live with host
+families, many of whom are already experiencing food insecurity and chronic poverty.
+➤➤ The food security situation remains severe. About 7.7 million people face Crisis (IPC Phase 3) and Emergency
+(IPC Phase 4) levels, representing 11 percent of the rural population.
+➤➤ According to the last IPC analysis in June 2017, 12 territories of Lomani, Kasaï Oriental, Kasaï Central, Kasaï,
+Sankuru, Tanganyika, Ituri and Maniema provinces face Emergency conditions (IPC Phase 4). In these areas,
+affected households mainly depending on agriculture for their subsistence have seen their land and fields
+burned and looted, thereby losing a great portion of their crops.
+➤➤ As stated by FAO GIEWS, average to below-average 2017 season crops are therefore at national levels due
+to increasing violence as well as other compounding factors including erratic rainfall in some parts of the
+country and the spread of FAW.
+➤➤ The local currency has depreciated significantly against the US dollar over the past months, resulting in more
+expensive and therefore reduced imports from neighbouring countries. Consequently, a significant upward
+pressure on domestic food and livestock supplies and prices was registered. In the Tanganyika province,
+cross-border flows from Tanzania resulted in a doubling of local prices of maize and cassava.
+
+   2
+
+Seasonality
+
+Risk: High
+
+IMPACT
+
+DEMOCRATIC REPUBLIC OF CONGO
+(DRC)
+
+3
+
+Recommended early actions
+
+Taking into account contextual diversities, access constraints and conflict
+sensitivity, coordinated and need-based actions should focus on reinforcing
+and restoring local livelihoods and market access in an effort to contribute
+to sustainable peace and reconciliation. Among the various options, priority
+actions should be to:
+•• support short-cycle vegetable production (promote the use of certified
+seeds and quality inputs) and nutrition-sensitive agriculture to
+increase the consumption of nutrient-rich foods for the displaced, host
+communities and returnees;
+•• support livestock production (specific for children and women such as
+guinea pigs, poultry, etc.); and
+•• support kitchen garden techniques to enable production, where there is
+no access to land plots.
+
+Potential impact
+
+➤➤ With the well-below average harvests from previous growing seasons in the Kasaï and Tanganyika provinces,
+households are expected to deplete their food stocks by January and experience a prolonged lean season.
+➤➤ The main agricultural growing season “A”, with harvests expected from January to March 2018, will continue
+being affected by the conflict and FAW infestation in some parts of the country, including Nord Kivu and
+Katanga, further hindering food availability in the Democratic Republic of Congo.
+
+Funding of the Food Security Cluster 2017
+
+54%
+0
+
+10
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+25
+
+50
+
+75
+
+100
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Risk of famine due to prolonged drought
+
+[January – March]
+Critical
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Dry
+
+Very
+likely
+
+Risk overview
+
+Potential impact
+
+➤➤ The current widespread food insecurity is driven by consecutive poor rains and harvests that led to well
+below-average production and large-scale livestock losses, reducing access to food and income.
+➤➤ Rainfall during the deyr season has been erratically distributed and below average in many areas. As a result,
+crop production is expected to be 70-80 percent below the average.
+➤➤ According to climate experts, drought conditions are likely to persist in the Horn of Africa from April to June,
+potentially leading to below-average 2018 gu season (April–June). If the forecast materialises, millions of
+rural Somalis face the prospect of a fifth consecutive below-average season.
+➤➤ In the absence of assistance, many pastoral households in worst-hit areas would be forced to sell their
+remaining livestock to purchase cereal at very high prices, especially during the first quarter of 2018.
+➤➤ Famine (IPC Phase 5) remains a possible outcome in the worst-affected areas in 2018, including areas where
+humanitarian access is limited or impeded due to Al-Shabaab activity.
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+3
+
+Recommended early actions
+
+The continuation of scaled-up humanitarian assistance to prevent a slide
+towards famine in high-risk areas is critical. The following activities are
+recommended for the upcoming jilaal season (January–March) – Somalia’s
+driest period:
+•• scale up cash-based assistance to increase income and food access;
+•• provide emergency livestock support to keep animals alive and productive
+(i.e. vaccination, treatment, feed and fodder supplements, water tanks
+and water trucking, as appropriate);
+•• protect and restore households’ own food production while meeting
+immediate needs, through the:
+•• provision of seeds and training in time for farmers and agropastoralists to plant during the 2017 gu season;
+•• pastoral support (mineral blocks, milk containers, livestock deworming)
+to improve animal health and milk production; and
+•• provision of riverine fishing kits (hooks, lines, fishing weights, knives,
+solar-powered torch, cooler, chopping board and solar-powered
+fridges); and
+•• support FAW preparedness and response initiatives (community
+surveillance and early warning, mass awareness campaigns, training and
+emergency control measures).
+
+HIGH RISK
+
+➤➤ The risk of famine in Somalia persists, with 3.3 million people facing Crisis (IPC Phase 3) and Emergency
+(IPC Phase 4) levels through the end of 2017. Sustained humanitarian assistance has prevented more
+extreme outcomes in some areas, yet persistent drought threatens the recovery of livelihoods and a further
+deterioration of food security into 2018.
+➤➤ As a result of La Niña-like conditions, rains at the start and peak of the deyr season (October–December)
+were erratic and approximately 50 percent below average in most areas, despite additional November
+rains modestly improving crop, pasture and water conditions. In northern pastoral areas, pasture and water
+resources were below average.
+➤➤ In the two major crop producing regions of Bay and Shabelle, there were light to moderate rains in late
+September/early October and in November.
+➤➤ Drought conditions throughout the year have severely impacted the livestock sector, leading to distress sales
+and livestock deaths, greatly reducing average herd sizes. Furthermore, livestock births and milk production
+remain low in most parts of the country. Livestock recovery will require several seasons of good rainfall to
+recover.
+➤➤ Although drought conditions have severely affected agro-pastoral livelihoods, farmers who benefitted from
+livelihood assistance were able to cope better and incur lower losses.
+
+   2
+
+Harvest
+
+Negligible
+
+Prolonged drought causing acute food insecurity and continuing risk of famine
+
+1
+
+Seasonality
+
+IMPACT
+
+SOMALIA
+
+Risk: High
+
+Funding of the Food Security Cluster 2017
+
+61%
+0
+
+25
+
+50
+
+75
+
+100
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+11
+
+IPC phase classification
+
+SOMALIA
+
+Minimal
+
+Famine
+
+Stressed
+
+Not analyzed
+
+Crisis
+
+Areas with
+inadequate evidence
+
+Emergency
+
+IDP settlement
+Color depicts phase
+
+Urban settlement
+Color depicts phase
+
+Acute Food Insecurity Situation in Somalia,
+August – December 2017
+
+!
+
+HIGH RISK
+!
+
+!
+
+Source: IPC (2017)
+
+12
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Drought
+
+[January – March]
+Critical
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Dry
+
+Very
+likely
+
+Risk overview
+3
+
+Recommended early actions
+
+To protect vulnerable livelihoods from the impact of the prolonged drought,
+the following activities are recommended for the January–March period:
+•• emergency livestock support including provision of feed, water and
+veterinary care for the recovery of weakened and core-breeding livestock;
+•• support quick growing fodder and feed production in reliably irrigated
+areas;
+•• implement cash-for-work programmes to rehabilitate water sources,
+establish spate irrigation schemes for fodder production, where possible
+and provide people with the means to procure food;
+•• provide unconditional cash, combined with in-kind productive assets and
+training (“Cash+”) to meet immediate needs and restore livelihoods;
+and
+•• implement flood mitigation interventions based on the results from the
+flood mapping exercise.
+
+HIGH RISK
+
+➤➤ With the onset of La Niña-like conditions, the short rains (October–December) have been below average and
+erratic, failing completely in some areas, especially in southern and southeastern pastoral areas of Ethiopia and
+eastern Kenya.
+➤➤ In Ethiopia, prolonged drought conditions are severely affecting the livelihoods in most southern and
+southeastern pastoral and agro-pastoral areas of Southern Nations, Nationalities and Peoples Region, southern
+Oromia and southeastern Somali Regions, where cumulative seasonal rainfall was up to 60 percent below
+average. In these areas, pasture and water availability have declined to extremely low levels, severely affecting
+crop production and livestock conditions, leading to large scale animal deaths.
+➤➤ In northern and eastern Kenya, reduced supply of staple crops and livestock products, coupled with access
+constrains due to high food prices lead to high levels of malnutrition (with over 30 percent of children under
+five showing signs of wasting in the worst affected areas). As of August 2017, 2.6 million people face Crisis
+(IPC Phase 3) and Emergency (IPC Phase 4) conditions, which is double the amount compared with the same
+time last year.
+➤➤ While those displaced by drought earlier in the year have largely returned to their traditional grazing areas in
+Ethiopia, many have returned following a significant loss of livestock. Likewise, conflict between Oromia and
+Somali Regions in Ethiopia has also caused the displacement of hundreds of thousands of people in the two
+regions.
+➤➤ FAW has affected the previous agricultural seasons in both countries, with Kenya reporting the pest in 40 out
+of the 47 counties.
+
+   2
+
+Harvest
+
+Negligible
+
+Further deterioration of food security in pastoral areas due to continued drought
+
+1
+
+Seasonality:
+
+IMPACT
+
+ETHIOPIA AND KENYA
+
+Risk: High
+
+Potential impact
+
+➤➤ Following three consecutive poor seasons, a below average short-rain season is likely to further reduce
+food access and exacerbate the already high levels of acute food insecurity. According to the Famine Early
+Warning Systems Network (FEWSNET), Dollo, Korahe, and Jarar zones, along with parts of Afder and Liben
+in southeastern Ethiopia, will be in Emergency (IPC Phase 4), while some households will be in Catastrophe
+(IPC Phase 5) through May 2018.
+➤➤ The poor rains in the two countries will limit pasture regeneration and water availability. In turn, this will affect
+milk production, which could lead to a potential spike of malnutrition in children.
+➤➤ FAW is likely to affect the short cropping season and possibly the 2018 long rains season.
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+ETHIOPIA - Funding of the Agriculture Cluster 2017
+
+20%
+0
+
+25
+
+50
+
+75
+
+100
+
+KENYA - Funding of the Food Security Cluster 2017
+
+100%
+0
+
+25
+
+50
+
+75
+
+100
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+13
+
+Conflict
+
+[January – March]
+Critical
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Very
+likely
+
+Dry
+
+Risk overview
+
+➤➤ The Boko Haram insurgency in northeastern Nigeria continues to impact people’s livelihoods and food insecurity,
+
+ON WATCH
+
+leaving many in Adamawa, Borno and some parts of Yobe dependent on humanitarian assistance to meet their food
+needs.
+➤➤ According to the latest Cadre Harmonisé (CH) analysis published in November 2017, the number of people facing
+Crisis, Emergency and Famine conditions (CH Phases 3, 4 and 5) in the three states in 2017 has decreased from
+5.2 million people in June–August to about 2.6 million people in October–December. This was mainly due to
+improved security conditions, which allowed humanitarian access and the recovery of livelihood activities, coupled
+with favourable national crop prospects, a slight improvement of trade and markets and the ongoing large-scale
+humanitarian assistance.
+➤➤ Notwithstanding the improvements, the three northeastern states of Borno, Yobe, and Adamawa still account for
+more than 80 percent of the entire acutely food insecure population in Nigeria.
+➤➤ Despite the four percent decrease in internal displacements since June, food insecurity remains particularly high
+within IDP populations, of which 68 percent face significant food access constraints.
+➤➤ Harvests between September and December are expected to be well below average due to widespread insecurity
+and limited area for cultivation.
+
+   2
+
+Off-Season
+
+Negligible
+
+Insurgency continues to cause disruption of livelihoods
+1
+
+Seasonality:
+
+IMPACT
+
+NIGERIA (NORTHEAST)
+
+Risk: On watch
+
+3
+
+Recommended early actions
+
+To improve the resilience of the affected population, enhancing agricultural
+productivity is critical. The current priorities are as follows:
+•• provide critical means for food production and livelihood restoration to
+host communities, returnees and IDPs with access to land through the:
+•• distribution of fertilizers and vegetable and rice seeds to support the dry
+season, as well as millet, sorghum, maize and pulse seeds in preparation
+for the main cropping season from May 2018; and
+•• provision of training to farmers in crop production, post-harvest
+management and handling techniques.
+•• restore the livelihoods of the most vulnerable households, including
+women-headed households through small ruminants and poultry
+restocking.
+
+Potential impact
+
+➤➤ The food security and nutrition situation remains extremely fragile despite the improvements. Without continued
+
+humanitarian food and livelihood assistance in Adamawa, Borno and Yobe States, 3.7 million people will likely be at
+risk of critical food insecurity in 2018.
+➤➤ The Boko Haram insurgency might continue in Borno, northern Adamawa, and parts of Yobe States. Although
+some returns were registered during the past months, further population displacement is likely if attacks continue,
+particularly with the start of the dry season.
+➤➤ Very limited staple harvests, high food prices and limited labour opportunities will likely increase dependency on
+humanitarian assistance for many poor households in the northeast.
+
+14
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+		Conflict and dry spells
+		
+1
+
+[January – March]
+Critical
+
+Planting/Growing
+
+Negligible
+
+Dry spells, staggering economy and intensified conflict
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Very
+likely
+
+Rainy
+
+Risk overview
+
+➤➤ Prolonged periods of dryness have adversely impacted crop growth and rangelands in parts of Afghanistan. This has
+
+3
+
+Recommended early actions
+
+To support smallholder farmers and rural communities impacted by conflict,
+as well as IDPs and returnees, the following initiatives should be taken into
+consideration:
+•• provide vulnerable communities in drought prone areas with agricultural
+inputs (certified seeds for vegetables, drought resistant seeds, pulses
+and cereal crops, fertilizers and hand tools) and technical advice from
+spring 2018;
+•• support drought-affected pastoral households and their livestock
+through the provision of fodder, vaccinations and health treatments; and
+•• promote poultry production for meat and eggs in the lower altitude
+and urban areas to improve income opportunities for women-headed
+households, small landholders or landless households.
+
+ON WATCH
+
+reduced critical wheat and fodder stocks essential for the winter and lean season.
+➤➤ According to the latest IPC analysis (August–November 2017), more than 5.7 million people were estimated to be
+in Crisis (IPC Phase 3) and 1.9 million people in Emergency (IPC Phase 4). This represents a decrease compared with
+the 8.4 million people facing the same conditions between April and June 2016. However, the decrease is mainly
+attributable to the post-harvest food availability.
+➤➤ Estimates indicate that the wheat production is 16 percent below the five-year average. In some areas, this is the third
+poor consecutive season. In the central highlands, including Bamyan and Ghor provinces, availability of pasture and
+fodder for livestock has decreased.
+➤➤ The intensification of the conflict further compounded the current situation, leading to a new wave of internal
+displacements and leaving a substantial part of the affected people without access to livelihoods. According to the
+Office for the Coordination of Humanitarian Affairs (OCHA), over 73 000 new IDPs have been recorded between
+October and November.
+➤➤ The staggering economy as well as the poor agricultural season impact the labour market and wages, subsequently
+preventing many IDPs from finding work and meeting their basic needs. Women-headed households are especially
+affected, as they face access issues and are restricted to low-paid employment.
+
+   2
+
+Seasonality:
+
+IMPACT
+
+AFGHANISTAN
+
+Risk: On watch
+
+Potential impact
+
+➤➤ The poor 2017 wheat harvest is likely to have a negative impact on food access for many vulnerable households,
+particularly as the country enters its lean season from January through April 2018.
+➤➤ The current La Niña episode increases the likelihood of below-average rains. Rain-fed food production would be
+unfavourably impacted by the low distribution and timing of the March–April rains, potentially leading to low harvest
+prospects. This is especially concerning for areas that have experienced several consecutive years of drought.
+➤➤ The intensification of the conflict also increases people’s food insecurity due to the disruption of trade and livelihoods.
+New IDPs and returnees, who have lost their sources of income, are among the most vulnerable groups.
+➤➤ Taking all factors in consideration, estimates indicate that the number of food insecure people during the lean season
+will increase in comparison with the same period last year.
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+15
+
+Seasonality:
+[January – March]
+
+Critical
+
+Planting/Growing
+
+IMPACT
+
+MADAGASCAR (SOUTH)
+
+Risk: On watch
+
+Worsening food insecurity due to consecutive
+below-average seasons
+
+Negligible
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Very
+likely
+
+Rainy
+
+➤➤ Southern Madagascar continues to experience a high level of vulnerability due to recurrent droughts and successive
+
+ON WATCH
+
+years of below-average harvests. Many households are currently facing an early lean season and have a very limited
+access to staple foods, while the next season harvests are expected only from April 2018.
+➤➤ Despite a slight increase in 2017 cereal production in Androy and Anosy regions compared with 2016, harvest remains
+below the five-year average.
+➤➤ According to the latest IPC analysis released in October 2017, the food security situation has deteriorated in the Great
+South region compared with the March–June 2017 period, recording an increase in the percentage of the population
+facing Crisis and Emergency (IPC Phases 3 and 4) . In the southeast, a deterioration of food security conditions was
+witnessed mainly in Farafangana and Vangaindrano, where the number of households facing Crisis (IPC Phase 3)
+conditions has increased by 20 and 15 percent, respectively.
+➤➤ Between August and October, 1.2 million people in southern Madagascar were in need of urgent assistance
+(IPC Phases 3 and 4). Districts of particular concern are Tsihombe, Beloha, South Amboasary, Taolagnaro and Tulear II
+in the Great South and Farafangana and Vangaindano in the southeast. Poor households in these areas have already
+depleted their food stocks and are consuming purchased foods at high prices.
+
+   2
+
+Potential impact
+
+➤➤ From November to March 2018, households facing Crisis and Emergency (IPC Phases 3 and 4) conditions are expected
+to face a longer lean season (more than 8 months instead of 3 to 4 months), if short cycle crops are not available and
+planted in time for harvest in January–February 2018.
+➤➤ With higher food prices and increased dependence on markets, vulnerable households are unlikely to fully meet their
+food needs.
+➤➤ During the reporting period and through to June 2018, the number of people facing Crisis (IPC Phase 3) and Emergency
+(IPC Phase 4) conditions is likely to increase to 1.6 million people (33 percent) compared with October.
+➤➤ Seasonal rainfall forecasts for January to March indicate a higher likelihood of below-average rains in southern
+Madagascar.
+
+16
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+3
+
+Recommended early actions
+
+To support vulnerable households during the ongoing agricultural season
+and stop the deterioration of vulnerable households into Emergency (IPC
+Phase 4) conditions, the following activities are recommended for January
+to March:
+•• Provide information and assistance to communities on water availability
+and management techniques and support small-scale irrigation;
+•• restore and enhance livelihood assets through the implementation of
+integrated actions including protection of seeds;
+•• promote post-harvest management and handling techniques to ensure
+preservation of harvested crops;
+•• provide livestock support to vulnerable households including the
+provision of feed, water and veterinary care;
+•• support quick growing fodder and feed production in reliably irrigated
+areas; and
+•• implement cash-for-work programmes to rehabilitate water sources and
+provide people the means to procure food.
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Seasonality:
+
+Risk: On watch
+
+[January – March]
+Critical
+
+Off-Season
+
+IMPACT
+
+DEMOCRATIC PEOPLE’S REPUBLIC
+OF KOREA (DPRK)
+Economic impact of sanctions
+1
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Very
+likely
+
+Dry
+
+Risk overview
+
+➤➤ In September 2017, the United Nations Security Council unanimously approved Resolution 2375. The resolution
+
+3
+
+Recommended early actions
+
+To support agricultural activities and avoid the further deterioration of food
+security, the following actions are recommended:
+•• provide agricultural inputs (fertilizer, seeds and small farming equipment);
+•• distribute small livestock (poultry and pig) , particularly in areas
+vulnerable to the impact of climate change;
+•• support nutrition-based agriculture and sloping land management; and
+•• build capacity to control and mitigate impacts of transboundary animal
+diseases.
+
+ON WATCH
+
+imposes a strict economic sanction on textile exports, importation of natural gas liquid or crude oil and prohibits
+Member States from authorizing work for Democratic People’s Republic of Korea nationals. The sanction builds
+upon Resolution 2371, approved in August 2017, that banned international trade of iron, coals, lead and seafood.
+Restrictions on the country’s international financial system were also imposed by freezing foreign bank assets
+(excluding funds for humanitarian agencies).
+➤➤ As of January 2018, the aforementioned resolutions will impose tighter restrictions on importing refined petroleum.
+The current resolution reduced 30 percent of oil provided to the Democratic People’s Republic of Korea – a critical
+resource to the agriculture and transportation sectors.
+➤➤ In October 2017, the World Food Programme (WFP) reported on difficulties accessing and delivering food
+assistance due to these sanctions. This includes disruptions to ongoing operational procedures, including issues
+with banking services and procurement delays.
+➤➤ Prolonged dry spells and erratic rainfall impacted the development of the 2017 main cropping season. As a result,
+significant reductions to key cereal harvests are expected. The worst-affected areas include South and North
+Pyongan, Ryanggang, South and North Hwanghae and Nampo city.
+
+   2
+
+Negligible
+
+Potential impact
+
+➤➤ As economic sanctions and tensions continue against the backdrop of poor performing harvests, a decrease in the
+country’s purchasing power and ability to replenish critical food stocks is foreseeable. As a result, deterioration of food
+security and access is expected, which will become a critical concern for 70 percent of the population estimated to
+be food insecure.
+➤➤ Food insecurity are expected to further exacerbate in early 2018 due to the limited availability of petroleum. The
+rationing and limited stockpiling of fuel will be a significant concern for cooperative farmers, who rely on its energy
+to operate farming equipment for field preparation activities. This, in turn, will likely hinder the 2018 crop harvest
+prospects.
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+17
+
+Seasonality:
+[January – March]
+
+Critical
+
+Planting/Growing
+
+IMPACT
+
+SYRIAN ARAB REPUBLIC
+
+Risk: On watch
+
+Conflict and restricted humanitarian access
+
+Negligible
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Very
+likely
+
+Rainy
+
+➤➤ Conflict continues to be the principal driver of humanitarian needs in Syria, contributing to the world’s largest
+
+ON WATCH
+
+displacement crisis. Humanitarian assistance is a critical lifeline for vulnerable households, especially displaced
+households. However, access remains restricted and fragmented.
+➤➤ As of November 2017, 13.1 million people, over half of the Syrian population, urgently require humanitarian assistance.
+Current estimates highlight 6.5 million people are acutely food insecure, while a further 4 million people are at risk of
+becoming acutely food insecure – this figure has doubled compared with December 2016.
+➤➤ An estimated 3 million people continue to live in hard-to-reach areas throughout Syria. This includes nearly 420 000
+people living in 10 besieged zones, where access to humanitarian assistance is constrained due to persistent conflict.
+Over 94 percent of these cases are located in eastern Ghouta, where many are forced to depend on limited food
+reserves and local production. The remaining six percent are in Foah and Kefraya in Idleb governorates and Yarmouk
+in Damascus.
+➤➤ Since July 2017, several de-escalation zones have been established which has stimulated the return of IDPs and
+refugees. However, the United Nations High Commissioner for Refugees (UNHCR) discourages movements towards
+areas currently deemed unsafe. Returnees are likely to increase pressure on exhausted resources or damaged
+infrastructural systems.
+
+   2
+
+3
+
+Recommended early actions
+
+The following early actions are recommended to support Syrian farmers with
+access to land to aid with the recovery of livelihoods:
+•• provide inputs to support agriculture-based livelihoods through backyard
+food production (vegetable and poultry), as well as livestock producers
+by supplying feed, vaccines and other inputs;
+•• rehabilitate damaged infrastructure particularly irrigation, through cashbased interventions, where the security situation allows; and
+•• establish village-based private seed production and distribution centres
+to supplement limited governmental distribution.
+
+Potential impact
+
+➤➤ The food security situation in Syria has been severely impacted by prolonged conflict, which is likely to further
+
+exacerbate or delay access to vulnerable communities – particularly in besieged or hard-to-reach areas where
+aid is limited. If aid becomes increasingly restricted, the only way to reach those in need would be to intercept
+conflict frontlines, which will further endanger both humanitarian agencies and vulnerable communities. Overall,
+humanitarian access to northeast Syria will likely remain unpredictable throughout 2018.
+
+18
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Seasonality:
+[January – March]
+
+Critical
+
+Off-Season
+
+IMPACT
+
+SUDAN
+
+Risk: On watch
+
+Localized dry spells
+
+Negligible
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Very
+likely
+
+Dry
+
+➤➤ Parts of Sudan were affected by below-average rainfall during June and July 2017. In particular, these conditions
+
+   2
+
+3
+
+Recommended early actions
+
+To support livestock throughout the dry season, the following actions should
+be considered:
+•• Provide and distribute animal supplementary feeding, including
+concentrated fodder and mineral licks;
+•• Conduct vaccination (Haemorrhagic Septicaemia, peste des petits
+ruminants and sheep pox) and deworming campaigns;
+•• Provide refresher training to engaged community health workers;
+•• Launch awareness campaigns for the purpose of destocking to relieve
+pressure on natural resources; and
+•• Support pastoralists to improve access to water supplies through the
+rehabilitation of wells or supply of portable water tanks.
+
+ON WATCH
+
+have impacted localities in Kassala state, resulting in reduced cropping areas, high food prices and reduced water
+availability.
+➤➤ Despite the rainy season (June/October) resulting in above-average or average rainfall for the majority of Sudan, the
+situation in Kassala has become increasingly concerning from July 2017 onwards. The state received below-average
+rainfall ranging from 60 to 80 percent, with some localities reporting dry spells lasting 20 to 25 days.
+➤➤ As a result of dry conditions, planting was late and well below-average in Kassala. According to the inter-agency midseason assessment, confirmed by the Crop Food Security Assessment Mission preliminary findings, the area planted
+for sorghum was 50 to 60 percent below average in Kassala state due to shortage of rainfall.
+➤➤ As of September 2017, sorghum prices in Kassala have risen 15 percent per month and surpassed the national
+average of SDG $3.9 per kg.
+➤➤ According to the Sudanese Food Security Technical Secretariat (FSTS), 2017/2018 fodder reserve stocks sit at
+3.7 million tonnes, which are insufficient for the states’ needs. As a result, stocks are expected to run out by
+January 2018.
+➤➤ Critical water supplies (mainly hackers and hods) are expected to dry up by the end of December 2017. The lack of
+both resources present serious concerns as the state enters the dry season. Poor or deteriorating livestock conditions
+have been reported in localised areas, consequently decreasing market prices.
+
+Potential impact
+
+➤➤ From January to July 2018, the Sudanese FSTS estimated the increase of the fodder gap to more than 7.9 million
+
+tonnes. Therefore, ensuring the depletion of livestock feeding resources earlier than usual. This could potentially drive
+an early livestock lean season in February or March 2018, two months earlier than usual.
+➤➤ In addition, below-average sorghum cropping season will result in low harvests affecting food security.
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+19
+
+		Drought
+		
+
+Seasonality:
+[January – March]
+
+Critical
+
+Planting/Growing
+
+IMPACT
+
+SAHEL
+
+Risk: On watch
+
+Negligible
+
+Vegetation deficit likely to affect livestock and pastoralist livelihoods
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Very
+likely
+
+Rainy
+
+➤➤ Despite the overall good harvest experienced in 2017, the unevenly distributed rainy season over the Sahel has
+
+ON WATCH
+
+resulted in a biomass deficit in many pastoral areas – resembling the severe vegetation deficit experienced during the
+2011/12 drought. This negatively affects the availability of fodder and heightening the risk of a pastoral crisis in 2018.
+➤➤ Of particular high concern are areas including northeastern Chad, the pastoral zone of Niger (Tahoua, Maradi, Diffa
+and the north of Dosso regions), northern Senegal and the agro-pastoral zones of Mauritania, and Cabo Verde where
+fodder deficit persists. Fodder production in these areas has declined for a second consecutive year. In Senegal and
+Mauritania, severe water shortage were also observed.
+➤➤ The important herd concentration zone of Asongo in Mali is also experiencing production deficits along with the
+Tombouctou region and parts of Mopti and Segou. The low availability of fodder in Ansongo is considered of high
+concern as it might lead to irregular transhumance.
+➤➤ Cabo Verde is currently facing the worst drought crisis on record, with rainfall at 70 to 80 percent below its
+ten-year average.
+
+   2
+
+Potential impact
+
+➤➤ The high degree of biomass deficit in many pastoral areas across the Sahel is likely to compound existing vulnerability
+
+and endanger pastoral livelihoods, leading to increased livestock mortality rates and high levels of food insecurity and
+malnutrition within the affected communities in early 2018.
+➤➤ Herd transhumance movements are likely to begin early and follow irregular patterns possibly crossing into agricultural
+land. This may further exacerbate tensions and trigger conflicts between sedentary farmers and pastoral communities.
+➤➤ The lack of pasture and water will likely lead to an increase in animal feed demand and a decrease in its offer.
+This would likely generate an increase in feed prices and may lead to market shocks in the affected areas. Further,
+decrease of livestock prices will affect herders’ purchasing power.
+
+20
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+3
+
+Recommended early actions
+
+In close coordination with existing long-term initiatives, all actions should
+address the root causes of such crisis and with the participation of pastoral
+organisations. Therefore, the recommended actions are as follows:
+•• support the mapping of available resources (pasture, surface water and
+borehole water availability);
+•• assist countries and pastoralist communities to safely manage
+transhumance movements of livestock at critical points in order to
+minimize risk of conflicts;
+•• support early offtake and destocking activities through cash payments or
+vouchers for feed or veterinary services;
+•• emergency livestock support including provision of feed, water and
+veterinary care to save weakened and core-breeding livestock;
+•• support quick growing fodder and feed production in reliably irrigated
+areas; and
+•• implement cash-for-work programmes to rehabilitate water sources,
+establish spate irrigation schemes for fodder production (where possible)
+and fire prevention of limited available pasture, and provide people the
+means to procure food;
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Seasonality:
+[January – March]
+
+Critical
+
+Off-Season
+
+IMPACT
+
+CENTRAL AFRICAN REPUBLIC (CAR)
+
+Risk: On watch
+
+		
+		
+1
+
+Intensified conflict affecting livelihoods
+and causing internal displacement
+
+Risk overview
+
+➤➤ The security situation in the Central African Republic continues to worsen in northwestern and southeastern areas as
+
+   2
+
+3
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Very
+likely
+
+Dry
+
+Recommended early actions
+
+To support the most affected communities to restore their livelihoods and
+ensure their access to food, the following actions are recommended:
+•• provide livelihood support (e.g. home gardening, poultry, tuber crops –
+sweet potatoes, cassava) to both IDPs and host communities to improve
+food security, strengthen food production capacity and gain access to
+some revenues;
+•• during the dry season, support the rehabilitation of infrastructure (postharvest storage, value chain transformation small equipment (e.g.
+mills), livestock, market facilities, etc.) and ensure animal health better
+coverage (especially basic immunizations); and
+•• support and strengthen existing dialogue platforms between pastoralists
+and farmers to reduce conflict prior to livestock migration season.
+
+ON WATCH
+
+a result of violent clashes between armed groups. This has heavily affected livelihood activities, causing an increase in
+humanitarian needs while at the same time limiting humanitarian access.
+➤➤ Although the last IPC report in February 2017 indicated that 1.1 million people faced Crisis (IPC Phase 3) and
+Emergency (IPC Phase 4) conditions, trends indicate limited and poor food consumption and reduced household
+coping capacity. The crisis the country is experiencing since 2013 has led to the displacement of more than 600 000
+people internally and forced more than 500 000 people to seek refuge in neighbouring countries.
+➤➤ The new escalation in the conflict has particularly ignited tensions between farmers and pastoralists, since livestock
+is mainly confined to localized areas due to insecurity, especially affecting transhumance herding and the livestock
+sector as a whole.
+➤➤ Unfavourable 2017 crop production prospects are expected due the decline in planted areas as a consequence of
+persisting civil unrest.
+➤➤ In addition, livestock and imported food prices are well above average due to difficulties in transportation.
+➤➤ Insecurity has also threatened humanitarian interventions, leading to the relocation of 241 workers from conflict
+areas in January–September 2017. The reduced presence of humanitarian agencies and partners impacts the delivery
+of vital assistance.
+
+Negligible
+
+Potential impact
+
+➤➤ The January–March period marks the livestock migration period, hence intensified hostilities between pastoralists
+
+and farmers is very likely. The same period coincides with the migration and labour demand peak, with conflict likely
+to hamper income-generating activities.
+➤➤ Ongoing conflicts will continue to affect food security outcomes in the northwestern, southeastern and central
+part of the country, especially in Basse Kotto, Haute Kotto, Haut Mbomou, Mbomou, Nana Mambéré and Ouham
+Pende. Affected households in these areas are likely to experience reduced harvests for the fifth consecutive year, low
+livestock production prospects, as well as limited access to humanitarian assistance. Therefore, they are expected to
+continue facing Crisis (IPC Phase 3) conditions or worse.
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+21
+
+Seasonality:
+[January – March]
+
+Critical
+
+Off-Season
+
+IMPACT
+
+MONGOLIA
+
+Risk: On watch
+
+Impact of drought and potential severe
+winter conditions
+1
+
+Risk overview
+
+➤➤ In mid-2017, Mongolia experienced a prolonged drought impacting large agriculture producing areas and pasture
+
+ON WATCH
+
+rangelands. The situation could deteriorate with an elevated risk of severe winter conditions known as dzud, which
+threatens the livelihoods of Mongolian herders in central and western parts of the country.
+➤➤ Extreme high temperatures affected 80 percent of rangelands in mid-2017. The situation deteriorated further when
+a short spurt of above-average rains in August damaged key wheat crops just before the harvest. Depending on the
+area, wheat production is between 30 to 70 percent below average.
+➤➤ The September harvest is critical for the country’s economy and building up fodder reserves. However, the current
+Pasture Carrying Capacity (PCC) is low, with 40 percent of rangelands moderately or heavily overgrazed and a further
+35 percent lightly overgrazed. Mongolia’s total PCC currently stands at 35 million heads of livestock, however the
+country has over 61.5 million heads of livestock.
+➤➤ The poor availability of feed has resulted in below-average livestock conditions. Due to the limited grazing capacity,
+livestock were not able to develop critical stores of fat to survive the winter. The preparation of hay and fodder by
+herders is 48 percent at district level and security reserves at a province level rests at 27 percent. Reserves only last
+until the end of 2017.
+➤➤ The value of meat and dairy on the retail market has also decreased. The oversupply of livestock is a result of herders
+selling for cash to purchase fodder reserves. Prices of meat products were reportedly 20 to 30 percent compared with
+the October 2016 average.
+➤➤ On 10 November 2017, the Government of Mongolia released a dzud risk map, revealing that 30 percent of the
+country is at very high risk of dzud and 30 percent with medium risk.
+
+   2
+
+Negligible
+
+3
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Very
+likely
+
+Snow
+
+Recommended early actions
+
+To support livestock throughout the winter season, the following actions
+should be considered:
+•• preposition hay and fodder feed to support livestock survival;
+•• support vulnerable herder households with benign hay and concentrate;
+•• provide fodder with a high content of proteins, vitamins and minerals,
+particularly for pregnant livestock or yearlings; and
+•• strengthen livestock disease surveillance and control operations,
+particularly for FMD.
+
+Potential impact
+
+➤➤ Even if a mild dzud forms, the poor performance of the main growing season raises elevated concerns for the winter
+
+months. The combination of below-average livestock conditions coupled with poor feed reserves compromises
+livestock’s ability to survive the winter. Such conditions expose livestock to hyperthermia and starvation.
+Early estimates signal that 161 000 herder-households will be impacted.
+➤➤ Reports have highlighted deficit of over 405 000 tonnes of hay and 23 000 tonnes of animal fodder is required to
+support herders through the winter months. To make up for this deficit, the Government has pledged to import fodder.
+However, vulnerable herders will unlikely have the means to purchase this feed.
+
+22
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Critical
+IMPACT
+
+AFRICA – FALL ARMYWORM
+
+Risk: On watch
+
+Further spread of Fall Armyworm
+1
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Very
+likely
+
+Risk overview
+
+➤➤ The Fall Armyworm (FAW) (Spodoptera frugiperda) is an insect native to the Americas, which has the potential to
+
+Potential impact
+
+➤➤ Due to its potential to fly long distances and through trade, FAW is a dangerous transboundary pest with a high
+
+probability to infest additional countries. The detection of the pest in Sudan raises an alarm for Egypt. Farmers will
+need great support to sustainably manage FAW.
+➤➤ A recent estimate from the Centre for Agriculture and Bioscience International indicates that if the FAW is not well
+managed, it could cause a possible 21 to 53 percent annual maize loss in 12 maize producing African countries,
+corresponding to an estimated 8.3 to 20.6 million tonnes loss of maize per year worth between USD 2.48–6.18 billion.
+➤➤ Considering FAW does not only feed on maize but also affects other crops, the potential impact might be even greater
+than the given estimates.
+➤➤ The majority (98 percent) of maize farmers in Africa are smallholder farmers for whom reduced maize harvests would
+lead to a decrease in their food security. Areas exposed to drought are especially vulnerable since crops with low
+moisture become less resilient and therefore are exponentially more liable to the pest. This puts the already drought
+prone vulnerable communities at an even greater risk.
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+3
+
+Recommended early actions
+
+The following actions are recommended:
+•• support the implementation of farmer field schools for training of
+smallholder farmers on pest management;
+•• since the pest cannot be eradicated in the long term the focus lies on the
+development of economically effective pest management techniques for
+smallholder farmers;
+•• support biological control efforts (development of natural pesticides, e.g
+predators and parasitoids);
+•• support the country assessment of FAW impact (distribution, mapping,
+infestation levels, damage, yield loss, pest population and conducting
+case studies);
+•• support the design and testing of suitable programmes for pest
+management for smallholder farmers in Africa;
+•• strengthen regional coordination through monitoring early warning
+systems; and
+•• support south-south cooperation to share knowledge by facilitating
+events.
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+ON WATCH
+
+reproduce several times a year. The female moth can fly up to 100 km a day.
+➤➤ Its larvae feeds mainly on maize and 80 other plant species including rice, sorghum, millet, sugarcane, vegetable crops
+and cotton.
+➤➤ The first cases were detected in Central and West Africa in early 2016, before spreading across South and East Africa,
+where it continues to impact agriculture causing substantial yield losses and reducing the quality of agricultural
+outputs.
+➤➤ To date, the pest has been recorded in over 40 African countries within a one-year period. In Chad, Equatorial Guinea,
+Gabon and the Congo, the pest has been detected and awaiting official reporting.
+➤➤ In response to its spread, many farmers increased their use of chemical pesticides. Experts consider the use of such
+pesticides as harmful, which can cause environmental damage and present health risks.
+➤➤ In particular, women are commonly responsible for applying the pesticides, where the highly hazardous chemicals
+can be easily transferred throughout the households. Local human health as well as trade are negatively influenced
+due to pesticide residues in food.
+➤➤ Trade routes from affected to non-affected countries have been impacted.
+
+   2
+
+Negligible
+
+23
+
+			Floods and cyclones
+1
+
+ON WATCH
+
+conditions developing in the fourth quarter of 2017 and continuing through the first quarter of 2018.
+➤➤ La Niña is the cooling of the Pacific Ocean temperature, which occurs roughly every three to five years and lasts from
+six to 24 months. The intensity of La Niña generally peaks between October and January; however, effects can be felt
+afterwards.
+➤➤ La Niña 2017/2018 episode is likely to be short-lived and weak, as sea surface temperatures are forecast to warm
+again in early 2018.
+➤➤ La Niña is not the only factor that affects seasonal weather patterns, and the strength of La Niña does not always
+correspond to the strength of its effects on local weather.
+
+Potential impact
+
+➤➤ In the Horn of Africa, the short rains (October–December) and the long rains (March–May) are likely to underperform
+
+with the onset of La Niña and other climate drivers, potentially leading to a fourth and fifth drought-affected seasons.
+
+➤➤ Across Central Asia, reduced precipitation leading to below-average snow accumulation is most likely across west
+
+central Afghanistan and Tajikistan during the 2017-2018 winter growing season. Below-average precipitation across
+Afghanistan’s 2017-2018 season could lead to a second consecutive below-average harvest season.
+➤➤ Indonesia, the Philippines and the Pacific Islands often experience above-average rainfall during the beginning of
+their main rainfall season. Although La Niña is likely to be weak, the most recent rainfall forecasts reflect these
+tendencies with above-average rainfall forecast across eastern Indonesia, Timor-Leste, Papua New Guinea, central
+and southern Philippines and many of the western Pacific Islands.
+➤➤ According to the global inter-agency El Niño Southern Oscillation (ENSO) analysis cell, comprising of United Nations
+operational agencies, World Meteorological Organization, International Federation of the Red Cross and Red Crescent,
+civil society and academic partners. The most-at-risk areas to experience La Niña in the first quarter of 2018 are
+Afghanistan, southwestern Ethiopia, eastern Kenya, and southern and central Somalia.
+
+24
+
+Negligible
+
+Very
+unlikely
+
+LIKELIHOOD
+
+Very
+likely
+
+Risk overview
+
+➤➤ According to most international climate research institutes, there is more than an 80 percent chance of La Niña
+
+   2
+
+Critical
+IMPACT
+
+LA NIÑA
+
+Risk: On watch
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+3
+
+Recommended early actions
+
+At the global level:
+•• strengthen the coordination and preparedness capacity of the
+international community, through the implementation of the interagency
+ENSO Standard Operating Procedures, which will guide collective early
+action in relation to ENSO events; and
+•• increase joint monitoring and analysis of potential La Niña impacts.
+At the regional and national level:
+•• increase monitoring of climatic forecasts; and
+•• ensure La Niña response, contingency or preparedness plans are updated
+or developed to cater for the current context.
+In areas likely to be affected by drier than average conditions:
+•• review the actual and likely availability of drought-tolerant and early
+maturing varieties of crops on the international market for potential
+distribution; and
+•• foresee the strengthening of the monitoring of animal pests and
+diseases and the provision of animal health support to herders.
+in areas likely to be affected by wetter than average conditions:
+•• review the actual and likely availability of flood-tolerant varieties of
+crops;
+•• ensure proper shelter, veterinary care and adequate livestock feed in
+the most affected areas; and
+•• promote the use of saline-tolerant seed varieties, improved agricultural
+practices and better water and embankment management.
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+HISTORICAL LA NIÑA TRENDS
+
+Jan – Apr
+Jan – Apr
+
+Jun – Sep
+
+Dec – Mar
+
+Jul – Apr
+Oct – Apr
+
+ON WATCH
+
+Jun – Mar
+Jul– Sep
+
+Oct – Dec
+Nov – Mar
+Jun – Apr
+Jun – Dec
+Sep – Jan
+
+Nov – Apr
+
+Sep – Mar
+
+Jun – Sep
+Aug – Dec
+
+May – Feb
+Aug – Dec
+Climate seasons
+
+Wet
+
+Dry
+
+Source: NWS/NCEP Climate Prediction Center
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+25
+
+List of acronyms
+AWD
+CH
+ENSO
+EWEA
+FAO
+FAW
+FCC-EMPRES
+FEWSNET
+FMD
+FSAC
+FSTS
+GIEWS
+IDP
+INFORM
+IPC
+OCHA
+UN
+
+26
+
+Acute Watery Diarrhea
+Cadre Harmonisé
+El Niño Southern Oscillation
+Early Warning - Early Action
+Food and Agriculture Organization of the United Nations
+Fall armyworm
+Food Chain Crisis - Emergency Prevention System
+Famine Early Warning Systems Network
+Foot-and-mouth disease
+Food Security and Agriculture Cluster
+Food Security Technical Secretariat
+Global Information and Early Warning System
+Internally displaced person
+Index for Risk Management
+Integrated Food Security Phase Classification
+Office for the Coordination of Humanitarian Affairs
+United Nations
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Sources of information and references
+The report consolidates information provided by GIEWS, FCC-EMPRES and IPC, and
+where necessary external sources of information, highlighting the most urgent global
+situations to alert decision-makers at all levels of the Organization. The analytical
+basis for the prioritisation of countries and the major sources of information and data
+presented in the report are three main groups of datasets:
+➤➤ Countries requiring external assistance and low-Income food-de¬ficit countries’
+food security situation (Source: Crop Prospects and Food Situation Bulletin, GIEWS,
+http://www.fao.org/giews/reports/crop-prospects/en);
+➤➤ Food chain crisis threats forecasting at country and regional levels (Source: Food
+Chain Crisis early warning bulletin, FCC-EMPRES, http://www.fao.org/food-chaincrisis/home/en); and
+➤➤ Results of the IPC Acute Food Insecurity analyses (http://www.ipcinfo.org); and
+Cadre Harmonisé analysis (http://www.agrhymet.ne/).
+Additional information and data presented in the report are consolidated from the
+following sources:
+➤➤ FAO sources
+•• Situation reports and publications by the Emergency and Rehabilitation Division
+(http://www.fao.org/emergencies/en)
+•• Resilience index measurement and analysis reports (http://www.fao.org/ resilience/
+background/tools/rima/it)
+•• Desert locust bulletins and alerts issued by the Desert Locust Information Service
+(http://www.fao.org/ag/locusts/en/info/info/index.html)
+➤➤ External sources
+•• Reports and bulletins by the UN agencies, in particular OCHA (http://www.
+unocha.org) and WFP Vulnerability Analysis and Mapping Unit (http://vam.wfp.org).
+•• INFORM (http://www.inform-index.org)
+•• FEWSNET (http://www.fews.net)
+•• International Research Institute for Climate and Society (http://iri.columbia.edu)
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+27
+
+GLOBAL MAP OF COUNTRIES
+WITH HUMANITARIAN RESPONSE PLANS OR EMERGENCY PLANS
+
+Ukraine
+Syrian Arab Republic
+occupied Palestinian territory (oPt)
+Libya
+Niger
+
+Haiti
+
+Afghanistan
+Myanmar
+
+Mauritania
+Mali
+Senegal
+Burkina Faso
+Nigeria
+Chad
+Cameroon
+Central African Republic (CAR)
+Democratic Republic
+of the Congo (DRC)
+
+Iraq
+Yemen
+Djibouti
+Sudan
+Ethiopia
+Somalia
+South Sudan
+Burundi
+
+Source: Global Humanitarian Overview 2017, OCHA.
+
+28
+
+Global Early Warning – Early Action Report on Food Security and Agriculture
+January – March 2018
+
+Food and Agriculture Organization of the United Nations
+Rome, 2018
+
+This report has been developed by FAO’s Early Warning – Early Action Team, thanks to the support
+of the FAO Special Fund for Emergency and Rehabilitation Activities (SFERA) and the following partners:
+
+Early Warning – Early Action (EWEA)
+Agricultural Development Economics Division (ESA)
+Food and Agricultural Organization of the United Nations (FAO)
+For more information:
+Email: ewea@fao.org
+Website: http://www.fao.org/emergencies/fao-in-action/ewea/en
+
+

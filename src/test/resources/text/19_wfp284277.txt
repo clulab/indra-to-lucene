@@ -1,0 +1,122 @@
+South Sudan: The 2016 Rainfall Seasonal Analysis
+May 2016
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2016
+
+HIGHLIGHTS
+• The growing season of 2016 in South Sudan started well due to early favourable rainfall,
+with earlier than average or timely planting across most of Western Equatoria, Greater
+Bahr-el-Ghazal, northern areas and Upper Nile. In Central Equatoria and some eastern
+areas of the country, moderate delays were noticed, but without much consequence;
+
+• in April, rainfall performance was largely above average countrywide. This is in line with
+field reports that are indicating the start of the rainy season in many areas across the
+country;
+• The wetter than average conditions in mid May, led to average to above average
+vegetation developing along the west, central and north parts of South Sudan;
+• Forecasts for the core months of the rainfall season (July to September, see Fig 1 right) for
+South Sudan and neighbouring areas, point to a high likelihood of above average rainfall,
+in particular in the eastern half of the country.
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2016
+
+Seasonal Rainfall Performance
+
+Map 1: Seasonal cumulative rainfall until 20 May 2016, as a percentage of the
+20-year average. Hashed pattern indicates main agricultural areas. Brown
+shades indicate below-average rainfall; blue shades indicate above-average
+seasonal rainfall.
+
+Map 2: 30 days cumulative rainfall until 20 May 2016, as a percentage of the
+20-year average. Hashed pattern indicates main agricultural areas. Brown
+shades indicate below-average rainfall; blue shades indicate above-average
+seasonal rainfall.
+
+Seasonal rainfall performance
+Seasonal rainfall in mid-May was generally above average across South Sudan (map 1), particularly from North Bahr el Ghazal to Upper
+Nile, where early season rainfall has been around twice as much as the usual. In other states, rainfall has also been above average but at
+more moderate levels. This has been the case since the very beginning of the season.However, in areas of southern Jonglei (Pibor county)
+and Eastern Equatoria (Kapoeta East), rainfall is close to normal, after a drier early season.
+These early wetter than average conditions will have a positive impact on the start of agricultural season and will lead to an early start of
+planting and cultivation.
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2016
+
+Seasonal Rainfall and Vegetation Performance
+
+Plots are showing the rainfall and NDVI profiles from 1 dekad of January 2016 including the 20 year average for both rainfall and
+NDVI.
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2016
+
+Seasonal Rainfall and Vegetation Performance
+
+The illustrated plots show the arrival of the rains from March with
+vegetation development following soon after. They depict better than
+average rainfall starting from April that will lead to above average
+vegetation development in due course.
+
+Plots are showing the rainfall and NDVI profiles from 1 dekad of January 2016 including the 20 year average for both rainfall and
+NDVI.
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2016
+
+Onset of the Growing Season
+
+Left: Date of onset of the growing season compared to average. Pinks and yellows to reds for delayed growing seasons, green shades for earlier than average growing seasons.
+Right: Late August 2015 Vegetation Index as a percentage of the 12-year average. Hashed pattern indicates main agricultural areas. Orange shades for below-average; green shades for above-average vegetation.
+
+Onset of Season and Vegetation Status
+The growing season has started earlier than usual in southern and western areas (Western Equatoria and Greater Bahr-el-Ghazal)
+as well as along the border with Sudan and in Upper Nile state due to good rains during the earlier stages of the season. In some
+places, growing season conditions are in place up to a month earlier than usual. In eastern areas (northern part of Eastern
+Equatoria and southern part of Jonglei), the season started moderately later than usual due to drier than average conditions in
+April. Overall, no significant perturbations of the planting dates are noticeable or expected.
+In the bimodal rainfall areas of western South Sudan, the first season planting is on going. The vegetation cover though still below average
+in the east of the country will now start increasing to above average levels.
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2016
+
+Seasonal Rainfall Forecast
+
+Near future perspectives
+• Forecasts for the core months of the rainfall season (July
+to September) for South Sudan, point to a high likelihood
+of above average rainfall, in particular in the eastern half
+of the country.
+• The above average rainfall that has been received so far is
+expected to continue throughout the season.
+
+• A La Nina event may develop from July onwards and this
+may lead to further enhanced rainfall in the second half of
+the rainfall season as typical of this region during this type
+of events.
+• Although enhanced rainfall opens good perspectives for
+higher levels of crop production and good levels of water
+and pasture, scenarios of significant flooding particularly
+in the eastern areas of South Sudan (Eastern Equatoria,
+Jonglei and Upper Nile) need to be considered.
+• The forecasts are updated monthly with the next issue
+being issued in mid-June. The tendencies are common to a
+number of forecasts from a variety of institutions.
+
+ECMWF forecast for July – September 2016 rainfall.
+Green shades = wetter than average conditions more likely.
+Brown shades = drier than average conditions more likely
+
+Data Sources:
+Rainfall: CHIRPS, Climate Hazards Group, UCSB
+Vegetation: MODIS NDVI, EOSDIS-NASA
+Land Cover: FAO GLC-Share
+
+Processing:
+VAM software components, ArcGIS
+
+For more information, please contact:
+Raul Cumba (VAM South Sudan) - raul.cumba@wfp.org
+Rogerio Bonifacio (VAM HQ) - rogerio.bonifacio@wfp.org
+
++211 920002729
++39 06 6513 3917
+
+

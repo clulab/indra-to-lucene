@@ -1,0 +1,138 @@
+South Sudan: The 2016 Rainfall Seasonal Analysis
+
+September 2016
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2016
+
+HIGHLIGHTS
+• The growing season of 2016 in South Sudan started well due to early and favourable rainfall, with earlier
+than average or timely planting across most of Western Equatoria, Greater Bahr-el-Ghazal, northern areas
+and Upper Nile. In Central Equatoria and some eastern areas of the country, moderate delays were noticed,
+but without much consequence.
+• The rainfall season continued normally across the country until late July. However, in August, significant
+rainfall deficits extended across the country except Warrap and parts of Western Equatoria and parts of
+Western Bahr Ghazal. A continuation of these conditions may have serious impacts on crop performance in
+these regions.
+• Field reports indicate that in bimodal areas (west and south west), first-season harvests have started, and
+second-season activities are underway, although with challenges related to insecurity. In other areas of the
+country, green harvest of most crops is ongoing.
+• The dry than average conditions in August, led to average to below average vegetation developing in
+some parts of north and south-east of South Sudan. However, no significant perturbations of the crop
+development were reported from the field.
+• Forecasts for the later stages of the rainfall season (October to December 2016) for South Sudan and
+neighbouring areas, point to a high likelihood of above average rainfall, in particular in the eastern half of
+the country.
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2016
+
+Seasonal Rainfall Performance
+
+Map 1: Seasonal cumulative rainfall until 31 August 2016, as a percentage of the 20-year average.
+Hashed pattern indicates main agricultural areas. Brown shades indicate below-average rainfall;
+blue shades indicate above-average seasonal rainfall.
+
+Map 2: 30 days cumulative rainfall until 31 August 2016, as a percentage of the 20-year average.
+Hashed pattern indicates main agricultural areas. Brown shades indicate below-average rainfall;
+blue shades indicate above-average seasonal rainfall.
+
+Seasonal rainfall performance
+Until end of August, seasonal rainfall was above average in central and northern parts of the country (Warrap, Lakes, Unity, Northern Jonglei , Upper Nile, as well as
+Central Equatoria state) and moderately below average in south-eastern regions (south and east of Jonglei and Eastern Equatoria States) as well as parts of Western
+Bahr Ghazal. These broadly favourable rains are expected to have a positive impact on the agricultural season. This is in line with field information where Jonglei
+reported some floods in Fangak, Twic East and in Upper Nile with reported floods in eastern flood plain counties particularly greater Maiwut and greater Nasir as a
+result of abnormal rainfall and river overflows. Greater Bahr Ghazal and greater Equatoria states continues to report normal rainfall except greater kopoeta counties
+which reported poor rains.
+However, a closer look at recent rainfall performance reveals strong rainfall deficits during the month of August (see Map 2) across Eastern and Central Equatoria,
+Jonglei, Unity, Upper Nile, as well as parts of Lakes and Western Bahr Ghazal. The impact of these deficits on the seasonal total rainfall (Map 1) is not so apparent
+since the early season rainfall (up to July) was quite favourable and above average.
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2016
+
+Seasonal Rainfall and Vegetation Performance
+
+Plots indicating the rainfall and NDVI profiles from 1 dekad of January 2016 including the 20 year average for both rainfall and NDVI.
+For more plots down to county level please visit:
+
+http://dataviz.vam.wfp.org
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2016
+
+Seasonal Rainfall and Vegetation Performance
+
+The illustrated plots show the arrival of the rains from March with vegetation
+development following soon after. Note better than average rainfall starting from
+April, that led to above average vegetation development.
+
+Plots indicating the rainfall and NDVI (The normalized difference vegetation index ) profiles from 1 dekad of January 2016 including the 20 year average
+for both rainfall and NDVI.
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2016
+
+Onset of the Growing Season
+
+Left: Date of onset of the growing season compared to average. Pinks and yellows to reds for delayed growing seasons, green shades for earlier than average growing seasons.
+Right: Late August 2016 Vegetation Index as a percentage of the 12-year average. Hashed pattern indicates main agricultural areas. Orange shades for below-average; green shades for above-average vegetation.
+
+Onset of Season and Vegetation Status
+The growing season has started earlier than usual in southern and western areas (Western Equatoria and Greater Bahr-el-Ghazal) as well as along the border with
+Sudan and in Upper Nile state, due to good rains during the earlier stages of the season. In some places growing season conditions are a month earlier than usual. In
+eastern areas (northern part of Eastern Equatoria and southern part of Jonglei) the season started moderately later than usual, due to drier than average conditions
+in April. Overall, no significant perturbations of the planting dates are noticeable or expected.
+The recent drier than average conditions in August, led to below average vegetation developing in some parts of north and south-east of South Sudan. However, no
+significant perturbations of the crop development were reported from the field except in areas where crops are flooded (Tonj South, Fangak and Twic East).
+According to field reports, first crop season harvest are on going in the bimodal rainfall areas of western South Sudan and green harvest for most crops in the rest of
+the country. In addition, in biomadal rainfall areas, planting of the second season crop is ongoing with some challenges due to insecurity situation mainly in greater
+Mundri Counties, Tombura, Maridi (Western Equatoria Statee) and Yei, Lainya, Yei, Morobo and part of Kajo-Keji and Juba where farmers are displaced and cannot
+access their farm lands.
+
+SOUTH SUDAN SEASONAL ANALYSIS - 2016
+
+Seasonal Rainfall Forecast
+Near future perspectives
+According to GHACOF 44, the regional consensus climate outlook for the
+October to December 2016 season indicates increased likelihood of below
+normal rainfall over most of the equatorial parts of the GHA. Increased
+likelihood of above normal rainfall is indicated over the western parts of
+the equatorial and northern sectors. There is also increased likelihood of
+warmer that average mean temperatures over much of the GHA.
+For South Sudan, the forecasts indicate above average rainfall, in
+particular in the eastern half of the country – this translates into a wetter
+than average late stage of the rainfall season with a tendency for rainfall
+to last longer than usual. Westernmost areas of the country may undergo
+a drier than average later stages, but no significant impact is expected
+upon crop performance.
+Although enhanced rainfall favours higher crop production and better
+water and pasture availability, it also increases the likelihood of continued
+significant flooding, particularly in the eastern areas of South Sudan
+(Eastern Equatoria, Jonglei and Upper Nile).
+The tendencies are common to a number of forecasts from a variety of
+institutions.
+
+GHACOF 44 forecast for October – December 2016 rainfall.
+Zone I:
+Increased likelihood of above normal rainfall
+Zone II:
+Usually dry
+Zone III:
+Increased likelihood of above normal rainfall
+Zone IV:
+Increased likelihood of below normal rainfall
+Zone V:
+Increased likelihood of below normal rainfall
+
+Data Sources:
+Rainfall: CHIRPS, Climate Hazards Group, UCSB
+Vegetation: MODIS NDVI, EOSDIS-NASA
+Land Cover: FAO GLC-Share
+
+Processing:
+VAM software components, ArcGIS
+
+For more information, please contact:
+Raul Cumba (VAM South Sudan) - raul.cumba@wfp.org
+Rogerio Bonifacio (VAM HQ) - rogerio.bonifacio@wfp.org
+
++211 920002729
++39 06 6513 3917
+
+

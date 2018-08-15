@@ -9,8 +9,8 @@ object Utils {
   type FileMapping = (File, String) => File
 
   def getContents(file: File) = {
-    val source = Source.fromFile(file)
-    val rawText = source.getLines.mkString("\n")
+    val source = Source.fromFile(file, "UTF-8")
+    val rawText = source.mkString
 
     source.close()
     rawText
