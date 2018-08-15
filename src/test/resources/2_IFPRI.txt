@@ -1,0 +1,5091 @@
+IFPRI Discussion Paper 01482
+November 2015
+
+Enhancing Food Security in South Sudan
+The Role of Public Food Stocks and Cereal Imports
+
+Paul A. Dorosh
+Shahidur Rashid
+Abigail Childs
+Joanna van Asselt
+
+Development Strategy and Governance Division
+
+INTERNATIONAL FOOD POLICY RESEARCH INSTITUTE
+The International Food Policy Research Institute (IFPRI), established in 1975, provides evidence-based
+policy solutions to sustainably end hunger and malnutrition and reduce poverty. The Institute conducts
+research, communicates results, optimizes partnerships, and builds capacity to ensure sustainable food
+production, promote healthy food systems, improve markets and trade, transform agriculture, build
+resilience, and strengthen institutions and governance. Gender is considered in all of the Institute’s work.
+IFPRI collaborates with partners around the world, including development implementers, public
+institutions, the private sector, and farmers’ organizations, to ensure that local, national, regional, and
+global food policies are based on evidence. IFPRI is a member of the CGIAR Consortium.
+
+AUTHORS
+Paul A. Dorosh (p.dorosh@cigar.org) is a director of the Development Strategy and Governance Division of the
+International Food Policy Research Institute (IFPRI), Washington, DC.
+Shahidur Rashid (s.rashid@cgiar.org) is a senior research fellow in the Markets, Trade and Institutions Division of
+IFPRI, Washington, DC.
+Abigail Childs (a.childs@cgiar.org) is a senior research assistant in the Development Strategy and Governance
+Division of IFPRI, Washington, DC.
+Joanna van Asselt (j.vanasselt@cgiar.org) is a senior research assistant in the Development Strategy and
+Governance Division of IFPRI, Washington, DC.
+
+Notices
+IFPRI Discussion Papers contain preliminary material and research results and are circulated in order to stimulate discussion and
+critical comment. They have not been subject to a formal external review via IFPRI’s Publications Review Committee. Any opinions
+stated herein are those of the author(s) and are not necessarily representative of or endorsed by the International Food Policy
+Research Institute.
+
+1.
+
+The boundaries and names shown and the designations used on the map(s) herein do not imply official endorsement or
+acceptance by the International Food Policy Research Institute (IFPRI) or its partners and contributors.
+
+2.
+
+Copyright 2015 International Food Policy Research Institute. All rights reserved. Sections of this material may be reproduced for
+personal and not-for-profit use without the express written permission of but with acknowledgment to IFPRI. To reproduce the
+material contained herein for profit or commercial use requires express written permission. To obtain permission, contact
+ifpri-copyright@cgiar.org.
+
+Contents
+Abstract
+
+v
+
+Acknowledgments
+
+vi
+
+1. Introduction
+
+1
+
+2. Historical Background and Overview of the Agricultural Economy of South Sudan
+
+2
+
+3. Cereal Production, Consumption, and Imports
+
+9
+
+4. Cereal Markets and Prices
+
+22
+
+5. Options for a National Food Security Reserve System
+
+31
+
+6. Summary and Conclusions
+
+37
+
+Appendix A: NBHS 2009 Data Cleaning Procedures
+
+42
+
+Appendix B: Analysis of Household Demand, Regression Results
+
+43
+
+References
+
+46
+
+iii
+
+Tables
+2.1 South Sudan timeline
+2.2 South Sudan security situation, 2015
+2.3 Basic economic data for selected East African countries (2013)
+2.4 South Sudan economic indicators
+2.5 South Sudan’s major trading partners
+2.6 South Sudan seasonal calendar
+3.1 South Sudan cereal production and requirements, 2008/2009–2014/2015
+3.2 South Sudan cereal production by state in thousand metric tons, 2010/2011–2014/2015
+3.3 South Sudan estimated cereal production and imports, 2009
+3.4 South Sudan population and returnees
+3.5 South Sudan estimated cereal production, consumption, and imports, 2009 and 2013
+3.6 South Sudan monthly cereal consumption and expenditures, 2009
+3.7 Juba, South Sudan, monthly cereal consumption and expenditures, 2009
+3.8 South Sudan monthly average per capita cereal consumption (kg/person), 2009
+3.9 South Sudan number of consumers of cereals, 2009
+3.10 South Sudan consumers of cereals as percentage of total consumers, 2009
+3.11 South Sudan monthly average cereal prices in Sudanese pounds
+3.12 South Sudan household budget shares, 2009
+4.1 South Sudan markets, 2015
+4.2 South Sudan domestic and import parity prices of maize and sorghum, 2008–2014
+5.1 Cereal distribution: South Sudan WFP and Ethiopia PSNP
+5.2 South Sudan cereal distribution and proposed minimum cereal stock targets
+A.1 Households dropped in data cleaning
+B.1 Variables used to predict monthly per capita expenditure
+B.2 Binary variables
+B.3 Variables used in two-step Heckman regressions
+
+2
+3
+3
+4
+6
+8
+9
+9
+11
+12
+13
+15
+15
+16
+17
+17
+19
+20
+24
+28
+33
+35
+42
+44
+44
+45
+
+Figures
+2.1 South Sudan gross domestic product
+3.1 South Sudan cereal production by region, 2010/2011–2014/2015
+3.2 South Sudan cereal production and requirements, 2008/2009–2014/2015
+3.3 South Sudan cereal net production, imports, and consumption, 2009 and 2013
+3.4 South Sudan maize consumers by region, 2009
+3.5 South Sudan wheat consumers by region, 2009
+3.6 South Sudan sorghum consumers by region, 2009
+3.7 South Sudan household budget shares, 2009
+4.1 Retail prices of sorghum and maize in Juba, South Sudan, 2008–2015
+4.2 Real retail prices of sorghum and maize in Juba, South Sudan, 2008–2015
+4.3 South Sudan domestic and import parity prices of sorghum, 2008–2015
+4.4 South Sudan domestic and import parity prices of maize, 2008–2015
+4.5 South Sudan seasonality indexes (centered moving average) for sorghum and maize
+5.1 South Sudan illustrative cereal distribution and minimum stock targets
+
+iv
+
+5
+10
+12
+13
+18
+18
+19
+20
+27
+27
+29
+30
+30
+34
+
+ABSTRACT
+
+South Sudan faces serious problems of food insecurity due to low per capita levels of domestic food
+production, periodic droughts, widespread poverty, political unrest, and since late 2013, renewed armed
+conflict. Agricultural productivity is low, and the country is highly dependent on private-sector imports of
+cereals (maize, sorghum, wheat, and rice) from Uganda to supply domestic markets.
+National household survey data indicate substantial diversity in consumption of cereals across
+households, and our econometric estimates suggest highly price- and income-inelastic demand for the two
+major cereals, sorghum and maize.
+Drawing on a review of international experience and the constraints facing South Sudan, we
+conclude that a national food security reserve (NFSR) system with a small national food security stock is
+feasible for South Sudan. Cereal stocks would be kept mainly for targeted safety nets and emergency
+distribution, and market interventions would be limited in scope, in keeping with a long-run goal of
+market development. Nonetheless, even with a functioning NFSR, promotion of private-sector domestic
+and import trade will remain crucial for ensuring adequate supplies of grain and food security.
+Keywords: food security, trade, food policy, agriculture, Africa, post-conflict
+
+v
+
+ACKNOWLEDGMENTS
+We would like to thank Chris Nikoi (former director of the UN World Food Programme, Juba, South
+Sudan); Konjit Kidane; Martin Kabaluapa; and other staff of the World Food Programme, Juba, for
+providing insights, data, and logistical support during several missions to South Sudan. This work has
+also benefited from helpful discussions with John O. Kanisio Lefuk (secretary general of the Republic of
+South Sudan Food Security Council) and Jaden Tongun Emilio (undersecretary in the Republic of South
+Sudan Agriculture Ministry), as well as Xinshen Diao, Cesar Guvele, and Bjorn van Campenhout. This
+work was undertaken as part of the CGIAR Research Program on Policies, Institutions, and Markets
+(PIM) led by the International Food Policy Research Institute. The opinions expressed here belong to the
+authors and do not necessarily reflect those of PIM, IFPRI, or CGIAR. Any errors or omissions are solely
+the responsibility of the authors.
+
+vi
+
+1. INTRODUCTION
+Since achieving independence in 2011, South Sudan has continued to face daunting problems of food
+insecurity and civil conflict. In part, this is due to the country’s difficult physical environment, with low
+levels of rainfall and fragile soils, which reduce agricultural productivity. The geography of the country,
+lacking direct access to sea ports and major markets, also hinders trade. Perhaps most important, though,
+is the legacy of three decades of civil war and violence (1983 to 2005) that resulted in approximately 2
+million deaths, massive population displacement, and low levels of investment in infrastructure, economic
+stagnation, and widespread poverty (Ormhaug 2009). The cessation of fighting following the signing of
+the Comprehensive Peace Agreement between Sudan and the Sudan People’s Liberation Army permitted
+a partial economic recovery. Recent unrest (December 2013 to present), however, threatens the lives and
+food security of several million people as well as the economic development of South Sudan.
+Emergency food aid has long been a major component of the food supply and a centerpiece of
+national and donor strategy to address food insecurity in South Sudan. In 2011, food aid flows averaged
+21 thousand metric tons; 1 but jumped to 109 thousand tons in 2012 (WFP 2013a). Imports from Uganda
+have also been a crucial part of the food supply, helping South Sudan work toward food security. Privatesector imports of maize from Uganda added 353 thousand tons to national cereal availability in 2013 and
+accounted for most of the cereal supply of the capital, Juba.
+There are currently no large-scale public food stocks, however. Under the national government of
+a united Sudan, the provincial government of South Sudan created a national food security stock of
+sorghum in 2008 in anticipation of expected widespread food shortages (WFP 2013b). However, largescale and widespread misuse of funds led to the cancellation of donor support for the endeavor in 2009
+and a loss of more than US$4 billion (Holland 2012). 2 Since then, the independent government of South
+Sudan has demonstrated renewed interest in creating a national food stock as part of a national food
+security reserve (NFSR) system. Under such a system, a national stock, supplied initially by food aid but
+ultimately by domestic procurement of cereals, would provision emergency relief and targeted safety net
+operations.
+This report examines the role of public food stocks (mainly in the form of cereals) and privatesector cereal imports in increasing the availability of food and enabling targeted distribution to foodinsecure households. Section 2 provides a brief overview of the recent history of the country and of South
+Sudan’s agricultural economy. Section 3 describes food production and consumption patterns, and
+includes estimates of imports that highlight their importance in total cereal availability, particularly for
+the capital, Juba. Section 4 presents an overview of the agriculture value chain and market institutions as
+well as an analysis of domestic and border price movements of maize and sorghum. A potential NFSR
+system is outlined in Section 5, followed by a summary of the major findings and policy implications in
+the last section.
+
+1 Metric
+
+tons are used throughout the text.
+much money was actually lost is uncertain, with estimates ranging from the millions to the billions of US dollars. The
+World Bank undertook a case study of the scandal, but the findings are not available to the public.
+2 How
+
+1
+
+2. HISTORICAL BACKGROUND AND OVERVIEW OF THE AGRICULTURAL
+ECONOMY OF SOUTH SUDAN
+Historical Background
+South Sudan’s food security issues are linked to its troubled history of two civil wars that raged for more
+than three decades. Six years after Sudan’s independence in 1956, a civil war broke out between the
+North and southern rebels fighting for independence. This first war ended in 1972 with the Addis Ababa
+Agreement, which granted southern Sudan a semiautonomous regional government (Arnold and LeRiche
+2012). The settlement, which permitted a decade of political stability, eventually collapsed in 1983. A
+second civil war ensued and continued until the signing of the January 2005 Comprehensive Peace
+Agreement, which determined there would be a referendum on self-determination for the South in six
+years (ICG 2005). In January 2011, the self-determination referendum resulted in an overwhelming vote
+for independence, and on July 9, 2011, South Sudan became the world’s newest country (Table 2.1).
+Table 2.1 South Sudan timeline
+Date
+
+Event
+
+1956, January 1
+
+Sudan becomes independent.
+
+1962
+
+Civil war begins in the South, led by the Anyanya movement.
+
+1972, February
+27
+
+The Addis Ababa peace agreement is signed between the government and the Anyanya; the
+South becomes a self-governing region.
+
+1983, May
+
+Civil war breaks out again in the South, involving government forces and the Sudan People’s
+Liberation Movement.
+
+2005
+
+National Congress Party and Sudan People’s Liberation Movement/Army sign Comprehensive
+Peace Agreement (CPA) to end the civil war. CPA establishes a six-year interim period, when a
+number of provisions are to be implemented to test the viability of a unified Sudan, followed by a
+referendum for an independent South Sudan.
+
+2005, July 9
+
+John Garang is sworn in as first vice president, and a constitution that gives a large degree of
+autonomy to the South is signed.
+
+2011, January 9
+
+The southern Sudan referendum is held, whereby southern Sudanese vote for their
+independence.
+
+2011, July 9
+
+South Sudan gains independence.
+
+2011, July
+
+The 2011 East Africa drought begins, the worst drought in 60 years.
+
+2012, January
+
+South Sudan halts oil exportation after talks on fees for the export of oil via Sudan break down.
+
+2013, March
+
+Sudan and South Sudan agree to end the shutdown in oil production and to withdraw troops from
+their borders to create a demilitarized zone.
+
+2013, December
+15
+
+Tensions between factions loyal to President Salva Kiir and those aligned with his former vice
+president, Riek Machar, explode into fighting on the streets of Juba, which leads to resumption of
+war in the South.
+
+Source: Authors.
+
+Despite its achievement of a peaceful independence, South Sudan remains one of the poorest
+countries in the world, with a gross domestic product (GDP) per capita of only US$1,045 (US$1,965 at
+purchasing power parity) in 2013 and a life expectancy of 55.2 years, broadly similar to those of its
+neighbors, Ethiopia and Uganda (Table 2.3). However, the new nation has been faced with continued
+political tension from the North as well as from its own political elite. In 2012, disagreements over the
+control of oil fields and petroleum export revenues led to boundary disputes between Sudan and South
+Sudan. These unsolved issues resulted in the shutdown of oil refineries in 2012 and the closure of borders
+with Sudan in the same year. In 2013, despite the resumption of oil production, a fresh dispute over oil
+resources between President Salva Kiir and former Vice President Riek Machar led to the start of civil
+2
+
+war (Table 2.2). As of April 2015, more than 2 million people had been displaced from their homes, more
+than 1.5 million became internally displaced persons inside South Sudan, and more than 500,000 became
+refugees in neighboring countries (United Nations Security Council 2015).
+Table 2.2 South Sudan security situation, 2015
+State
+
+Security situation
+
+Upper Nile
+
+Clashes in Longochuk, Manyo, Renk, and Nassir counties
+Outbreak of intercommunal violence between the Dinka and Shillik communities
+
+Unity
+
+Clashes continue near the state capital, Bentiu, as well as in Pariang County, the area north of
+the Unity oil fields
+One rocket-propelled grenade explodes inside the UN Mission in South Sudan protection site
+
+Jonglei
+
+Clashes in the eastern and northern parts of the state, starting in town of Ayod, which remains
+under Sudan People’s Liberation Army control
+Increased intercommunal tensions between the Murle from the Greater Pibor Administrative
+Area and the Dinka Bor
+
+Northern Bahr el
+Ghazal
+
+Aircraft sighted over Aweil counties, reportedly bombing Majok Nyich in Aweil East County,
+Nyinbouli and Achana in Aweil West County, and Mayom Angok in Aweil North County
+
+Western Bahr el
+Ghazal
+
+In Raga County, areas around Katta and Delieba reportedly bombed by Sudan Armed Forces
+aircraft targeting Justice and Equality Movement elements
+
+Lakes
+
+Fighting between Dinka subclans in Rumbek Centre, Rumbek East, and Rumbek North
+counties leads to the deaths of at least 70 people
+
+Source: United Nations Security Council (2015).
+
+Agriculture and the South Sudan Economy
+The conflict has further limited infrastructure development and institutional growth, and worsened South
+Sudan’s macroeconomic position. This has in turn resulted in significant constraints on agricultural
+productivity and on food security. South Sudan is one of the least developed countries in the world, with a
+GDP of current US$13.07 billion (Table 2.3). South Sudan’s economy is centered on oil production and
+subsistence agriculture; almost all intermediate and consumer goods are imported. In 2013, oil production
+accounted for about one-half of GDP, 99 percent of exports, and 95 percent of government revenue (IMF
+2014).
+Table 2.3 Basic economic data for selected East African countries (2013)
+Indicator
+Population (millions)
+% population largest city
+% urban population
+Population density
+GDP (US$ billions)
+GDP per capita, PPP (US$)
+GDP, PPP (US$ billions)
+GDP growth (annual %)
+Agriculture (% of GDP)
+Life expectancy at birth
+Sorghum production (million metric tons)
+Maize production (million metric tons)
+
+South Sudan
+11.30
+14%
+
+Sudan
+37.96
+38%
+
+Ethiopia
+94.10
+18%
+
+Uganda
+37.58
+31%
+
+28%
+47.22
+13.07
+1,964.62
+
+13%
+20.73
+37.13
+3,903.29
+
+3%
+94.10
+27.74
+1,335.73
+
+5%
+188.07
+15.70
+1,620.58
+
+22.19
+13.13
+55.24
+0.59
+0.28
+
+148.19
+3.31
+29.16
+62.04
+4.52
+0.04
+
+125.69
+10.49
+45.03
+63.62
+4.34
+6.67
+
+60.90
+3.27
+59.19
+0.30
+2.75
+
+Sources: Population, GDP, and life expectancy data are from the World Bank World Development Indicators database. Maize
+and sorghum production data are from FAOSTAT and from FAO and WFP (2014).
+Notes: GDP = gross domestic product; PPP = purchasing power parity.
+
+3
+
+The Macroeconomy and Foreign Trade
+Prior to independence, between 2005 and 2011, government spending was around US$2.5 billion per
+year, funded in large part by oil-related inflows. In the first few years after independence, government
+spending continued at the same pace: from 2011/2012 to 2013/2014, it averaged US$2.06 billion (Table
+2.4 and Figure 2.1). The effectiveness of government spending, however, was limited by poor budget
+execution and governance problems. Moreover, the oil shutdown in 2012 seriously worsened the fiscal
+accounts. As a result of the crisis, authorities were forced to cut expenditures by about 40 percent in real
+terms in 2012/2013 and fund the budget with government deposits and short-term domestic and external
+borrowing (IMF 2014). Since that time, South Sudan has continued to face fiscal pressures due to a fall in
+oil production and the recent decline in international oil prices (Table 2.4 and Figure 2.1).
+Table 2.4 South Sudan economic indicators
+Indicator
+
+2007/
+2008
+
+2008/
+2009
+
+2009/
+2010
+
+2010/
+2011
+
+2011/
+2012
+
+2012/
+2013
+
+2013/
+2014
+
+Nominal GDP (US$
+billions)
+Nominal GDP (million
+SSP)
+Oil GDP (million SSP)
+Nonoil GDP (million
+SSP)
+Real GDP (2009
+million SSP)
+Oil production (million
+barrels)
+Cereal production
+(’000 metric tons)
+
+15.55
+
+12.23
+
+15.73
+
+17.83
+
+10.37
+
+11.80
+
+13.07
+
+Growth rate
+2008/2009–
+2013/2014
+-4%
+
+32,520
+
+28,252
+
+36,250
+
+53,284
+
+30,588
+
+34,823
+
+-
+
+3%
+
+19,549
+12,971
+
+14,792
+13,460
+
+20,000
+16,250
+
+32,659
+20,625
+
+2,257
+28,331
+
+5,136
+29,687
+
+-
+
+-29%
+21%
+
+26,896
+
+28,252
+
+29,804
+
+28,421
+
+15,324
+
+17,336
+
+-
+
+-11%
+
+-
+
+-
+
+-
+
+70.5
+
+18.3
+
+66.2
+
+58.5
+
+8%
+
+-
+
+541
+
+695
+
+562
+
+761
+
+892
+
+1,015
+
+13%
+
+21.47
+10.16
+-
+
+17.04
+9.75
+-
+
+22.27
+10.70
+-
+
+35.21
+14.47
+
+3.10
+13.84
+
+6.33
+14.91
+
+16.24
+13.63
+
+-16%
+7%
+
+12.0
+
+4.0
+
+11.4
+
+12.9
+
+13%
+
+-
+
+-
+
+-
+
+12.1
+
+9.3
+
+12.7
+
+15.9
+
+12%
+
+-
+
+-
+
+-
+
+-0.1
+
+-5.3
+
+-1.3
+
+-3.0
+
+141%
+
+65.10
+-17.30
+
+77.39
+21.63
+
+74.07
+54.14
+
+100.00
+59.2
+6.47
+
+135.20
+22.7
+0.63
+
+165.93
+-5.6
+-18.69
+
+156.68
+11.2
+-
+
+19%
+-
+
+2.05
+
+2.29
+
+2.30
+
+2.75
+
+2.95
+
+2.95
+
+2.95
+
+7%
+
+2.62
+
+2.94
+
+2.94
+
+3.52
+
+4.44
+
+4.30
+
+5.03
+
+12%
+
+28.1%
+
+28.1%
+
+28.1%
+
+28.1%
+
+50.4%
+
+45.8%
+
+70.5%
+
+-
+
+Producer price index
+102.63
+93.60
+100.00
+108.83
+109.43 110.11
+111.14
+(US$)
+REER official
+3.23
+2.77
+3.10
+2.99
+2.39
+1.96
+2.09
+REER parallel
+4.13
+3.55
+3.97
+3.83
+3.59
+2.85
+3.57
+Sources: World Bank (2015); IMF (2011, 2014); FAO and WFP (various years); SSNBS (2015).
+Notes: GDP = gross domestic product; REER = real effective exchange rate; SSP = South Sudanese pounds.
+
+-
+
+Exports (US$ billions)
+Imports (US$ billions)
+Gov’t revenue (billion
+SSP)
+Total expenditure
+(billion SSP)
+Deficit (net
+lending/borrowing)
+Consumer price index
+Inflation (%)
+Inflation - GDP deflator
+(%)
+Nom. ex. rate (official)
+SSP/US$
+Nom. ex. rate (parallel)
+SSP/US$
+Exchange rate
+premium
+
+4
+
+-8%
+-3%
+
+The increase in government spending after independence and the monetization of the deficit as a
+result of the oil production stoppage pushed inflation to about 80 percent by mid-2012 (World Bank
+2012b). Thereafter, lower food prices and fiscal austerity brought inflation down to near zero by mid2013 (Table 2.4). As the fiscal situation worsened again in 2014, however, shortfalls in revenues and in
+external financing led to a monetary expansion that brought inflation to 11.24 percent in 2013/2014 (IMF
+2014).
+South Sudan introduced its currency, the South Sudanese pound (SSP), when it gained
+independence in July 2011. In September, the Bank of South Sudan pegged the exchange rate at 2.95 SSP
+per US dollar (Table 2.4). Since September 2011, rationing of foreign exchange has led to the
+development of a parallel market where the currency trades at a premium compared with the official
+exchange rate. A significant portion of goods are imported at the parallel market exchange rate, while
+only a small number of transactions, including the imports of some foods, are paid for from foreign
+exchange acquired at the official exchange rate (IMF 2014).
+Figure 2.1 South Sudan gross domestic product
+60
+
+Billion SSP
+
+50
+40
+30
+20
+10
+0
+2007/2008
+
+2008/2009
+
+2009/2010
+
+2010/2011
+
+2011/2012
+
+2012/2013
+
+Fiscal year
+Oil GDP
+
+Nonoil GDP
+
+Source: Republic of South Sudan, National Bureau of Statistics (2014).
+Notes: GDP = gross domestic product; SSP = South Sudanese pounds.
+
+The official real effective exchange rate depreciated after independence in fiscal year 2011/2012
+and has continued to decrease since then. However, if oil export earnings reach their potential, careful
+macroeconomic management will be required to avoid a real exchange rate appreciation—an increase in
+the price of tradable goods relative to the price of nontraded domestic goods. (This real exchange rate
+appreciation would make imports of sorghum, maize and other cereals less expensive in real terms and
+encourage an increase in imports.) Without any major domestic investments that increase productivity,
+the profitability of production of tradable goods, including major agricultural products such as sorghum
+and maize, will decline, an effect known as the Dutch disease.3 Moreover, the physical geography of
+South Sudan makes foreign trade difficult. South Sudan is landlocked, with its nearest major ports—Port
+of Sudan and Port of Mombasa, Kenya—as far as 2,650 and 1,639 km, respectively, from Juba by road.
+As a result, transport and marketing costs are high, significantly increasing the total cost of imports and
+reducing the prospect for exports.
+
+3 See
+
+Wijnbergen, 1984; Corden, 1984 and Pinto, 1990 for a discussion of Dutch disease effects.
+
+5
+
+South Sudan’s principal trading partner is Uganda (Table 2.5). Customs officials believe that 80
+percent of all goods imported into South Sudan enter through the Nimule-Torit-Juba route (WFP 2015).
+Trade with Sudan, South Sudan’s second most important trading partner, has decreased significantly since
+independence. Trade between the two countries now is mainly informal. Most food from Sudan is
+transported from El Obeid to Aweil. Before the separation of the two countries, northern Sudan was a key
+provider of both food and fuel for southern Sudan. However, in 2012 the border was closed and supply
+was cut off (World Bank 2014). Since 2013 some borders have been reopened, but trade has been slow to
+recover. Kenya’s trade with South Sudan is mainly in nonfood items. Ethiopia also trades with South
+Sudan, and in opposition-controlled areas, trade is now almost entirely with Ethiopia.
+Table 2.5 South Sudan’s major trading partners
+Country
+Uganda
+
+Principal food exports
+Beans (about three different
+varieties), sorghum, sugar,
+maize flour, beverages, water,
+and beer
+
+Volume of trade (tons)
+In 2013 Uganda exported 873,315 tons of
+maize and maize flour, 328,788 tons of
+sorghum, and 187,916 tons of wheat and
+wheat flour.
+
+Kenya
+
+Tea, palm oil, vegetable fats,
+and cane or beet sugar
+
+Ethiopia
+
+Sorghum, maize flour and
+grain, wheat flour, and pulses
+
+Sudan
+
+Sorghum and wheat flour
+
+In 2013 Kenya exported 18,424 tons of maize
+and maize flour, 4,973 tons of sorghum, and
+117,897 tons of wheat and wheat flour.
+In 2013 Ethiopia exported 7,727 tons of maize
+and maize flour, 7,694 tons of sorghum, and
+7,878 tons of wheat and wheat flour.
+In 2013 Sudan exported 5,430 tons of maize
+and maize flour, 4,973 tons of sorghum, and
+2,475 tons of wheat and wheat flour.
+
+Trade route
+Kampala-Nimule-Torit-Juba
+Kampala-Kaya-Yei-Yambio
+Kampala-Kitgum-TseretsenyeTorit
+Kitgum-Poger-Torit
+Kapoeta and Torit
+Metar-Akobo
+Aweil-Wau-Rumbek-Juba
+White Nile / Blue Nile / Sennar–
+Renk
+Abyei-Benitu
+El Obeid-Aweil
+
+Source: AFDB (2013). FEWSNET (2013).
+Note: Tons refers to metric tons.
+
+The Agricultural Sector
+Although about 70 percent of total land area is suitable for cultivation in South Sudan, only 4 percent of
+the land is currently used for agriculture (Diao et al. 2011, Figure 2.1). Thus, there is ample scope for
+expansion of area cultivated. Currently, most crop cultivation is done on small farms, producing little if
+any marketable surplus. According to estimates for 2013 from the Food and Agriculture Organization of
+the United Nations (FAO) and the World Food Programme (WFP), 10 percent of the population of South
+Sudan (about 1 million people) are severely food insecure (FAO and WFP 2013).
+Rainfall within the country ranges from 500 mm to 2,000 mm per year, with the highest levels of
+rainfall in the southern part of the country. Much of north central and northeastern South Sudan is located
+in flood plains along the Nile River (the Sudd) that are flooded during the rainy season but receive little
+rainfall otherwise (600 to 800 mm per year). The highest potential areas for agricultural production are
+Western Equatoria and the southern half of Central Equatoria, or the so-called Green Belt, where annual
+rainfall ranges from 900 to 2,000 mm per year (Table 2.6). Rainfall in the Hills and Mountains region of
+the northern half of Central Equatoria and the western half of Eastern Equatoria (500 to 800 mm per year)
+is also sufficient to support substantial crop agriculture (WFP 2011).
+In most areas of South Sudan, soils are low in phosphorous as well as in organic matter. Despite
+this, most soils are moderately fertile. But soils could quickly become nutrient deficient due to leaching
+related to heavy rainfall, low levels of fertilizer use (on average only 4 kg per ha of fertilizers are used in
+South Sudan), and over-farming. Nutrient mining from maize production ranges between 30 and 60 kg
+per ha per year. Smallholders have limited knowledge and capacity, lack an understanding of the role of
+
+6
+
+fertilizer in improved crop production, and do not have access to extension or transfer services—all
+factors that could lead to further soil nutrient depletion (Kowr 2013).
+Institutional weakness has further hindered development of the agriculture sector. Disagreements
+over land rights for crop cultivation and livestock grazing continue to be a major source of conflict. This
+insecurity discourages farmers from expanding production, and traders and retailers from building
+marketing infrastructure. The extremely low level of public investment in recent decades has meant that
+essentially no irrigation infrastructure exists and only 2 percent of South Sudan’s limited road network is
+paved. Roads are poorly maintained, not repaired, and completely washed out during the rainy season
+(World Bank 2012; USAID and Fintrac 2012). Because of this inadequate transportation infrastructure, it
+is difficult and expensive for subsistence farmers to transport surpluses to markets.
+Further, poor business practices and a lack of information about market prices make it difficult
+for businesses to develop along the agriculture value chain. South Sudan receives a ranking of 186 out of
+189 on ease of doing business in the World Bank 2015 Doing Business report (World Bank 2014).
+Furthermore, South Sudan receives a percentile rank of 5.7 in government effectiveness and of 3.0 in
+control of corruption in the World Bank’s governance indicators (World Bank 2015).
+
+7
+
+Table 2.6 South Sudan seasonal calendar
+Zone
+Unimodal
+rainfall
+zone
+
+Category
+
+Mar
+
+Rainfall
+
+Dry season
+
+Main crop
+Bimodal
+rainfall
+zone
+
+First crop
+Second crop
+
+May
+
+Dry season
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Wet season
+Land preparation
+and planting
+
+Long-cycle crops
+Rainfall
+
+Apr
+
+Oct
+
+Nov
+Dry season
+
+Growing season
+
+Harvest
+
+Growing season
+
+Harvest
+
+Wet season
+
+Land preparation and
+planting
+
+Dec
+
+Dry season
+Growing season
+
+Harvest
+Land preparation
+and planting
+
+Source: FAO and WFP (2013).
+
+8
+
+Growing season
+
+Harvest
+
+Jan
+
+Feb
+
+3. CEREAL PRODUCTION, CONSUMPTION, AND IMPORTS
+Data on crop area and production for South Sudan are limited. The government of South Sudan, and FAO
+and WFP (various years) both provide estimates of crop production, but neither estimate is based on
+nationally representative farm surveys. The 2009 National Baseline Household Survey (NBHS) (Republic
+of South Sudan, NBS 2009) can also be used to construct indirect estimates of production, but as
+discussed below, these estimates are both somewhat dated and subject to considerable uncertainty.
+According to estimates from the annual joint FAO and WFP Crop and Food Security Assessment
+Mission (CFSAM) reports (FAO and WFP, various years), net cereal production (gross cereal production
+less 20 percent for seed, feed, and wastage) has increased from 660 thousand tons in 2009/2010 to 892
+thousand tons in 2014/2015, an average growth rate of 9.6 percent per year (Table 3.1, Table 3.2, and
+Figure 3.1). 4 Over the same period, cereal area harvested rose from 852 thousand ha to 1.014 million ha,
+an average growth rate of 5.5 percent, though there were substantial fluctuations. Yields also increased,
+but by an average of only 3.8 percent per year, from 0.78 tons per ha to 1.00 tons per ha.
+Table 3.1 South Sudan cereal production and requirements, 2008/2009–2014/2015
+Year
+
+Area
+
+Yield
+
+Net
+production
+(’000 tons)
+1002
+660
+695
+563
+761
+892
+1,015
+
+Cereal
+requirement
+(tons)
+953
+885
+986
+1,036
+1,132
+1,301
+1,264
+
+Per capita
+requirement
+(kg/person)
+98.0
+99.2
+107.7
+107.6
+109.2
+109.3
+110.5
+
+Population
+
+(’000 ha)
+(tons/ha)
+(millions)
+2008/2009
+n.a.
+n.a.
+9.727
+2009/2010
+852
+0.78
+8.924
+2010/2011
+921
+0.75
+9.158
+2011/2012
+860
+0.65
+9.634
+2012/2013
+1,141
+0.67
+10.369
+2013/2014
+1,173
+0.76
+11.901
+2014/2015
+1,014
+1.00
+11.433
+Growth rate
+2009/2010–
+5.5%
+3.8%
+9.6%
+8.0%
+1.7%
+6.2%
+2014/2015
+Source: FAO and WFP (various years).
+Notes: Cereal requirements are based on state-level data from the 2009 National Baseline Household Survey (Republic of South
+Sudan, NBS 2009), with adjustments “to take into account differences between urban and rural areas and the relative
+importance in local diets of other crops (notably cassava and groundnuts), livestock and wild foods” (FAO and WFP
+2014, 31). n.a. = not available. Tons refers to metric tons.
+
+Table 3.2 South Sudan cereal production by state in thousand metric tons, 2010/2011–2014/2015
+Region/state
+2010/2011
+Upper Nile Region
+156
+Upper Nile
+49
+Unity
+24
+Jonglei
+84
+Bahr el Ghazal Region
+254
+N Bahr el Ghazal
+60
+W Bahr el Ghazal
+34
+Lakes
+66
+Warrap
+94
+Greater Equatoria
+284
+Central Equatoria
+93
+Eastern Equatoria
+79
+Western Equatoria
+112
+All South Sudan
+695
+Source: FAO and WFP (various years).
+
+2011/2012
+99
+26
+8
+65
+166
+40
+35
+45
+46
+297
+78
+99
+120
+563
+
+2012/2013
+112
+38
+15
+59
+287
+78
+48
+70
+91
+391
+114
+116
+161
+790
+
+2013/2014
+136
+40
+26
+70
+310
+85
+50
+75
+100
+445
+150
+116
+179
+892
+
+2014/2015
+50
+8
+19
+23
+400
+112
+73
+92
+123
+564
+223
+142
+199
+1,014
+
+4 Crop cuttings with representative samples to measure yields are not done (and would not be available at the time of the
+CFSAMs in any case), so the CFSAM reports do not include annual production estimates by crop.
+
+9
+
+Figure 3.1 South Sudan cereal production by region, 2010/2011–2014/2015
+1200
+
+Thousand metric tons
+
+1000
+800
+600
+400
+200
+0
+2010/2011
+
+2011/2012
+
+Greater Equatoria
+
+2012/2013
+
+2013/2014
+
+Bahr el Ghazal
+
+Upper Nile
+
+2014/2015
+
+.
+
+Source: FAO and WFP (various years).
+
+Alternative estimates of production can be derived from the consumption module of the 2009
+NBHS. Using a food balance sheet approach, Diao et al (2011) estimated net food availability from
+consumption data (quantity consumed in the previous week) along with assumptions regarding seed, feed,
+and wastage. They then derived production and net imports from estimates of consumption out of own
+production and the percentage of market purchases supplied by domestic production. This NBHS
+household consumption–derived estimate of cereal production (995 thousand tons) is 21 percent above
+the 2008/2009 CFSAM figure of 825 thousand tons (Table 3.3). As shown in Table 3.3, crop production
+estimates for 2009 based on the estimates that Diao and colleagues (2011) derived from the NBHS put
+total cereal production in South Sudan at 995 thousand tons, with sorghum (770 thousand tons) and maize
+(175 thousand tons) accounting for 77 and 18 percent of the total, respectively. Combined production of
+millet, rice, and wheat (37, 8, and 5 thousand tons, respectively) was only 5 percent of national cereal
+production. The import estimates for 2009 are the residuals of estimated consumption less net production,
+and are therefore subject to considerable uncertainty. Using this method, it was estimated that 378
+thousand tons of cereals were imported by South Sudan in 2009: 215 thousand tons of sorghum; 122
+thousand tons of maize; and 18, 14, and 9 thousand tons of rice, wheat, and millet, respectively. 5
+
+5 Estimates of production and consumption by crop can be derived from FAO/WFP CFSAM estimates of total cereal
+production and shares of production by crop from NBHS / Diao and colleagues (2011); the end results are similar (Table 3.3).
+
+10
+
+Table 3.3 South Sudan estimated cereal production and imports, 2009
+Indicator
+Production 2009 (’000 tons)
+Estimate 1: NBHS / Diao et al. (2011)
+Rural
+Urban
+Estimate 2: FAO total prod
+
+Maize
+
+Millet
+
+Rice
+
+Sorghum
+
+Wheat
+
+Total
+
+175.2
+173.1
+2.1
+145.4
+
+36.6
+36.3
+0.3
+30.4
+
+8.4
+7.6
+0.8
+7.0
+
+769.5
+749.3
+20.2
+638.5
+
+5.0
+5.0
+0.0
+4.2
+
+994.8
+971.3
+23.5
+825.3
+
+233.8
+62.9
+296.7
+
+43.3
+2.2
+45.5
+
+14.4
+12.3
+26.7
+
+893.1
+91.6
+984.6
+
+8.4
+10.5
+18.9
+
+1193.0
+179.5
+1372.4
+
+33.0
+47.9
+35.3
+
+6.1
+1.7
+5.4
+
+2.0
+9.4
+3.2
+
+126.0
+69.8
+117.2
+
+1.2
+8.0
+2.3
+
+168.3
+136.8
+163.4
+
+Net imports
+Estimate 1: Using NBHS/Diao et al. (2011) prod
+Net imports (’000 tons)
+150.7
+Imports / consumption
+50.8%
+Urban purchases / total imports
+40.3%
+
+15.0
+32.9%
+13.0%
+
+19.7
+73.8%
+58.2%
+
+343.4
+34.9%
+20.8%
+
+14.8
+78.0%
+70.8%
+
+543.5
+39.6%
+28.7%
+
+Consumption 2009 (’000 tons)
+Estimate 1: NBHS
+Rural
+Urban
+Total
+Consumption (kg/person/yr)
+Estimate 1: NBHS
+Rural
+Urban
+Total
+
+Estimate 2: Using FAO prod
+Net imports (’000 tons)
+175.6
+20.2
+20.9
+452.6
+15.5
+684.7
+Imports / consumption
+59.2%
+44.4%
+78.2%
+46.0%
+81.7%
+49.9%
+Sources: Diao et al. (2011); FAO (2015).
+Notes: Production 2009 Estimate I (Diao et al. 2011) is based on crop consumption, assuming that 55 percent of purchased
+grain and flour from the market derives from domestically produced grain. Urban production estimates assume that all
+urban purchases derive from grain produced in rural areas or imports. Production 2009 Estimate II uses FAO total cereal
+production estimate and the estimated shares of each crop in total cereal production from Diao and colleagues (2011),
+based on NBHS data. Imports are calculated as the difference between estimated consumption and net production. FAO
+= Food and Agriculture Organization of the United Nations; NBHS = 2009 National Baseline Household Survey. Tons
+refers to metric tons.
+
+However, there have been significant changes in population, agricultural production, and trade
+flows in South Sudan since the 2009 NBHS. An estimated 1.962 million refugees from the Sudan–South
+Sudan civil war returned to South Sudan between 2009 and 2013. 6 Returnees thus represented 17 percent
+of the population in 2013 (Table 3.4). An estimated 263 thousand refugees settled in Central Equatoria,
+the state where Juba is located, though data for the population of Juba show relatively little increase (from
+398 thousand to 413 thousand). Subsequently, due to the internal conflict that began in December 2013,
+there has been an exodus of 872 thousand people from South Sudan. Moreover, an estimated 1.54 million
+people have become internally displaced since December 2013 (UNHCR 2015).
+
+6 This
+
+estimate does not include refugees who returned in 2011 because estimates do not exist for that year.
+
+11
+
+Table 3.4 South Sudan population and returnees
+2009
+2010*
+2012
+2013**
+Region
+Returnees
+Population Returnees
+Population Returnees
+Population Returnees
+Population
+South
+291,745
+8,458,247
+338,951
+8,634,656
+899,127
+9,167,737
+1,962,001
+9,552,995
+Sudan
+Greater
+63,086
+2,978,392
+73,435
+3,040,830
+357,137
+3,227,584
+609,457
+3,363,738
+Upper
+Nile
+Bahr el
+160,859
+2,788,175
+186,602
+2,845,420
+365,412
+3,022,687
+946,468
+3,149,327
+Ghazal
+Equatoria
+67,800
+2,691,680
+78,914
+2,748,406
+176,578
+2,917,466
+406,076
+3,039,930
+Source: FAO and WFP (2009–2015).
+Notes: No estimates exist for 2011. * Data for 2010 are a revised estimate from the 2012 Crop and Food Security Assessment
+Mission reports (FAO and WFP 2012). ** Data for 2013 are from International Organization of Migration estimates.
+
+Production data for 2013 suggest a shift in crop production, with the share of maize in total
+production of cereals rising from 18 percent in 2009 (NBHS) to 30 percent (CFSAM) in 2013. This
+represents an increase of 142 percentage points in net cereal production. At the same time, the share of
+sorghum in net cereal production fell from 77 percent in 2009 to 64 percent in 2013 (Figures 3.2 and 3.3
+and Table 3.5). Moreover, this shift in crop production from maize to sorghum has been accompanied by
+the continued production of other cereals, such as wheat, millet, and rice. While net sorghum production
+increased by only 15 percentage points from 2009 to 2013, net production of millet, rice, and wheat
+increased by 69, 40, and 40 percentage points, respectively.
+Figure 3.2 South Sudan cereal production and requirements, 2008/2009–2014/2015
+
+Thousand metric tons
+
+1,200
+
+110
+
+1,000
+800
+
+105
+
+600
+
+100
+
+400
+
+95
+
+200
+
+90
+
+0
+
+Net production `
+
+(kg/person/year)
+
+115
+
+1,400
+
+Total cereal requirement
+
+Per capita cereal requirement
+
+Source: Data from FAO and WFP (various years).
+
+12
+
+.
+
+Thousand metric tons
+
+Figure 3.3 South Sudan cereal net production, imports, and consumption, 2009 and 2013
+2,500
+2,000
+1,500
+1,000
+500
+0
+
+Net
+production
+2009
+
+Net
+Imports 2009 Imports 2013 Consumption Consumption
+production
+2009
+2013
+2013
+
+Sorghum
+
+Maize
+
+Wheat
+
+Rice
+
+Millet
+
+.
+
+Sources: FAO and WFP (various years); Diao et al. (2011); authors’ estimates.
+
+Table 3.5 South Sudan estimated cereal production, consumption, and imports, 2009 and 2013
+Indicator
+Net production (’000 tons)
+2009 (FAO/WFP)
+2013
+% change 2009–2013
+
+Maize
+
+Millet
+
+Rice
+
+Sorghum
+
+Wheat
+
+Total
+
+121
+282
+133%
+
+25
+79
+212%
+
+6
+8
+40%
+
+532
+590
+11%
+
+3
+5
+40%
+
+688
+964
+40%
+
+176
+94
+583
+122
+
+20
+n.a.
+0
+n.a.
+
+21
+38
+238
+71
+
+453
+11
+317
+55
+
+15
+n.a.
+189
+n.a.
+
+685
+n.a.
+1327
+n.a.
+
+Consumption (’000 tons)
+2009 (NBHS)
+2013 (calculated)
+% change 2009–2013
+
+297
+864
+191%
+
+45
+79
+74%
+
+27
+246
+823%
+
+985
+907
+-8%
+
+19
+194
+924%
+
+1372
+2291
+67%
+
+Consumption shares
+2009 (NBHS)
+2013 (calculated)
+% point change 2009–2013
+
+21.6%
+37.7%
+16.1%
+
+3.3%
+3.4%
+0.1%
+
+1.9%
+10.8%
+8.8%
+
+71.7%
+39.6%
+-32.2%
+
+1.4%
+8.5%
+7.1%
+
+100.0%
+100.0%
+0.0%
+
+Per capita consumption
+(kg/person/year)
+2009 (NBHS)
+2013
+% change (2009–2013)
+
+35.3
+75.1
+113%
+
+5.4
+6.9
+27%
+
+3.2
+21.4
+574%
+
+117.2
+78.7
+-33%
+
+2.3
+16.8
+647%
+
+163.4
+198.9
+22%
+
+Imports (est.) 2009 (’000 tons)
+Uganda official exports 2009
+Imports 2013
+Uganda official exports 2013
+
+Sources: Authors’ calculations; FAO and WFP (2013); FEWS NET (2014); government of Uganda; Republic of South Sudan,
+NBS (2009).
+Notes: Production of total cereals, maize, and sorghum for 2013 are from the FAO/WFP Crop and Food Security Assessment
+Mission report 2013; rice and wheat production is calculated from 2009 shares of total cereal area; millet production is
+calculated as a residual. Imports data for 2013 from FEWS NET (2014). Imports for 2009 are calculated as the
+difference between estimated consumption and net production. Uganda export data from government of Uganda.
+Consumption for 2009 is derived from the NBHS (Republic of South Sudan, NBS 2009). Consumption estimates for
+2013 are calculated as net production plus imports. FAO = Food and Agriculture Organization of the United Nations;
+n.a. = not available; NBHS = 2009 National Baseline Household Survey; WFP = World Food Programme.
+
+13
+
+Independence and the nearly complete disruption of trade with northern Sudan resulted in a major
+shift in the composition of cereal imports between 2009 and 2013. Over this period, imports of sorghum
+(mostly from northern Sudan) declined from an estimated 453 thousand tons to 317 thousand tons; at the
+same time, imports of maize, wheat, and rice increased dramatically. Imports of maize increased from an
+estimated 176 thousand tons in 2009 to 583 thousand tons in 2013. Imports of rice and wheat grew even
+more dramatically, increasing from 21 and 15 thousand tons, respectively, in 2009 to 238 and 189
+thousand tons, respectively, in 2013 (Table 3.5). 7
+The cereal production and trade data for 2013 also imply a major shift in the role of maize, wheat
+(including wheat products), and rice in the South Sudanese diet, perhaps due in part to the influx of
+returnees and their consumption preferences as well as reduced availability of sorghum from Sudan.
+Consumption levels of maize are now nearly equal to those of sorghum (75.1 and 78.7 kg per capita per
+year, respectively), per capita maize consumption having risen by 113 percent while per capita sorghum
+consumption fell by 33 percent. Rice and wheat consumption also increased sharply, from 3.2 and 2.3 kg
+per capita per year, respectively, in 2009 to 21.4 and 16.8 kg per capita per year in 2013—a 574 percent
+increase in per capita rice consumption and a 647 percent increase in per capita wheat consumption
+(Table 3.5).
+Household Cereal Consumption Patterns
+Detailed information on current consumption patterns in South Sudan is unavailable, but the 2009 NBHS
+data show significant variation in consumption patterns across households, much of which is not
+explained by differences in levels of income (as proxied by total expenditures).
+Throughout South Sudan, sorghum and maize are generally the major cereals consumed, though
+there are regional differences. The NBHS data indicate that in 2009 sorghum consumption was 3.6 times
+greater than maize consumption (the second most widely consumed cereal in South Sudan). At that time,
+the average South Sudanese citizen consumed 10.3 kg of sorghum per month. Consumption per capita of
+sorghum in rural areas was nearly double that in urban areas, at 11.07 and 6.87 kg per month, respectively
+(Table 3.6). Per capita consumption of sorghum was particularly low in Juba (only about 3.4 kg per capita
+per month), less than half the per capita consumption in other urban areas of South Sudan (Table 3.7).
+There were marked regional differences in rural areas as well, with per capita consumption of sorghum in
+rural areas of the north about 30 percent higher than in rural areas in the south. Finally, while there is a
+noteworthy difference between urban and rural sorghum consumption, there is less variation between the
+per capita sorghum consumption of nonpoor and poor individuals (Table 3.8).
+Maize was the second leading cereal in terms of quantity consumed in 2009. Unlike with
+sorghum, however, per capita consumption of maize in urban areas was higher than in rural areas. Urban
+residents consumed 3.70 kg per capita per month, whereas rural residents consumed 2.63 kg per capita
+per month. This gap, however, reflects the extremely high consumption of maize in Juba. People in the
+city consumed on average 5.75 kg of maize a month, and it was the only region in 2009 where per capita
+consumption of maize was higher than per capita consumption of sorghum. Further, as with sorghum,
+there are significant regional differences in consumption patterns, with per capita consumption of maize
+greater in the south than in the north (the reverse of the pattern for sorghum). Nationally, the top 40
+percent of households in per capita expenditures consumed 1.5 times more maize than the bottom 60
+percent. This gap was wider in urban areas than in rural areas (Table 3.7).
+
+7 FEWS NET reported “anecdotal evidence of increased substitution of relatively cheaper local and imported red sorghum,
+maize and maize flour for white sorghum from Sudan” (2014, 3), a finding consistent with the overall trade data.
+
+14
+
+Table 3.6 South Sudan monthly cereal consumption and expenditures, 2009
+Product
+
+Number of
+consumers (%)
+
+Quantity
+(kg/person)
+
+Expenditures
+(SDG/person)
+
+Budget share
+(%)
+
+Median price
+(SDG/kg)
+
+Rural
+Sorghum
+86
+11.07
+21.20
+24.04
+1.98
+Maize
+28
+2.63
+3.68
+4.25
+1.46
+Wheat
+25
+0.48
+1.95
+1.45
+5.46
+Millet
+9
+0.40
+0.95
+0.92
+2.74
+Rice
+9
+0.25
+0.88
+0.64
+3.83
+Other cereals
+10
+0.74
+2.02
+1.41
+2.48
+Total
+96
+15.58
+30.67
+32.70
+2.07
+Urban
+Sorghum
+78
+6.87
+15.86
+9.92
+2.54
+Maize
+41
+3.70
+6.31
+3.55
+1.88
+Wheat
+75
+2.92
+10.38
+4.93
+4.13
+Millet
+4
+0.11
+0.88
+0.21
+3.72
+Rice
+43
+0.91
+3.08
+1.31
+3.78
+Other cereals
+12
+0.50
+1.15
+0.60
+2.82
+Total
+98
+15.01
+37.65
+20.52
+2.78
+All South Sudan
+Sorghum
+85
+10.26
+20.17
+21.32
+2.00
+Maize
+30
+2.84
+4.18
+4.11
+1.44
+Wheat
+33
+0.95
+3.57
+2.12
+4.73
+Millet
+6
+0.38
+0.88
+0.78
+2.00
+Rice
+15
+0.38
+1.30
+0.77
+4.00
+Other cereals
+10
+0.69
+1.85
+1.26
+2.15
+Total
+97
+15.50
+31.95
+30.35
+2.12
+Source: Calculated from 2009 National Baseline Household Survey (Republic of South Sudan, NBS 2009).
+Notes: Wheat includes bread, pasta, and other wheat products. Average median price is calculated as the weighted average of
+median prices, using quantities consumed as weights. SDG = Sudanese pound.
+
+Table 3.7 Juba, South Sudan, monthly cereal consumption and expenditures, 2009
+Product
+
+Number of
+consumers (%)
+
+Quantity
+(kg/person)
+
+Expenditures
+(SDG/person)
+
+Budget
+share (%)
+
+Bottom 60%
+Sorghum
+47
+3.24
+6.10
+5.20
+Maize
+65
+4.73
+8.36
+6.46
+Wheat
+85
+1.74
+6.23
+4.80
+Millet
+4
+0.02
+0.06
+0.05
+Rice
+28
+0.41
+1.20
+1.03
+Other cereals
+10
+0.57
+1.02
+0.66
+Total
+98
+10.71
+22.97
+18.20
+Top 40%
+Sorghum
+38
+3.64
+6.02
+2.57
+Maize
+73
+6.77
+12.35
+4.96
+Wheat
+91
+3.79
+15.95
+5.61
+Millet
+7
+0.13
+0.36
+0.16
+Rice
+59
+1.34
+4.82
+1.35
+Other cereals
+14
+0.96
+1.68
+0.73
+Total
+100
+16.63
+41.18
+15.37
+Juba total
+Sorghum
+41
+3.49
+12.21
+3.58
+Maize
+70
+5.98
+10.81
+5.54
+Wheat
+88
+3.00
+3.57
+5.30
+Millet
+6
+0.09
+0.24
+0.12
+Rice
+47
+0.99
+3.43
+1.22
+Other cereals
+12
+0.81
+1.43
+0.66
+Total
+99
+14.35
+31.69
+16.41
+Source: Calculated from 2009 National Baseline Household Survey (Republic of South Sudan, NBS 2009).
+
+15
+
+Median price
+(SDG/kg)
+1.80
+1.80
+5.00
+2.76
+3.00
+2.00
+2.27
+1.64
+1.80
+4.62
+2.76
+4.00
+2.00
+2.60
+1.70
+1.80
+4.94
+2.76
+4.00
+2.00
+2.60
+
+Table 3.8 South Sudan monthly average per capita cereal consumption (kg/person), 2009
+Cereal
+
+Sorghum
+Maize
+Wheat
+Millet
+Rice
+Other
+cereals
+Cereals
+
+Rural north
+Bottom
+Top
+60%
+40%
+11.29
+13.74
+2.26
+3.22
+0.34
+1.23
+0.08
+0.21
+0.09
+0.71
+0.15
+1.52
+
+Rural south
+Bottom
+Top
+60%
+40%
+8.46
+10.30
+2.52
+3.48
+0.09
+0.54
+0.72
+1.63
+0.10
+0.43
+0.86
+1.71
+
+Juba
+Bottom
+Top
+60%
+40%
+3.24
+3.64
+4.73
+6.77
+1.74
+3.79
+0.02
+0.13
+0.41
+1.34
+0.57
+0.96
+
+Other urban
+Bottom
+Top
+60%
+40%
+6.66
+9.34
+1.88
+3.34
+1.37
+3.90
+0.04
+0.17
+0.27
+1.29
+0.23
+0.47
+
+National
+Bottom
+Top
+60%
+40%
+9.85
+10.99
+2.38
+3.65
+0.40
+1.92
+0.25
+0.51
+0.12
+0.84
+0.36
+1.27
+
+12.65
+
+10.70
+
+8.15
+
+8.51
+
+11.62
+
+15.54
+
+14.19
+
+10.9672
+
+12.37
+
+14.08
+
+Source: Calculated from 2009 National Baseline Household Survey (Republic of South Sudan, NBS 2009).
+Notes: Figures shown are for the bottom 60 percent and top 40 percent of the national distribution of the total (food and
+nonfood) per capita expenditure distributions.
+
+Per capita consumption of wheat (including bread, pasta, and other wheat products), at 0.95 kg
+per month, was only about one-third that of maize and one-tenth that of sorghum. Like that of maize, per
+capita monthly wheat consumption was greater in urban areas (2.92 kg) than in rural areas (0.48 kg).
+Across rural areas, wheat consumption was lower in the south than in the north. In fact, the bottom 40
+percent of the rural south reported consuming only 0.09 kg of wheat per month. Wheat consumption in
+Juba mirrors wheat consumption in other urban areas, though there is a sharp variation by income (per
+capita expenditure) groups. Individuals in relatively rich households (the top 60 percent of the per capita
+expenditure distribution) consume almost five times as much wheat as those in relatively poor households
+(1.92 kg per month, as compared with only 0.40 kg per capita per month) (Table 3.7).
+The 2009 NBHS data also indicate relatively small amounts of millet, rice, and other cereal
+consumption. Average per capita monthly consumption of rice and wheat were only 0.38 and 0.34 kg,
+respectively. The NBHS data also show 0.69 kg per month of consumption of other cereals (teff and local
+cereals). Millet and other cereals are more widely consumed in rural areas than in urban areas, while rice
+is consumed more in urban than in rural areas.
+The above figures describe average household consumption, but many households do not
+consume one or more of the main cereals. According to NBHS data on the number of people who
+consumed each cereal in the week preceding the survey, sorghum was by far the most widely consumed
+cereal in the country, with 85 percent of the national population reporting some sorghum consumption
+(Tables 3.9 and 3.10). Sorghum consumption was even more prevalent in the north, with 92 percent of the
+population reporting sorghum consumption in the week preceding the survey. In contrast, only 60 percent
+of Juba’s population consumed sorghum. These figures mirror per capita consumption patterns for
+sorghum. On the other hand, whereas maize was the second most important cereal in per capita
+consumption, wheat was actually more widely consumed, with 33 percent of the population reporting
+consumption of wheat (and wheat products) and only 30 percent reporting they had consumed maize.
+Differences in prevalence of consumption are even more pronounced in urban areas. In 2009, 77 percent
+of Juba’s residents and 74 percent of residents in other urban areas consumed wheat, while only 68
+percent of Juba’s residents and 30 percent of residents in other urban areas consumed maize. At the same
+time, however, many more people reported consuming only maize than reported consuming only wheat
+(Figures 3.4 and 3.5). Further, approximately 37 percent of the population consumed sorghum and no
+other staple (Figure 3.6). Other cereals, such as rice, millet, and other grains, were more widely consumed
+in urban areas, though only 23 percent of people consumed these other cereals in all of South Sudan.
+
+16
+
+Nationally, 42 percent of households consume only one cereal (Tables 3.9 and 3.10). The
+percentage of sorghum consumers that consume only sorghum ranges from about 4 percent in urban areas
+other than Juba to 48 percent in southern rural areas, and from 49 percent in northern rural areas to 51
+percent in Juba (Table 3.10). Households that consume only maize or wheat are even rarer. Only 14
+percent of maize-consuming households and 3 percent of wheat-consuming households consume only that
+cereal. More typical are combinations of sorghum with maize (37 percent of maize consumers,
+nationally), and sorghum with wheat (41 percent of wheat consumers, nationally) (Figures 3.4, 3.5, and
+3.6).
+Table 3.9 South Sudan number of consumers of cereals, 2009
+Category
+Rural north
+Sorghum consumers
+Total
+4,708,530
+Only
+2,310,183
+Maize consumers
+Total
+1,399,156
+Only
+184,151
+Wheat consumers
+Total
+1,407,169
+Only
+32,427
+Other cereal (millet, rice & other) consumers
+Total
+800,652
+Only
+36,206
+Cereals total
+Total
+5,145,823
+
+Rural south
+
+Juba
+
+Other urban
+
+National
+
+1,432,776
+685,363
+
+223,510
+114,208
+
+795,003
+29,679
+
+7,159,820
+3,139,433
+
+583,604
+117,659
+
+255,064
+22,025
+
+282,717
+30,814
+
+2,520,541
+354,649
+
+386,871
+22,125
+
+289,465
+15,425
+
+694,987
+18,148
+
+2,778,492
+88,126
+
+582,451
+143,967
+
+167,993
+3,914
+
+384,887.63
+5,902
+
+1,935,984
+3,914
+
+1,998,882
+
+373,626
+
+939,816
+
+8,458,147
+
+Source: Calculated from 2009 National Baseline Household Survey (Republic of South Sudan, NBS 2009).
+
+Table 3.10 South Sudan consumers of cereals as percentage of total consumers, 2009
+(’000 tons)
+Rural north
+Rural south
+Sorghum consumers
+Total sorghum
+92%
+72%
+Only sorghum
+49%
+48%
+Maize consumers
+Total maize
+27%
+29%
+Only maize
+13%
+20%
+Wheat consumers
+Total wheat
+27%
+19%
+Only wheat
+2%
+6%
+Other cereal (millet, rice & other) consumers
+Total other cereals
+16%
+29%
+Only other cereals
+5%
+25%
+
+Juba
+
+Other urban
+
+Total
+
+60%
+51%
+
+85%
+4%
+
+85%
+44%
+
+68%
+9%
+
+30%
+11%
+
+30%
+14%
+
+77%
+5%
+
+74%
+3%
+
+33%
+3%
+
+45%
+2%
+
+41%
+2%
+
+23%
+0%
+
+Source: Calculated from 2009 National Baseline Household Survey (Republic of South Sudan, NBS 2009).
+
+17
+
+Figure 3.4 South Sudan maize consumers by region, 2009
+National
+Juba
+Other urban
+Rural nouth
+Rural north
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+Maize only
+
+Maize & sorghum only
+
+Maize & wheat only
+
+Maize, sorghum & wheat only
+
+Maize & other only
+
+Maize, wheat & other
+
+Maize, sorghum & other
+
+Maize, sorghum, wheat & other
+
+90%
+
+100%
+
+Source: Calculated from 2009 National Baseline Household Survey (Republic of South Sudan, NBS 2009).
+
+Figure 3.5 South Sudan wheat consumers by region, 2009
+National
+Juba
+Other urban
+Rural south
+Rural north
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+Wheat only
+
+Sorghum & wheat only
+
+Maize & wheat only
+
+Sorghum, maize & wheat only
+
+Sorghum, wheat & other
+
+Sorghum, maize, wheat & other
+
+Maize, wheat & other
+
+Wheat and other only
+
+90%
+
+100%
+
+Source: Calculated from 2009 National Baseline Household Survey (Republic of South Sudan, NBS 2009).
+
+18
+
+Figure 3.6 South Sudan sorghum consumers by region, 2009
+National
+Juba
+Other urban
+Rural south
+Rural north
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+Sorghum only
+
+Sorghum & maize only
+
+Sorghum & wheat only
+
+Sorghum, maize & wheat only
+
+Sorghum & other only
+
+Sorghum, wheat & other
+
+Sorghum, maize & other
+
+Sorghum, maize, wheat & other
+
+90%
+
+100%
+
+Source: Calculated from 2009 National Baseline Household Survey (Republic of South Sudan, NBS 2009).
+
+Spatial Cereal Price Variation
+Although sorghum is the most widely consumed cereal in South Sudan, on average, it is not the cheapest
+cereal. The reported national median price for sorghum in March and April 2009, when the household
+survey was carried out, was 2.00 Sudanese pounds (SDG) per kilogram, whereas the median national
+price for maize was only SDG 1.44 per kilogram (Table 3.11). In general, sorghum prices were higher in
+urban areas than in rural areas. However, the range in sorghum prices across regions was greater than the
+gap between rural and urban prices. In Juba and in the southern rural areas, the price of sorghum was 1.70
+and 1.50 SDG per kilogram, respectively. In the rural north, the price of sorghum was SDG 2.19, and in
+the other urban areas it was SDG 2.60.
+Maize prices follow a different pattern. Maize was cheaper in the rural areas and more expensive
+in urban areas. The price of maize in urban areas was SDG 1.88, while the price in rural areas was SDG
+1.46. In Juba, unlike in all other areas, sorghum was on average cheaper than maize (Table 3.11). Wheat
+and rice were far more expensive cereals than sorghum, maize, and millet. The median national price for
+wheat as reported in 2009 was SDG 4.73 per kilogram and the median price for rice was SDG 4.00 per
+kilogram. Wheat prices were higher in rural areas than in urban areas, likely reflecting the lack of
+domestic wheat production and high transport costs incurred for imported wheat to reach rural markets.
+The price of wheat in Juba was higher and closer to the rural prices than wheat prices in other urban areas,
+perhaps reflecting quality differences in wheat and wheat products. The median price for rice was SDG
+4.00 per kilogram in all areas but the rural south, where it was SDG 2.55 per kilogram (Table 3.11).
+Table 3.11 South Sudan monthly average cereal prices in Sudanese pounds
+Cereal
+
+Rural
+Rural
+Juba
+Other
+National
+north
+south
+urban
+Sorghum
+2.19
+1.50
+1.70
+2.60
+2.00
+Maize
+1.40
+1.50
+1.80
+1.60
+1.44
+Wheat
+5.00
+5.00
+4.94
+3.63
+4.73
+Millet
+1.72
+2.00
+2.76
+3.13
+2.00
+Rice
+4.00
+2.55
+4.00
+4.00
+4.00
+Other cereals
+3.00
+1.00
+2.00
+3.00
+2.15
+Source: Calculated from 2009 National Baseline Household Survey (Republic of South Sudan, NBS 2009).
+
+19
+
+Household Budget Shares
+On average, household spending on sorghum was twice as great as spending on all other cereals
+combined. Further, spending on sorghum was almost as much as spending on nonfood items. The
+dominance of sorghum in household budgets was especially pronounced for rural households, whose
+average budget share for sorghum was 24.0 percent, as compared with only 9.9 percent for urban
+households. Moreover, the poorest 60 percent of the population devoted a much higher budget share (25.9
+percent) to sorghum than did the richest 40 percent of households (13.3 percent). These differences were
+observed across all regions but were greater in rural areas than in urban areas (Table 3.12 and Figure 3.7).
+Table 3.12 South Sudan household budget shares, 2009
+Item
+
+Sorghum
+Maize
+Wheat
+Millet
+Rice
+Other
+cereals
+All cereals
+Noncereals
+All foods
+Nonfoods
+
+Rural north
+Bottom
+Top
+60%
+40%
+32.65
+18.68
+4.88
+2.71
+1.57
+2.44
+0.21
+0.20
+0.40
+1.44
+0.49
+3.88
+
+Rural south
+Bottom
+Top
+60%
+40%
+16.56
+9.59
+4.83
+3.07
+0.41
+1.12
+2.38
+2.60
+0.40
+0.66
+1.22
+0.47
+
+Juba
+Bottom
+Top
+60%
+40%
+5.20
+2.57
+6.46
+4.96
+4.80
+5.61
+0.05
+0.16
+1.03
+1.35
+0.73
+0.61
+
+Other urban
+Bottom
+Top
+60%
+40%
+15.11
+10.80
+2.96
+2.59
+3.80
+5.44
+0.10
+0.35
+0.93
+1.61
+0.66
+0.73
+
+National
+Bottom
+Top
+60%
+40%
+25.85
+13.27
+4.75
+2.98
+1.56
+3.12
+0.78
+0.78
+0.47
+1.29
+0.71
+2.23
+
+40.20
+44.48
+84.68
+15.32
+
+25.79
+57.08
+82.88
+17.12
+
+18.27
+39.99
+58.26
+41.74
+
+23.55
+51.69
+75.24
+24.76
+
+34.12
+48.37
+82.49
+17.51
+
+29.35
+58.49
+87.83
+12.17
+
+17.52
+70.57
+88.09
+11.91
+
+15.25
+50.59
+65.85
+34.15
+
+21.51
+54.61
+76.12
+23.88
+
+23.67
+59.46
+83.13
+16.87
+
+Source: Calculated from 2009 National Baseline Household Survey (Republic of South Sudan, NBS 2009).
+Notes: Figures shown are for the bottom 60 percent and top 40 percent of the national distribution of the total (food and
+nonfood) per capita expenditure distributions.
+
+Figure 3.7 South Sudan household budget shares, 2009
+Nonfoods
+
+Sorghum
+Maize
+Other
+cereals
+
+Other foods
+Meat and
+fish
+Pulses
+
+Vegetables Oils Dairy
+and fruits
+
+Source: Calculated from 2009 National Baseline Household Survey (Republic of South Sudan, NBS 2009).
+
+Budget shares for sorghum were highest in the rural north, with poor households spending almost
+as much on sorghum as they did on all other foods (and more than they spent on all nonfood items
+together). The poor in the rural south also relied on sorghum as a major staple but spent a significant
+amount on maize as well. Budget shares for sorghum were lowest in Juba, where average spending on
+sorghum was only 5.2 percent of total expenditures for the poorest 60 percent, and only 2.6 percent for
+the richest 40 percent.
+20
+
+The average budget share of maize in South Sudan was only 4.1 percent of household
+expenditures: 4.3 percent in rural areas and 3.6 percent in urban areas. The maize budget share in Juba,
+however, was considerably higher (5.5 percent) than that of other urban areas (only 2.7 percent). Overall,
+the bottom 60 percent of the South Sudanese population spent more of its total expenditures on maize (4.8
+percent) than the top 40 percent (3.0 percent).
+The budget share for wheat was the third largest of the cereal budget shares, averaging 2.7
+percent across South Sudan. Unlike maize and sorghum, however, the wheat budget shares were much
+higher in urban areas, 4.9 percent, than in rural areas, 1.5 percent. Further, unlike sorghum and maize, the
+expenditure share of wheat actually was greater for those in the top 40 percent compared with those in the
+bottom 60 percent. At the same time, however, the increase in the budget share for the wealthy was
+smaller than their increase in kilogram consumption. Rice spending, like wheat spending, was greater in
+urban areas than in rural areas. Further, as with wheat, the budget share for rice increased with income,
+but by less than the increase in kilogram consumption.
+Livestock are also a major source of income and food consumption in South Sudan, as well as a
+store of wealth. Nationally, there were an estimated 11.74 million cattle in 2009, an average of 1.34
+animals per person. Ownership is higher in the northern regions than in Equatoria in the south (1.58 and
+0.88 animals per person, respectively). According to the 2009 NBHS, 45 percent of the population lived
+in households that consumed dairy products (50 percent in northern regions and 34 percent in Equatoria),
+with consumption per capita in the northern regions double that of the south (2.10 versus 1.06 kg per
+capita per month) (Figure 3.7).
+Demand Elasticities
+Econometric estimates of own-price and total expenditure (income) elasticities of demand for sorghum
+and maize utilizing various functional forms suggest that, in general, consumers prefer maize to sorghum.
+For sorghum, using the simplest equation (without inclusion of a squared term of the logarithm of
+expenditures per person) and the national sample, the estimated coefficients imply expenditure and ownprice elasticities of 0.28 and -0.22, respectively. For maize, using the equation without a squared term and
+the national-level sample, the estimated expenditure (income) elasticity is 0.61, about twice as large as the
+estimates for sorghum (0.33). The estimate of the own-price elasticity of demand for maize (-0.15) is
+slightly less than that of sorghum (-0.22), however.
+Regressions using subsamples of the data produce broadly similar results for the price elasticities
+but widely varying expenditure elasticities, almost all of which are statistically insignificant. Including the
+logarithm of expenditures squared results in similar values for price elasticities across almost all regions
+but widely varying expenditure elasticities at the regional level, with most coefficients not statistically
+different from zero.
+Elasticities of demand for maize in Uganda, estimated on a national sample of households, are
+broadly similar to the above estimates for South Sudan (Boysen 2012). The estimated mean income
+elasticities were 0.68 in rural areas and 0.37 in urban areas. Own-price elasticities of maize demand were
+-0.93 and -0.71 in rural and urban areas, respectively. It should be noted, however, that national average
+consumption patterns in Uganda differ from those in South Sudan, especially with regard to the far
+greater consumption of roots and bananas in Uganda. 8
+
+8 These elasticities were estimated using data from the 2005/2006 Ugandan National Household Survey, Boysen (2012), and
+a quadratic almost-ideal demand system (QUAIDS) two-stage econometric model of household food demand with 12 food item
+groups. (Maize was specified as one of the food items; sorghum was included in “other foods.”) Average food budget shares for
+maize were 0.11 in rural areas and 0.08 in urban areas. Matooke (made from cooking bananas), sweet potatoes, and cassava have
+a total food budget share of 0.33 in rural areas and 0.20 in urban areas.
+
+21
+
+4. CEREAL MARKETS AND PRICES
+The 2009 NBHS data show that most households in South Sudan rely heavily on markets for their cereal
+consumption. Urban households rely almost entirely on markets because urban production and in-kind
+public transfers are very small. Rural households rely much more on their own harvests, yet in 2009 only
+25 percent of the rural households who consumed sorghum got it from their own production. (The NBHS
+question on source of supply refers to food consumption in the week prior to the survey, which was
+conducted in April and May 2009.) Furthermore, only 26 percent of households consumed maize from
+their own production. Consumption of wheat, the second most popular cereal in terms of number of
+consumers, was almost entirely (95 percent at the national level) sourced from purchases.
+Subsequent surveys carried out by the WFP in 2014 found that household production is the
+largest source of sorghum only around harvest time (October). At all other times, the market is the main
+supplier. By June, most households have exhausted their stocks, and markets supply between 60 and 70
+percent of sorghum to sorghum-consuming households (FAO and WFP 2015).
+In spite of the importance of markets to supply cereals for most households, markets in South
+Sudan are still underdeveloped. Low levels of marketed surplus by farmers and meager market demand
+due to widespread poverty result in thin markets in many areas, with relatively small volumes of trade and
+few traders.
+Structure of Cereal Markets
+Market Actors
+Grain traders from South Sudan, Sudan, Uganda, Kenya, Ethiopia, Somalia, and Eritrea operate in South
+Sudan. Overall, there are more foreign traders than South Sudanese (WFP 2015). Most traders involved in
+international trade operate in the informal rather than the formal sector because of high regulatory
+compliance costs and numerous time-consuming administrative steps in the formal sector (AfDB 2013).
+Traders from neighboring countries generally prefer to cross into South Sudan and sell their goods at local
+markets rather than sell their goods at the border to their South Sudanese counterparts. Likewise, South
+Sudanese traders prefer to travel to neighboring countries to search for, assemble, and purchase their
+goods. As a result, for both South Sudanese traders and their foreign counterparts, commodity purchasing
+and transporting can be expensive and take a long time (Ngigi 2008).
+The Marketing Chain
+For the most part, farmer sales in South Sudan take place at farmgate and involve relatively small
+quantities. 9 Since there are few functioning rural roads, assembly is often done using bicycles over narrow
+paths. The goods are then transferred to shared trucks (Ngigi 2008).
+There are three principal types of truck transport: individually hired trucks, collectively hired trucks, and
+transporter-trader trucks (WFP 2015). Individually hired trucks are rented by large-scale wholesalers who
+procure large volumes of commodities to minimize costs. Collectively hired trucks are rented by a group
+of traders who individually procure small volumes of commodities. Owners of transporter-trader trucks
+are directly involved in trade as well as transport, buying perishable bulky commodities and reselling
+them off their trucks in South Sudanese markets (Ngigi 2008).
+Retailers operate at three different scales. Very small retailers operate at a designated place within each
+market. Medium-sized retailers sell from fixed stores but typically lack the capacity to consistently supply
+the market with goods. Wholesalers participate in large-scale retail trade or sell goods off their trucks
+(Wambua 2009).
+9 A major exception is sales from Sudan’s mechanized farms in the Greater Upper Nile region that produce large volumes of
+sorghum.
+
+22
+
+Transport
+Poor road and river infrastructure continue to hinder market development in South Sudan. South Sudan
+ranks far below all other African countries in terms of its road network and the condition of its roads. In
+2011, the country had only 15 km of road per 1,000 km2 of arable land (World Bank 2012a). Further, less
+than 5 percent of the existing 7,171 km of primary roads were in good condition, and only 2 percent of the
+primary road network was paved (World Bank 2012a). In 2012, the road from Nimule, on the border with
+Uganda, to Juba was one of the few paved roads in South Sudan. Other important border roads, such as
+the road from Yei to Kaya, remained unpaved and washed out in many areas (USAID 2012).
+As a result of the low density and poor condition of the roads, as well as the low volume of trade,
+transport costs are extremely high. Since many markets across the country are fed Uganda’s goods via the
+route from Nimule (a major land port) to Juba, transporters are forced to haul goods sometimes across the
+entire country on poor-quality interstates and back roads. Deterioration of roads in the rainy season also
+adds to costs, with trucks often forced to carry only small loads (Wambua 2009). Further, uncertain fuel
+supply networks (frequent disruption or delays in fuel deliveries) often lead to fuel shortages and high
+price disparities. For example, at the end of 2014 the average price for 1 liter of diesel fuel was SSP 6 in
+Juba; between SSP 10 and SSP 15 in Bor, Wau Aweil, Renk, Kuajok, and Rumbek; SSP 20 in Malakal;
+and SSP 25 in Maban (FAO and WFP 2015). Finally, because South Sudan exports far less to its
+neighbors than it imports from them, trucks enter South Sudan with goods but often return empty to
+Uganda, Kenya, or Sudan, essentially doubling transport costs faced by trucking companies (WFP 2015).
+Physical Market Infrastructure
+There are four types of food markets in Sudan: rural primary markets located in villages and small towns,
+rural assembly markets located in agricultural surplus areas, urban retail markets, and markets in
+Protection of Civilians site camps of the United Nations Mission in South Sudan (Table 4.1).
+Retailers and traders operate with very low storage capacities. Storage capacities are lowest in the
+Greater Upper Nile region because conflict makes investment very risky. In its 2008 and 2009 studies, the
+Famine Early Warning Systems Network (FEWS NET) found that storage facilities were typically small
+rooms measuring between 10 by 10 feet and 30 by 30 feet that also serve as sales areas (Ngigi 2008;
+Wambua 2009). The majority (64 percent) of the retailers held commodities for only up to 2 weeks, while
+the majority (69 percent) of wholesalers held their commodities for up to 3 months.
+Other Market Institutions and Constraints
+Banking Services
+Inadequate banking services, for both foreign exchange transactions and credit, also inhibit trade in South
+Sudan. Foreign currency is not easily accessible through banks. Traders typically change their South
+Sudanese pounds to US dollars in Torit or Juba and then exchange the dollars for Ugandan shillings to
+pay for goods and transport in Kampala. Additionally, traders are faced with double risks associated with
+potential foreign exchange losses due to fluctuations in Sudanese pound–US dollar exchange rate and the
+US dollar–Uganda shilling exchange rate. Traders also lack access to banks to hold deposits (Wambua
+2009). Therefore, retailers, traders, and transporters have to rely on risky modes of handling and storing
+cash for their businesses. Further, because of the lack of banks, traders have to use nonbanking systems
+for money transfers to pay for imports and thus do not have access to essential trade instruments, such as
+letters of credit, to enhance their business efficiency.
+
+23
+
+Table 4.1 South Sudan markets, 2015
+City
+Akobo
+
+Bor
+
+Renk
+
+State
+Jonglei
+
+Jonglei
+
+Upper Nile
+
+Trade route
+•
+•
+
+•
+•
+
+•
+•
+
+Malakal
+
+Upper Nile
+
+•
+•
+
+Metar-Akobo
+The roads are passable only in the
+dry season.
+
+Principal
+commodities
+Sorghum, maize,
+wheat, sugar, and
+vegetable oil
+
+Juba-Bor
+Bor is less than 200 km from Juba,
+the roads are passable all year
+round, and the town has both a river
+port and an airport.
+White Nile / Blue Nile / Sennar–
+Renk
+Most informal trade flows from
+Sudan transit Renk before reaching
+the Greater Upper Nile states.
+
+Vegetables and
+staples
+
+Renk-Malakal
+There is a high risk of disruption on
+the main trade route due to conflict.
+
+Town market;
+lunch/street food
+at PoC alpha gate;
+staples inside the PoC,
+with tiny petty-trade
+activities
+
+Key issues
+•
+•
+•
+•
+
+Most products
+
+•
+•
+•
+•
+•
+•
+
+Bentiu
+
+Unity
+
+•
+•
+•
+
+Juba-Benitu
+The most important and reliable flow
+of products comes from Juba on
+fixed-wing aircraft.
+Alternatively, sorghum from the
+Abyei region (or from West
+Kordofan) can be purchased in
+Mayom.
+
+Two small markets are
+operating in Bentiu
+providing goods to
+soldiers and their
+families. The biggest
+markets are in the
+PoCs.
+
+24
+
+•
+
+•
+
+The market in Akobo is constrained by limited demand
+and contracted supply. Households have little
+purchasing power.
+During the rainy season, road connections are cut off
+and river transport is the only viable alternative.
+The market was completely destroyed when the violence
+broke out, with almost no trading activities in the
+subsequent few months.
+There is very limited storage capacity due to conflict.
+With most of South Sudan’s mechanized farms located
+nearby, the market used to be one of the region’s
+foremost trading hubs.
+Insecurity has affected the agricultural season, reducing
+the overall area cultivated, the output, and thereby, the
+crops sold in the market.
+One-fourth of the population in Malakal has been
+displaced into PoCs or other IDP sites.
+The remainder has moved elsewhere in the countryside
+or left the Upper Nile for destinations such as Khartoum
+and Juba.
+Poor purchasing power and few customers are major
+issues with the markets.
+The area remains one of the most disputed in South
+Sudan.
+Market functionality is severely limited by the appalling
+road conditions and widespread insecurity, which
+effectively make Bentiu an economy under siege, with
+hardly any fuel available.
+Almost half of the traders left after the violence; the
+remaining traders run small-scale businesses.
+
+Table 4.1 Continued
+City
+Nimule
+
+State
+Eastern
+Equatoria
+
+Torit
+
+Eastern
+Equatoria
+Eastern
+Equatoria
+
+•
+
+Eastern
+Equatoria
+
+•
+
+Kapoeta
+Juba
+
+Yambio
+
+Aweil
+
+Western
+Equatoria
+
+Northern Bar
+el Ghazal
+
+•
+
+•
+
+•
+
+•
+•
+
+•
+•
+
+Trade route
+Main border crossing to Uganda and the
+most important route for imports of food
+and nonfood commodities into South
+Sudan.
+Nimule or Kenya
+
+Principal commodities
+Food widely available
+
+•
+
+Key issues
+No major marketing problems
+
+Food widely available
+
+•
+
+Insecurity on the trade route from Kenya
+
+Imported mainly from Kenya through
+Lokichogio, except sorghum and sugar,
+which are imported from Uganda
+Most goods come from Nimule, either
+from Gulu market or Kampala.
+Some goods are imported through
+Mombasa from Asian countries.
+
+Maize and sorghum,
+beans, wheat flour,
+sugar, and cooking oil
+Maize, sorghum, beans,
+wheat and maize flour,
+rice, cooking oil, and
+sugar
+
+•
+•
+
+Insecurity on the trade route from Kenya
+Local demand has fallen.
+
+•
+
+The road to Uganda, its principal source
+of food imports
+Some of the goods traded in Yambio
+come from Sudan, via Wau, a route that
+is also affected by the rainy season.
+Some goods are imported from the
+DRC.
+El Obeid–Aweil
+Aweil is also the end destination for food
+coming from Uganda.
+
+Palm oil, some cassava
+flour, rice,
+maize, sorghum, and
+beans
+
+•
+
+Sorghum, wheat flour,
+broad beans, sugar,
+vegetable oil, maize
+flour, salt, and tea
+leaves
+
+•
+
+Konyo traders reported a sharp decline in customers
+coming from conflict-affected areas such as Malakal
+and Bentiu, while in the past large volumes used to be
+purchased from the Greater Upper Nile.
+Since the conflict started, local demand has fallen
+because IDPs receiving food assistance are less
+dependent on markets.
+Challenges include a lack of credit and foreign
+exchange to import food commodities, and high
+taxation at checkpoints, with traders paying up to SSP
+7,000 between Kaya and Yambio.
+Due to distance from Juba, the main trade access
+routes are poor and often impassable during the rainy
+season.
+In 2015 one of the two entry routes from Sudan was
+reported to be closed.
+Trade routes to Wau, Rumbek, and Yambio are in a
+poor state and impassable at several points.
+The poor road conditions, together with several
+roadblocks and high taxes, significantly increase the
+cost of business, pushing up prices.
+The conflict has had no direct impact on markets, but it
+has created general insecurity and uncertainty, leading
+to numerous roadblocks and extortion through official
+and unofficial taxes.
+Many of the roads toward Rumbek and Tambura—the
+routes followed by supplies from East Africa (via
+Uganda)—are inaccessible.
+
+•
+
+•
+
+•
+•
+
+Rumbek
+
+Lakes
+
+•
+
+Relies on food imports from (and
+through) neighboring states, especially
+from Wau and Juba
+
+Sorghum, maize, beans
+
+•
+
+Wau
+
+Western Bar
+el Ghazal
+
+•
+
+A hub market with around eight of the
+largest market chains in the region.
+It is well connected to supply routes to
+Sudan and to Uganda, but the rainy
+season creates road access problems.
+
+Food widely available
+
+•
+
+•
+
+Source: Based on WFP (2015).
+Notes: DRC = Democratic Republic of the Congo; IDP = internally displaced persons; PoC = Protection of Civilians camp; SSP = South Sudanese pounds.
+
+25
+
+Taxation and Checkpoints
+High taxation at customs and at checkpoints across South Sudan are barriers to both trade and market
+development. Taxes paid include an import duty; a value-added tax (VAT); and state, commerce, and
+county taxes, as well as a final business profit tax and other levies. Cereals are subject to a 10 percent
+import duty, a VAT of 15 percent and a Standards Bureau charge of 3 percent (Ngigi 2008). In addition,
+traders are subject to a mixture of local taxes, including a state tax of 10 percent, a Ministry of Commerce
+tax of 3 percent, and a variable county tax (Wambua 2009).
+Checkpoints are numerous and payments are widespread. According to a survey conducted by the
+National Bureau of Statistics in November and December 2010, there are four checkpoints per 100 km
+along the major South Sudanese trade routes, and drivers make payments at 97 percent or more of the
+checkpoints. While the largest payments occur at the international borders, payments on internal routes
+can be up to 8 percent of the value of goods transported. Although most payments are small (only 4
+percent were more than 500 SDG), total payment is significant, with average payments per 100 km
+exceeding 100 SDG on average. Around 47 percent of individual payments made during the survey were
+not receipted (NBS 2011.
+Wait times at checkpoints are very long. On the Kaya-Juba trade route the average payment was
+4.9 percent of the value of goods transported, and the average wait time was 24 hours 32 minutes. On the
+Nimule-Juba route the average payment is 15.4 percent of the value of goods transported, and the average
+wait time was 5 hours 39 minutes (NBS 2011).
+Security
+Security has always been an issue for trading and market development in the region. Weak institutions,
+combined with political uncertainty cause continued insecurity among traders. This situation worsened
+with the beginning of the conflict in December 2013.
+The conflict has created an environment of insecurity with the proliferation of banditry and
+looting. The insecurity has permeated most of the trading routes, with many unofficial checkpoints and
+roadblocks being set up to extort money (WFP 2015). Further, in addition to security threats in South
+Sudan, there is weak security across border countries. Traders have not been able to put in place any
+measures to mitigate any of these risks and are therefore bearing all the costs.
+Market Prices and Cross-border Trade of Sorghum and Maize
+Market prices of sorghum and maize in South Sudan have risen substantially over time, along with overall
+macroeconomic inflation, and have also been highly variable (Figure 4.1). The price of sorghum in the
+Konyo Konyo market (the main grain wholesale market in Juba) rose by 81 percent in nominal terms
+between 2009 and 2014. In the same period, the price of maize rose even more, by 92 percent (Table 4.2).
+In real terms (adjusted for 111 percent overall inflation in the South Sudanese economy), however,
+sorghum and maize prices fell by 14 and 12 percent, respectively (Figure 4.2).
+
+26
+
+Figure 4.1 Retail prices of sorghum and maize in Juba, South Sudan, 2008–2015
+6.0
+
+Jan 2014: Start of conflict
+
+5.0
+
+SSP/kg
+
+4.0
+3.0
+2.0
+1.0
+
+Sorghum
+
+Feb-15
+
+Sep-14
+
+Apr-14
+
+Nov-13
+
+Jun-13
+
+Jan-13
+
+Aug-12
+
+Mar-12
+
+Oct-11
+
+May-11
+
+Dec-10
+
+Jul-10
+
+Feb-10
+
+Sep-09
+
+Apr-09
+
+Nov-08
+
+Jun-08
+
+Jan-08
+
+0.0
+
+Maize
+
+Source: Authors’ calculations using data from the World Food Programme office in Juba and FEWS NET (2015).
+
+Figure 4.2 Real retail prices of sorghum and maize in Juba, South Sudan, 2008–2015
+7.0
+
+Jan 2014: Start of conflict
+
+6.0
+
+SSP(2014)/kg
+
+5.0
+4.0
+3.0
+2.0
+1.0
+
+Sorghum
+
+Feb-15
+
+Sep-14
+
+Apr-14
+
+Nov-13
+
+Jun-13
+
+Jan-13
+
+Aug-12
+
+Mar-12
+
+Oct-11
+
+May-11
+
+Dec-10
+
+Jul-10
+
+Feb-10
+
+Sep-09
+
+Apr-09
+
+Nov-08
+
+Jun-08
+
+Jan-08
+
+0.0
+
+Maize
+
+Source: Authors’ calculations using data from the World Food Programme office in Juba and FEWS NET (2015).
+
+27
+
+Table 4.2 South Sudan domestic and import parity prices of maize and sorghum, 2008–2014
+Maize
+
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+Sorghum
+
+2009
+2010
+2011
+2012
+2013
+2014
+
+(1)
+Wholesale
+Kampala
+(US$/MT)
+450.7
+451.8
+238.8
+421.3
+458.1
+518.7
+468.4
+
+(2)
+Parallel
+exchange rate
+(SSP/US$)
+2.62
+2.94
+2.94
+3.52
+4.44
+4.27
+5.03
+
+(3)
+Wholesale
+Kampala
+(SSP/kg)
+1.18
+1.33
+0.70
+1.48
+2.03
+2.21
+2.36
+
+(4)
+Import parity
+Juba
+(SSP/kg)
+2.04
+2.24
+1.43
+2.57
+3.28
+3.59
+3.40
+
+(5)
+Retail
+Juba
+(SSP/kg)
+1.29
+1.51
+1.77
+2.25
+3.19
+3.20
+2.90
+
+(6)
+Price ratio
+Juba/
+Kampala
+1.09
+1.14
+2.51
+1.52
+1.57
+1.44
+1.23
+
+(7)
+Nominal
+rate of
+protection
+-0.37
+-0.33
+0.24
+-0.12
+-0.03
+-0.11
+-0.15
+
+(1)
+Wholesale
+Kampala
+(US$/MT)
+294.6
+236.1
+220.6
+368.9
+326.6
+416.2
+
+(2)
+Parallel
+exchange rate
+(SSP/US$)
+2.94
+2.94
+3.52
+4.44
+4.27
+5.03
+
+(3)
+Wholesale
+Kampala
+(SSP/kg)
+0.86
+0.70
+0.78
+1.64
+1.39
+2.09
+
+(4)
+Import parity
+Juba
+(SSP/kg)
+1.46
+1.26
+1.49
+2.75
+2.45
+3.43
+
+(5)
+Retail
+Juba
+(SSP/kg)
+1.84
+2.52
+2.76
+4.38
+4.49
+3.33
+
+(6)
+Price ratio
+Juba/
+Kampala
+2.13
+3.63
+3.56
+2.68
+3.22
+1.59
+
+(7)
+Nominal
+rate of
+protection
+26%
+100%
+86%
+59%
+83%
+-3%
+
+Source: Price and exchange rate data from the World Food Programme, and authors’ calculations.
+Notes: Import parity Juba retail is estimated as wholesale Kampala (US$/ton) times the parallel exchange rate (SDG/US$) plus
+marketing costs from Kampala (or Gulu) to Juba, multiplied by 1.2 to account for the retail marketing margin. Marketing
+costs from Kampala (or Gulu) to Juba are based on an estimate of 0.15 SSP/kg in December 2010 adjusted for changes
+in marketing costs over time using percentage changes in the parallel exchange rate (SDG / Uganda shilling). MT =
+metric tons; SDG = Sudanese pounds; SSP = South Sudanese pounds.
+
+Despite substantial cross-border trade in sorghum with Uganda, prices in Juba have diverged
+from import parity prices (Figure 4.3). The sorghum retail price in Juba (at the Konyo Konyo market) was
+on average 2.8 times the average of the retail prices in both Kampala and Gulu (a major district market in
+northern Uganda). Sorghum retail prices in Juba were also 48 percent higher than the calculated import
+parity sorghum price (from Gulu) from January 2007 through December 2014.
+The Juba sorghum price was also higher than the Juba white maize price over this period (the
+retail maize price was on average 20 percent below the retail sorghum price in Juba). In contrast, the
+import parity price of maize sourced from Uganda was on average 27 percent higher than the import
+parity price of sorghum sourced from Uganda. In comparison with Uganda prices, the relatively high
+sorghum prices in Juba likely reflect a difference in the quality of sorghum, with locally produced white
+sorghum getting a price premium relative to imported mixed (red) sorghum in the Juba retail market.
+Nonetheless, the price data present a puzzle because, apart from quality differences, there would appear to
+be a strong price incentive for more imports of sorghum from Uganda. To the extent that this large margin
+is due to the riskiness of the trade, numerous unofficial tolls, and lack of competition, the margin between
+import parity prices and domestic prices would diminish if the security situation and the efficiency of
+trade were to improve. 10
+
+10 Note, however, that the average retail price of sorghum in the Konyo Konyo market in 2014 essentially matched the
+average import parity price, though the domestic price was 19 percent above import parity in the first half of the year and 24
+percent below import parity in the second half of the year.
+
+28
+
+Figure 4.3 South Sudan domestic and import parity prices of sorghum, 2008–2015
+6.0
+5.0
+4.0
+SSP/kg
+
+3.0
+2.0
+1.0
+
+Feb-15
+
+Sep-14
+
+Apr-14
+
+Nov-13
+
+Imp. parity (parallel Ex. rate) ex Gulu
+
+Jun-13
+
+Jan-13
+
+Aug-12
+
+Mar-12
+
+Oct-11
+
+May-11
+
+Dec-10
+
+Jul-10
+
+Feb-10
+
+Sep-09
+
+Retail, Juba
+
+Apr-09
+
+Nov-08
+
+Jun-08
+
+Jan-08
+
+0.0
+
+Independence
+
+Source: Authors’ calculations using data from the World Food Programme office in Juba and FEWS NET (2015).
+
+In contrast to sorghum prices, prices of white maize in Juba have been generally much closer to
+import parity prices of white maize sourced from Uganda (Figure 4.4). From January 2008 through
+December 2014 (no data are available for white maize prices in 2007), domestic prices of white maize
+were on average only 6 percent below import parity prices (Table 4.2). Moreover, the correlation
+coefficient between white maize retail and import parity prices in the Juba market was 0.844. (By way of
+comparison, the correlation coefficient between retail and import parity prices for sorghum was only
+0.720). 11 In fact, retail market white maize prices closely matched import parity prices in all but two
+periods. In the first period, January 2010–February 2011, domestic prices exceeded import parity prices
+by an average of 38 percent (suggesting perhaps that maize import flows were in some way restricted in
+this period). In the second period, October 2013–July 2014, reliable data are not available, perhaps
+reflecting problems in data collection during the outbreak of civil conflict. 12
+Domestic prices of both maize and sorghum exhibit substantial seasonal movements, as shown by
+a seasonal index of monthly retail prices relative to a 12-month centered moving average of prices (Figure
+4.5). Sorghum prices tend to peak in January and fall steeply by May, most likely due to the first-season
+harvests in southern South Sudan and in Uganda. Sorghum prices then rise until August before falling
+again in September with the onset of the second-season harvest in the South and the single harvest in
+northern areas with unimodal rainfall. Maize prices follow similar seasonal patterns, with peaks in
+January and July, and troughs in April and November.
+
+11
+
+Note also that the correlation coefficient of the prices of maize and sorghum in the Juba retail market (0.885) and the
+correlation coefficient of the import parity prices of maize and sorghum (0.889) are both higher than correlation coefficients of
+either commodity with import parity prices, in part because of domestic inflation that affects domestic retail prices.
+12 In this period, the data show nearly constant retail maize prices.
+
+29
+
+Rainfall patterns contribute to cause seasonality of prices and trade. FEWS NET reported that
+“sorghum exports from Uganda flowed to South Sudan’s markets of Juba, Wau and Aweil between
+January and May when prices are rising and roads are passable” (2014, 3). After May, imports of
+sorghum from Uganda decline due to consumption of fresh (green) maize, a decline in market prices in
+areas that grow short-maturing crops, and a worsening road conditions in areas where the rainy season has
+begun. Similarly, most of South Sudan’s maize imports from Uganda occur between January and May,
+when prices are high and roads passable. Nonetheless, in 2014, this trade was “erratic due to conflictrelated trade disruptions” (FEWS NET 2014, 2).
+
+Retail, Juba
+
+Imp. Pararity (new parallel ex. rate)
+
+Feb-15
+
+Sep-14
+
+Apr-14
+
+Nov-13
+
+Jun-13
+
+Jan-13
+
+Aug-12
+
+Mar-12
+
+Oct-11
+
+May-11
+
+Dec-10
+
+Jul-10
+
+Feb-10
+
+Sep-09
+
+Apr-09
+
+Nov-08
+
+Jun-08
+
+5.5
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+Jan-08
+
+SSP/kg
+
+Figure 4.4 South Sudan domestic and import parity prices of maize, 2008–2015
+
+Independence
+
+Source: Authors’ calculations using data from the World Food Programme office in Juba and FEWS NET (2015).
+
+Figure 4.5 South Sudan seasonality indexes (centered moving average) for sorghum and maize
+1.15
+
+Seasonality index
+
+1.10
+1.05
+1.00
+0.95
+0.90
+0.85
+0.80
+
+Maize
+
+Sorghum
+
+Source: Authors’ calculations using data from the World Food Programme office in Juba and FEWS NET (2015).
+
+30
+
+5. OPTIONS FOR A NATIONAL FOOD SECURITY RESERVE SYSTEM
+This chapter outlines a national food security reserve (NFSR) system that could enhance food security in
+South Sudan through public stocks, domestic and international procurement, carefully managed
+distribution, market monitoring, and policy analysis. As discussed below, however, such a system need
+not involve all aspects of food security interventions, especially in its initial phases.
+One major factor contributing to food insecurity in South Sudan is the absence of wellfunctioning markets in the country due to inadequate infrastructure, warehousing, price information, and
+other market institutions. Feeder or rural roads are nonexistent in many rural areas, and even when they
+exist, they require frequent maintenance. Low levels of marketed surplus by farmers and meager market
+demand by households due to widespread poverty result in thin markets with relatively small volumes of
+trade and few traders. Moreover, market functioning is limited due to information asymmetry (not all
+buyers and sellers have the same information), unequal market power (large farmers and traders may have
+more access to credit, transport, and storage), and high search costs (in linking buyers and sellers).
+Further, there are major institutional weaknesses, such as the lack of risk-management institutions and
+imperfect credit and insurance markets that also hinder the efficient functioning of cereal markets. All
+these factors combined tend to increase price volatility and make agriculture a risky business.
+Given these market imperfections, along with recurring weather-related and conflict-induced
+shocks, and widespread poverty and vulnerability, a well-designed NFSR system could provide
+substantial benefits to South Sudan. The goal of the system would be to protect the poor without
+distorting markets and, in the medium term, to contribute toward long-run market development.
+Price stabilization would not necessarily be a major objective of the NFSR system, however.
+Broad price stability is important for South Sudan because large negative shocks seriously affect the wellbeing of both producers and consumers. Stable and broadly predictable prices benefit producers by
+enabling them to make more accurate calculations of their potential net incomes; this promotes
+investments needed for agricultural growth. Likewise, price stability aids consumers by enabling them to
+better plan consumption and saving decisions and to avoid sharp losses in purchasing power and
+consumption that could result from large price spikes (Timmer 1997).
+Yet market interventions have proven to be not only ineffective in many countries but extremely
+costly as well. Food reserves involve both direct and indirect costs. The direct costs include costs of
+holding stocks, such as the cost of the agencies responsible for managing stocks, the opportunity costs of
+capital engaged in food stocks, and allowable storage losses. On the other hand, there are often indirect
+costs due to very high storage losses, high overhead costs, mismanagement, and theft. These problems
+threaten the success of market operations in many countries and could happen to the NFSR system in
+South Sudan as well.
+International Experience
+The notion of a food security stock often elicits deep skepticism because in many countries such stocks
+have been central to relatively complex systems aimed at price stabilization involving domestic purchases
+and sales of grain, usually at fixed prices. These systems typically have too many objectives, too many
+stakeholders, and too many institutions involved. They can also be very expensive and involve large
+subsidies.
+In many cases, these food stock and distribution systems suffer from severe governance problems
+and corruption that greatly inflate their costs and sharply reduce their benefits to the intended
+beneficiaries—typically farmers and poor consumers. Moreover, once these systems are put in place,
+political lobbies may push for large-scale domestic procurement, leading to massive producer subsidies
+(as in Pakistan, India, the European Union, and the United States). Further, to the extent that a national
+security stock system is involved in international trade, a lack of transparency by government agencies
+and frequent changes in policy can discourage private-sector trade and investment. This is particularly
+true for the countries that have integrated models in which government is involved in all aspects of food
+
+31
+
+grain marketing and distribution. Examples of such models include India, Indonesia, and Pakistan in Asia,
+and Kenya, Zambia, and Malawi in Africa. Asian experiences suggest that while the food reserve
+systems, and the policies around them, played important roles in the early years of the Green Revolution,
+maintaining the systems became expensive and counterproductive over time (Rashid, Gulati, and
+Cummings 2008). Experiences have been similar in Africa. According to one study, the cost of
+stockholding in Kenya was US$11 million in 2009, compared with only about US$2 million in Ethiopia
+(Rashid, Lemma, and Thangata, 2010). This is mainly because Ethiopia, unlike Kenya, has substantially
+withdrawn from the integrated model and moved toward a less complex system. Other countries, such as
+Bangladesh, Mozambique, and Uganda, have also successfully moved toward less complex systems,
+which resulted in improved efficiency and budgetary savings.
+In spite of the negative experiences of many countries, it is nonetheless possible to have a system
+of public stocks and food safety nets, and promote domestic agricultural production and market
+development at the same time. A prime example is Bangladesh, where cereal import liberalization in the
+late 1980s maintained incentives for private-sector imports alongside government commercial imports
+and food aid. The country’s policy combined three key elements: public food distribution, public
+investment, and price incentives. Bangladesh liberalized domestic grain markets in the late 1980s. During
+that time, there was political will for long-term public investments in agricultural research, extension, and
+market infrastructure (public goods elements). Bangladesh invested heavily in rural roads (through foodfor-work and other programs). Through the food security stock program, the country targeted distribution
+through food-for-work, food-for-education, and other transfer programs (conditional transfers). Further, it
+maintained price incentives for domestic production by avoiding large-scale subsidized imports, keeping
+domestic producer prices at medium-term import parity price levels.
+As a result, the public share of rice marketed fell from 30 percent in the 1960s to 11 percent in the
+1980s to 5 percent in 2000. At the same time, long-term production increases led to a 30 percent decline
+in the real price of rice from the early 1980s to the early 1990s. Further, despite large amounts of wheat
+food aid flows, averaging 1.03 million tons per year, Bangladesh’s wheat production more than doubled,
+from 829 thousand tons in 1979/1980 to 1.84 million tons in 1999/2000. For this to occur, food aid flows
+were managed so as to maintain incentives for production and trade (domestic prices were generally at
+import parity levels) (Ahmed, Haggblade, and Chowdhury 2000; del Ninno, Dorosh, and Subbarao 2007).
+In years of large domestic production shortfalls, such as those following the massive 1998 floods
+that at one point covered up to two-thirds of Bangladesh, private-sector rice imports added to domestic
+supplies quickly and at no cost to the government, stabilizing prices and preventing what otherwise would
+have been a serious drop in food consumption (Dorosh 2001; del Ninno et al. 2001). At the same time, the
+country maintained public stocks of rice and wheat, as well as a public food grain distribution system
+effectively targeted to the poor and supplied mainly from food aid inflows and public commercial food
+imports. Ultimately, the gains from the price stabilizing effects of private rice imports outweighed the
+massive 2 million tons of food aid inflows (del Ninno, Dorosh, and Smith 2003).
+Thus, international experience suggests that, in general, the best approach to price stabilization
+involves a combination of promoting domestic and international trade, with food security stocks and
+public imports used on a more limited basis. Such a system could be designed to prevent large price
+spikes in times of shortage (through sales of stocks or public imports at subsidized prices). Boosting
+producer prices following bumper harvests, a more operationally difficult task requiring government
+purchases, likely would be feasible in South Sudan only on a much more limited basis.
+Operational Issues: Size of Stock, Stock Management, and Policy Analysis
+For South Sudan, private-sector imports of maize, sorghum, wheat, and rice from Uganda are likely to be
+crucial to maintaining national food supplies for at least several more years. Whatever measures are taken
+involving procurement and distribution of grain, South Sudan’s NFSR system should be careful to
+maintain incentives for this private trade and avoid destabilizing market supplies and domestic prices.
+
+32
+
+One way to avoid problems arising from complex systems of domestic procurement and sales,
+such as in systems designed to protect floor prices for producers and ceiling prices for consumers, is to
+begin with a modest system of relatively small cereal stocks with only limited goals. For example, an
+initial food security stock could consist of a relatively small amount of cereals (on the order of 50 to 100
+thousand tons) stored in a small number of warehouses in Juba and perhaps two to four other locations.
+Grain for this stock could initially come largely from food aid or government commercial imports, with
+distribution of the cereals through existing targeted safety net or relief programs. Later, as domestic
+production increases and the national food security stock system matures, grain could increasingly be
+procured from domestic sources.
+The Productive Safety Net Project (PSNP) in Ethiopia, which involves cash and food distribution
+to food-insecure households selected with community input at the local level, provides useful parameters
+for a possible (smaller-scale) safety net in South Sudan. Ethiopia’s PSNP targets about 7.8 million
+individuals a year, while recipients of food aid from WFP in South Sudan number 1.06 million a year.
+Both programs cater to around 9 percent of the population. 13 The quantity of cereal distribution in WFP
+programs in South Sudan in 2013 was 9.6 kg per person per month, while the average PSNP distribution
+in Ethiopia is only 4.4 kg per person per month. Finally, while the PSNP program operates only during
+the most food-scarce times of the year, the WFP distributes food aid throughout the year in South Sudan
+(Table 5.1).
+Table 5.1 Cereal distribution: South Sudan WFP and Ethiopia PSNP
+Variable
+Population (’000s)
+Urban
+Rural
+% urban
+Beneficiaries (’000s)
+(share of total population)
+Cereal distribution
+Quantity ’000 tons/year
+Number of months
+Quantity (’000 tons/month)
+Peak 3-month period (May–July)
+Peak 6-month period (April–Sept)
+Price of cereals (US$/metric ton)
+Value (US$million/month)
+Distribution/beneficiary (kg/person/month)
+
+Ethiopia
+South Sudan
+South Sudan
+2012
+(Jan. 2012–April 2013)
+(Oct. 2012–April 2013)
+91,730
+10,840
+10,840
+15,869
+1,984
+1,984
+75,861
+8,856
+8,856
+17.3%
+18.3%
+18.3%
+Ethiopia PSNP
+South Sudan WFP
+South Sudan WFP
+2012
+(Jan. 2012–April 2013)
+(Oct. 2012–April 2013)
+7,800
+1,057
+828
+8.5%
+9.7%
+7.6%
+205.9
+6.0
+34.3
+
+-----
+
+422
+14.5
+4.4
+
+121.5
+12.0
+10.1
+18.9
+15.6
+1,000
+10.1
+9.6
+
+92.9
+12.0
+7.7
+1,000
+7.7
+9.4
+
+Peak 3-month period (May–July)
+17.9
+Value of cereal distribution
+1.9
+9.6
+9.4
+(US$/person/month)
+Cash distribution (US$million/month)
+29.1
+0.0
+0.0
+Cash distribution / beneficiary
+3.7
+0.0
+0.0
+(US$/person/month)
+Total transfer (cash plus food) / beneficiary
+5.6
+9.6
+9.4
+(US$/month)
+Average 3-month distribution
+03.0
+30.4
+23.2
+Average 6-month distribution
+205.9
+60.8
+46.5
+Peak 3-month period (stock target end April) 103.0
+56.7
+Peak 6-month period (stock target end
+--- 93.8
+March)
+Sources: WFP (2013a), and authors’ calculations.
+Notes: Tons refers to metric tons. PSNP = Productive Safety Net Project; WFP = World Food Programme
+13 Figures
+
+for the PSNP and WFP distribution in South Sudan are for 2012.
+
+33
+
+-----
+
+-----
+
+Figure 5.1 shows WFP monthly distribution of cereals in South Sudan from January 2012 through
+April 2013. Distribution of emergency food aid is highest from April through September, a period of
+relatively low supply and high prices, reflecting the seasonality of cereal production, given that a major
+harvest in the bimodal rainfall area (primarily in the southern part of the country) occurs in August–
+September and the major harvest in unimodal areas (generally further north) occurs in September–
+October. During this time it is important that the NFSR have a large enough stock to satisfy increased
+demand.
+Figure 5.1 South Sudan illustrative cereal distribution and minimum stock targets
+60
+
+Metric tons
+
+50
+40
+30
+20
+10
+0
+Jan
+2012
+
+Feb
+
+Mar
+
+Apr
+
+May June
+
+Stock targets
+
+July
+
+Aug
+
+Sept
+
+Oct
+
+Nov
+
+Dec
+
+2012 distribution
+
+Source: WFP (2013a) and authors’ calculations
+
+The simplest method of calculating a minimum stock level would be to use the average level of
+distribution per month with an adjustment for transport and delivery lags. Assuming a two-month lead
+time for procurement, transport, and delivery, and given average monthly distribution in the 2012/2013
+period of about 10 thousand tons, the minimum stock level would be 30 thousand tons.
+A more refined calculation could take into account the seasonality of distribution needs. For
+example, the minimum stock requirement for each month could be calculated as the average distribution
+of the subsequent three months (that is, a three-period leading moving average of stocks):
+Min. Stock (t) = Ave. Distribution (t + 1) + Ave. Distribution (t + 2) + Ave. Distribution (t + 3)
+For months for which the calculated minimum stock in the above formula falls below the 30
+thousand ton threshold, the minimum stock could be set at 30 thousand tons. Under this approach, the
+minimum stock would rise from 30.0 thousand tons at the end of January to 41.0 thousand tons at the end
+of February, to 52.3 and 53.6 thousand tons at the end of March and end of April, respectively.
+Thereafter, the minimum stock target would gradually decline to 32.5 thousand tons in July before again
+reaching the annual monthly minimum of 30.0 thousand tons for August through December (Table 5.2
+and Figure 5.1). Note that as distribution requirements increase, calculated minimum stock levels would
+increase accordingly.
+In the initial years of the reserve stock, grain would be supplied mostly through imports, which
+can be timed to closely mirror the stock targets. Later, when domestic procurement is a major source of
+supply, stock levels would be higher than the minimum target in the months immediately following the
+harvest (October–November), when procurement takes place.
+34
+
+It is important to emphasize again, however, that relatively small stocks such as those described
+above cannot be expected to effectively stabilize prices in the event of a major shock to domestic
+production. Rather, a national food security stock could help ensure that enough grain would be available
+for limited targeted distribution programs for the most food-insecure households and for emergency relief
+operations.
+Table 5.2 South Sudan cereal distribution and proposed minimum cereal stock targets
+4
+4.6
+5.5
+14.8
+21
+16.6
+16.1
+14.3
+11.1
+
+3-month leading
+moving average
+24.8
+41.2
+52.3
+53.6
+47
+41.5
+32.5
+26.1
+22.6
+
+October
+
+7.1
+
+22.7
+
+30
+
+November
+
+7.9
+
+22.3
+
+30
+
+Month
+January 2012
+February
+March
+April
+May
+June
+July
+August
+September
+
+Cereal
+distribution
+
+Minimum stock
+target*
+
+30
+41.2
+52.3
+53.6
+47
+41.5
+32.5
+30
+30
+
+December
+7.6
+23.4
+30
+January 2013
+7.2
+24.5
+February
+7.5
+March
+8.7
+April
+8.3
+Average
+10.1
+--37.3
+Source: WFP (2013a) and authors’ calculations.
+Notes: Tons refers to metric tons. * Minimum stock (end of month) calculated as the greater of the three-month leading moving
+average or 30,000 tons.
+
+Implementation of the NFSR System
+The creation of a South Sudan NFSR involves more than the construction of warehouses and the
+collection of grain that will make up physical stocks. It involves a system of institutions and procedures
+for acquiring grain (including food aid, domestic procurement, and government commercial imports),
+channels for distribution (open market sales, targeted distribution programs), and management decisions
+with respect to quantity and timing of procurement and distribution.
+First, a government proclamation formally creating the NFSR is needed. In this proclamation or
+other subsequent documents, it would be necessary to create an implementing agency within government
+and then provide this agency with a minimum core staff for initial operations. The agency would be
+responsible for managing the food stock system as well as carrying out humanitarian operations in case of
+emergencies and unforeseen events causing disruption in supply.
+Second, the first-year procurement and distribution plan could be integrated closely with the WFP
+food aid program, but over time the implementing agency within the government of South Sudan should
+be expected to play the lead role in the planning, execution, and monitoring of operations. As the system
+expands, additional warehouses may need to be constructed or rented. In particular, construction of larger
+warehouses at a central facility (most likely near Juba) would likely be needed within a few years of
+initiation of the food security stock.
+Third, institutional support for the system should be built gradually over time. This includes
+monitoring and evaluation of effectiveness of targeting (amount of various kinds of “leakages”), early
+warning and crop forecasting (initially done with the support of international organizations such as FAO
+and FEWS NET), analytical support for determining stock targets, analysis of market prices and
+availability, and a clear transition or scaling-up strategy. Eventually, the food and agricultural policies
+should be owned and run by the government.
+35
+
+The administrative structure of the PSNP and the National Strategic Food Reserve Agency
+(NSFRA) in Ethiopia is one option for the NFSR in South Sudan. PSNP is administered by the Disaster
+Risk Management and Food Security Service, part of the Ministry of Agriculture. The NSFRA, which
+manages the actual food stocks, is governed by a board consisting of the ministers of finance, agriculture,
+trade, and internal affairs. At a second level, there is a consultative, multistakeholder technical committee
+composed of representatives from the government of Ethiopia, development partners, UN agencies, the
+Ethiopian Grain Trade Enterprise, and a nongovernmental organization. The most appropriate form and
+membership of similar committees in an NFSR for South Sudan would depend, however, on institutional
+factors particular to the government of South Sudan.
+
+36
+
+6. SUMMARY AND CONCLUSIONS
+South Sudan faces serious problems of food insecurity due to low per capita levels of domestic food
+production, periodic droughts, widespread poverty, political unrest, and since late 2013, renewed armed
+conflict. The country is currently highly dependent on private-sector imports of cereals (maize, sorghum,
+wheat, and rice) from Uganda and, to a lesser extent, from other neighboring countries. Cereal imports
+accounted for an estimated 39.6 percent of total net availability in 2009 and can be expected to account
+for a similar percentage if the security problems are resolved in the next few years.
+Emergency food aid has long been a major component of the food supply and a centerpiece of
+national and donor strategy to address food insecurity in South Sudan. Prior to independence, food aid
+stocks were held mainly in northern Sudan or outside the country (in the case of donor stocks). 14 Since
+independence, however, the independent government of South Sudan has demonstrated renewed interest
+in creating a national food stock as part of an NFSR system. Under such a system, a national stock,
+supplied initially by food aid but ultimately by domestic procurement of cereals, would provision
+emergency relief and targeted safety net operations.
+Cereal Production, Consumption, and Trade
+Production estimates remain highly uncertain, but according to annual crop assessments, net cereal
+production increased from 688 thousand tons in 2009 to 964 thousand tons in 2013, a 40 percent increase
+due almost entirely to increases in area cultivated. Given an estimated 32 percent increase in population
+(8.7 million in 2009 to 11.5 million in 2013, including 2.0 million returnees), per capita cereal production
+increased by 22 percent.
+In the medium term, increasing domestic production of food is essential for food security, not
+only to reduce dependence on imports but to raise rural incomes and thereby increase household access to
+food. Overall, there is substantial suitable land available, but cultivated land remains only a small share
+(about 4 percent) due to continuing insecurity, competition with livestock (open grazing), poor
+infrastructure, and lack of markets (Diao et al. 2011). In the shorter term, however, availability of food is
+threatened by drought and potential disruptions in imports.
+The patterns of production and diversity of cereal consumption across households in South Sudan
+(and the lack of recent reliable data) present special challenges to the design of an NFSR system.
+Sorghum and maize account for most of the country’s domestically produced cereal, but there is little
+marketable surplus due to small farm size, low productivity, and weak market incentives for sales. In the
+medium term, though, there may be considerable scope for expansion of maize production. 15
+Consumption of cereals is considerably more diverse, with wheat (including bread) and, in recent
+years, rice accounting for an estimated 10.8 percent of cereal consumption in the country. FEWS NET
+data on South Sudan’s cereal imports and FAO production data suggest that imports accounted for 49.9
+percent of total cereal availability in 2013, including 46.0 percent of sorghum, 59.2 percent of maize, 81.7
+percent of wheat, and 78.2 percent of rice (Table 3.3). Given the very small marketable surplus from
+domestic production, the data suggest that Juba and other major cities are supplied almost exclusively by
+imports for most of the year. Thus, promoting the private trade in cereal imports is crucial to maintaining
+food security in South Sudan, especially for urban consumers, and will likely remain so until substantial
+investments are made in domestic agriculture and infrastructure.
+
+In 2008, the provincial government of South Sudan created a national food security stock of sorghum, but donor support
+for this effort was canceled only one year later due to misuse of funds, resulting in a loss of more than US$4 billion.
+15 Maize production increased by 133 percent per year between 2009 and 2013, while sorghum production stagnated (an
+increase of only 11 percent).
+14
+
+37
+
+Most of South Sudan’s population lacks sufficient access to food—an estimated 10 percent of the
+population consumes less than 2,100 kilocalories per adult equivalent per day. The diversity of cereal
+consumption enhances food security in South Sudan to some extent, however, since it may enable
+households to adjust to adverse shocks to supply (production or trade) and prices of one or two
+commodities more easily. Moreover, patterns of consumption vary substantially by location (the northern
+provinces in comparison with the Equitorias to the south), by income group, and between rural and urban
+areas.
+Sorghum and maize are the most widely consumed cereals, particularly in rural areas, and
+consumption patterns naturally follow patterns of production, with maize production concentrated in
+southern provinces and sorghum (a more drought-tolerant crop) more equally distributed across South
+Sudan. Overall, according to the 2009 NBHS data (Republic of South Sudan, NBS 2009), sorghum
+accounted for 75 percent of cereal consumption in rural areas and 51 percent in urban areas. For urban
+areas, the share for sorghum drops to 51 percent, the share of maize rises to 35 percent, and the shares of
+rice and wheat reach 7 and 6 percent, respectively.
+Analysis of the household consumption data suggests that wheat and rice are preferred foods in
+urban areas, with cross-section data showing that their budget shares increase as total (food and nonfood)
+per capita expenditures rise. For urban areas, there is relatively little difference in budget shares of
+sorghum and maize as total per capita expenditure rises, though the share of sorghum does fall for the
+higher per capita expenditure quintile (the 20 percent of households with the highest per capita
+expenditures). Patterns are similar in rural areas, except that the share of sorghum consumption does not
+decline as much, in part because sorghum production is a major source of income for most rural
+households.
+Econometric analysis suggests that, in general, the average South Sudan consumer prefers maize
+to sorghum. The estimated expenditure (income) elasticity for maize is 0.61, about twice as large as the
+estimates for sorghum (0.33); that is, the increase in consumption resulting from a 1 percent increase in
+income is substantially larger for maize than for sorghum. Demand for both commodities is price
+inelastic, with a small (less than 1 percent) decrease in quantity resulting from a 1 percent increase in
+price. The estimate of the own-price elasticity of demand for maize (-0.15) is slightly less than that for
+sorghum (-0.22), however.
+The import and production data suggest that there have been dramatic changes in household
+consumption patterns since 2008. Rice consumption (estimated as equal to net production plus imports)
+increased by more than 800 percent between 2009 and 2013 (from 27 thousand tons to 246 thousand
+tons). Wheat consumption increased by more than 900 percent, from 19 thousand tons to 194 thousand
+tons. Wheat and rice consumption per capita are likely highest in urban areas, because South Sudan
+produces very little wheat or rice. The lack of recent household survey data prohibits definitive
+statements, however.
+Markets and Market Prices
+Several recent studies provide descriptions of the structure, conduct, and performance of markets in South
+Sudan, including WFP (2015), World Bank (2012a), and earlier studies by Ngigi (2008) and Wambua
+(2009). According to these studies, farmer sales of cereals generally take place at farmgate and involve
+relatively small quantities. Except for those living along primary roads, few rural residents have reliable
+access to markets. The majority of roads are impassible during the rainy season. As a result of the low
+density and poor condition of the roads, transport costs are extremely high. Uncertain fuel supply, high
+fuel costs, and the difficulty of transporting goods in the rainy season (when road conditions deteriorate,
+making it impractical to use large trucks) also all add to costs and risks. For the import trade, because of
+the small volume of exports from South Sudan, trucks often return to neighboring countries nearly empty,
+essentially doubling the transport costs faced by trucking companies.
+
+38
+
+Retailers and traders operate with very low storage capacities. Inadequate banking services, both
+for foreign exchange transactions and for credit, also inhibit trade in South Sudan. As a result, retailers,
+traders, and transporters have to rely on risky modes of handling and storing cash for their businesses. In
+addition, high taxation at customs and at checkpoints across South Sudan, and lack of access to current
+information on market, road, and security conditions also add to trader costs and reduce market
+efficiency. Moreover, the conflict since December 2013 has exacerbated the environment of insecurity
+with the proliferation of banditry and looting.
+Market Prices and Cross-border Trade of Sorghum and Maize
+Market prices of sorghum and maize have risen substantially over time, along with overall
+macroeconomic inflation, and have also been highly variable. Between 2009 and 2014, the price of
+sorghum in the Konyo Konyo market (the main market in Juba) rose by 81 percent in nominal terms (but
+dropped by 14 percent in real terms); the price of maize rose slightly more, by 92 percent in nominal
+terms (and fell by 12 percent in real terms).
+In spite of substantial cross-border trade in sorghum and maize with Uganda, however, prices in
+Juba have not been closely correlated with prices in Uganda. The Juba retail sorghum price (Konyo
+Konyo market) was on average 2.8 times the average of both the retail price in Kampala and the retail
+price in Gulu (a major market in northern Uganda). Retail Juba prices for sorghum were also 48 percent
+above the calculated import parity price (from Gulu) from January 2007 through December 2014.
+The Juba sorghum price was also higher than the Juba white maize price over this period (the
+retail maize price was on average 20 percent below the retail sorghum price in Juba). In contrast, the
+import parity price of maize sourced from Uganda was on average 27 percent higher than the import
+parity price of sorghum sourced from Uganda. Further work is needed, however, to better understand
+variations in quality and price of sorghum across markets.
+In contrast to sorghum, prices of white maize in Juba have been generally much closer to import
+parity prices of white maize sourced from Uganda, averaging only 6 percent below import parity prices
+from January 2008 through December 2014. Moreover, the correlation coefficient between white maize
+retail and import parity prices in the Juba market was 0.844. (By comparison, the correlation coefficient
+between sorghum retail prices and sorghum import parity prices was only 0.720).
+Enhancing Food Security through an NFSR
+One major factor contributing to food insecurity in South Sudan is the absence of well-functioning
+markets in most of the country due to inadequate infrastructure (roads, transport, warehousing,
+telecommunications, and physical market structures) and low levels of marketed surplus. Major
+institutional weaknesses, such as the lack of risk-management institutions as well as imperfect credit and
+insurance markets, also hinder the efficient functioning of cereal markets. All these factors combined tend
+to increase price volatility and add to risks for farmers, traders, and consumers. A well-designed NFSR
+system could help mitigate the negative effects of these problems, help to protect poor households without
+distorting markets, and in the medium term, contribute toward market development.
+Price stabilization would not necessarily be a major objective of the NFSR system, however.
+Although broad price stability has notable benefits for producers and consumers, the costs of price
+stabilization often outweigh these benefits. Stable prices can benefit producers by enabling them to better
+plan investments and sales. Consumers benefit by being better able to plan consumption and saving
+decisions and avoid sharp losses in purchasing power and consumption that could result from large price
+spikes. Yet market interventions have proven to be not only ineffective in many countries but extremely
+costly as well, due to storage losses, high overhead costs, and often, mismanagement and theft.
+
+39
+
+In many countries public stocks have been part of relatively complex systems aimed at price
+stabilization involving domestic purchases and sales of grain, usually at fixed prices. These systems
+typically involve too many objectives, too many stakeholders, and too many institutions. They can also be
+very expensive and entail large subsidies. Moreover, these food stock and distribution systems have often
+suffered from severe governance problems and corruption that greatly inflate their costs and sharply
+reduce their benefits to the intended beneficiaries.
+International experience suggests that, in general, the best approach to price stabilization involves
+a combination of promoting domestic and international trade, with security stocks and public imports
+used on a more limited basis. A prime example is Bangladesh, where food policy involved three key
+elements: public food distribution, public investment, and price incentives enabled the country to rapidly
+increase domestic rice and wheat production, provide a safety net to poor households, and stabilize
+markets and household access to food following major flood-induced shortfalls in domestic production.
+Such a system could be designed to prevent large price spikes in times of shortage (through sales of
+stocks or public imports at subsidized prices). Boosting producer prices following bumper harvests, a
+more operationally difficult task requiring government purchases, likely would be feasible in South Sudan
+only on a much more limited basis.
+Operational Issues: Size of Stock, Stock Management, and Policy Analysis
+For South Sudan, private-sector imports of maize, sorghum, wheat, and rice from Uganda are likely to be
+crucial to maintain national food supplies for at least several more years. Whatever measures are taken
+involving procurement and distribution of grain, South Sudan’s NFSR system should be careful to
+maintain incentives for private-sector imports to avoid destabilizing market supplies and domestic prices.
+To avoid problems arising from large-scale domestic procurement and sales, the NFSR system could
+begin with relatively small cereal stocks (on the order of 50 to 100 thousand tons) stored in a small
+number of warehouses in Juba and perhaps two to four other locations. Grain for this stock could initially
+come largely from food aid or government commercial imports with distribution of the cereals through
+existing targeted safety net or relief programs. Later, as domestic production increases and the national
+security stock system matures, grain could increasingly be procured domestically. Such a system could be
+modeled after the system of stocks and procurement (largely through imports) of Ethiopia’s PSNP, which
+involves targeted distribution to a limited number of households but is not designed for market
+interventions to stabilize prices.
+Minimum stock levels needed can be estimated on the basis of expected monthly distribution.
+Actual WFP monthly distribution of cereals in South Sudan prior to the recent civil conflict (from January
+2012 through April 2013) was about 10 thousand tons of cereals per month. The stock requirement for
+each month could be calculated as the average distribution of the subsequent three months (that is, a
+three-period leading moving average of stocks), with an absolute minimum stock of 30 thousand tons
+(based on a possible two-month lag in delivery of stocks). Under this approach, the minimum stock for
+the distribution levels of 2012/2013 would rise from 30.0 thousand tons at the end of January to 53.6
+thousand tons at the end of April, and then gradually decline to 32.5 thousand tons in July, before again
+reaching a minimum of 30.0 thousand tons for August through December. If distribution requirements
+increase, calculated minimum stock levels would increase accordingly.
+In the initial years of the reserve stock, grain would be supplied mostly through imports, which
+could be timed to closely mirror the stock targets. Later, when domestic procurement is a major source of
+supply, stock levels would be higher than the minimum target in the months immediately following the
+harvest (October and November), when procurement takes place. These relatively small stocks would not
+be adequate to stabilize prices in the event of a major shock to domestic production. Instead, their purpose
+would be to help ensure that enough grain would be available for limited targeted distribution programs
+for the most food-insecure households and for emergency relief operations.
+
+40
+
+Implementation of the NFSR System
+Implementing an NFSR system will involve more than construction of warehouses and collection of the
+grain that will make up physical stocks. The NFSR requires institutions and procedures for acquiring
+grain (including food aid, domestic procurement, and government commercial imports), channels for
+distribution (open market sales, targeted distribution programs), and management decisions with respect
+to quantity and timing of procurement and distribution.
+First, a government proclamation formally creating the NFSR is needed to create an
+implementing agency within government and then provide this agency with a minimum core staff for
+initial operations. Second, before operations could begin, warehouses would need to be constructed or
+rented. Construction of larger warehouses at a central facility (most likely near Juba) would likely be
+needed within a few years of initiation of the food security stock. Third, annual procurement and
+distribution plans need to be formulated. Fourth, institutional support for the system should be built
+gradually over time, including a monitoring and evaluation system, early warning and crop forecasting
+(initially done with the support of international organizations such as FAO and FEWS NET),
+determination of stock targets, and analysis of market prices and availability. Although initially these
+components would have substantial support from international donors, these institutional components and
+the food and agricultural policies should be owned and run by the government.
+The administrative structure of the PSNP and NSFRA in Ethiopia provides one possible model
+for an NFSR system in South Sudan. This model includes a food reserve agency, governed by a board
+consisting of the ministers of finance, agriculture, trade, and internal affairs, which manages the actual
+food stocks, as well as a targeted safety net.
+Conclusions
+Grain reserves can play an important role in providing safety nets and addressing emergencies. Carefully
+designed grain stocks can also stimulate production incentives. Given its missing market fundamentals,
+recurring shocks, and high vulnerability, South Sudan can benefit from a well-designed NFSR system.
+Nonetheless, even with functioning NFSR, promotion of private-sector domestic and import
+trade will remain crucial for ensuring adequate supplies of grain. Because other countries’ experiences
+suggest that a poorly designed grain reserve can be harmful to market development and production
+incentives, special attention needs to be paid to the design, implementation, and evaluation of program
+impacts.
+Analytical and organizational capacity must also be developed so that the institutions mandated
+with managing the NFSR can formulate and evaluate policies. Finally, these policies should be consistent
+and transparent because uncertainty regarding government policies creates disincentives for development
+of domestic markets and private-sector trade. Only if these conditions are met will an NFSR be able to
+enhance food security in South Sudan.
+
+41
+
+APPENDIX A: NBHS 2009 DATA CLEANING PROCEDURES
+This report used data from the 2009 Republic of South Sudan National Baseline Household Survey
+(NBHS) (Republic of South Sudan, NBS 2009) to calculate descriptive statistics for cereal consumption.
+The NBHS was carried out in April and May of 2009. The survey covered 4,696 households across all 10
+states of South Sudan. It asked households to cite the different food items they consumed as well as to list
+the quantity and value of the items consumed.
+For this report, food items were divided into the following food groups: sorghum, maize, wheat,
+millet, rice, other cereals, meat and fish, dairy, oils, vegetables and fruits, pulses, and other. Numbers of
+consumers were calculated for each food group in each region. After these basic statistics were collected,
+the data were cleaned. All households who reported neither a quantity nor a value were dropped. For
+those respondents who included only a quantity, value was calculated by multiplying the median price for
+the region by the quantity reported. For households who included only a value, quantity was derived
+using the median quantity for similar values in each region. The calculation for value and quantity was
+done separately for rural and urban areas.
+Some households reported implausibly high levels of consumption of food, while other
+households reported very low levels of food consumption. Cutoffs were calculated based on actual
+plausible levels of consumption, and all observations beyond those cutoffs were dropped. For households
+claiming very high levels of consumption, a total cereal kilogram cutoff was used. For households
+claiming very low levels of consumption, a minimum spending amount was calculated per household
+based on regional and urban or rural medians. Households under that threshold were dropped. Table A.1
+details the households dropped.
+Many households also reported abnormally high prices. For example, several households reported
+prices greater than SSP 50 for different cereals while average prices were SSP 2. For each cereal, price
+outliers, which were defined as those outside the median price plus two standard deviations, were
+calculated, and all observations above these outliers were replaced with the median price. Different
+median prices were used for rural and urban areas. After the data were cleaned, population weights were
+recalculated to take into account the households dropped. At this point, the data were used to calculate
+descriptive statistics on quantities of cereals consumed, budget shares, and prices.
+Table A.1 Households dropped in data cleaning
+Category
+
+North rural
+
+South rural
+
+Other urban
+
+Juba
+
+National
+
+Drop 1*
+Drop 2**
+Drop 3***
+Total Dropped
+Total before Drop
+Total after Drop
+
+238
+439
+317
+994
+2,438
+1,444
+
+130
+147
+80
+357
+985
+628
+
+71
+125
+99
+295
+1,299
+1,004
+
+12
+26
+16
+54
+247
+193
+
+451
+737
+512
+1,700
+4,696
+2,996
+
+Source: Authors.
+Notes: * Drop 1 is households for which both quantity and value for cereal consumption are missing. ** Drop 2 is households
+with implausibly high levels of cereal consumption. *** Drop 3 is households with implausibly low levels of food
+spending.
+
+42
+
+APPENDIX B: ANALYSIS OF HOUSEHOLD DEMAND, REGRESSION RESULTS
+The regression analysis used data from the Republic of South Sudan National Baseline Household Survey
+(NBHS) of 2009 (Republic of South Sudan, NBS 2009). Because not every household consumed every
+cereal, the two-step procedure of Heckman was used to address the censored-response problem. Before
+the Heckman procedure was used, an instrumental variable for expenditure was estimated using equation
+(1):
+
+(1)
+
+lnpcexph = idi∑b1Xih + ei,
+where Xih is lnhhsize, rural, female_head, lighting, latrine, fwoodcook, room_nosleep, handpump,
+head_any_educ, incomemain_crop, bicycle, radio_tv, phone, mosqnet, healthfac_acess, borrowmoney,
+draughtflood. Table B.1 describes the variables used in the regression, and Tables B.2 and B.3 provide
+basic descriptive statistics for the variables.
+After instrumenting for total household expenditure, the first stage of Heckman was modeled
+using equation (2). An inverse Mills ratio was calculated from equation (2):
+Expshare_sorghumh = b1log(predexp) + b2log(predexp)2 + b3log(hhsize) +
+b4(rural) + ∑b5,state5
++ ∑b6,income6h + ei.
+h
+
+(2)
+
+The second-stage regression incorporated the computed inverse Mills ratio, IMRh, as an instrumental
+variable. Equation (3) demonstrates the regression formula:
+Expshare_sorgumh = b1log(predexp) + b2log(predexp)2 + b3(rural) + ∑b4,state4 {+ b5 IMRh] + ei. (3)
+h
+
+Two-step Heckman regressions were run using expenditure shares of sorghum, maize, and wheat.
+The regressions were run at the national, rural, urban, north, south, rural north, rural south, other urban,
+and Juba levels. Table B.3 describes the variables used in the regressions. Expenditure elasticities were
+calculated using the following formula: Ehy = b1 + 2b2 log(Predexph).
+The two-step Heckman procedure was also used to estimate the relationship between quantities of
+cereal consumed and total expenditure. The same procedure was used but the variable expshare_sorghum
+was replaced by quantity_sorghum. Once again the regressions were run for sorghum, maize, and wheat,
+and for all regions. A second quantity regression was estimated that included a price variable but dropped
+the squared term of predicted expenditure. Equation (4) shows the second stage of that regression. A final
+regression was estimated with both price and the squared term of predicted expenditure, shown in
+equation (5).
+Quantity_sorghumh = b1log(predexp) + b2log(price) + b3(rural)
++ ∑b4,state4 {+ b5 IMRh] + ei
+
+(4)
+
+Quantity_sorghumh = b1log(predexp) + b2log(predexp)2 b3log(price) + b4(rural)
++ ∑b5,state5 {+ b6 IMRh] +ei
+
+(5)
+
+h
+
+h
+
+Own-price elasticities were calculated from the quantity regressions using this formula: ηh y= b1 + b2
+2log(Predexph).
+
+43
+
+Table B.1 Variables used to predict monthly per capita expenditure
+Variable
+lnpcexph
+lnhhsize
+rural
+female_head
+lighting
+latrine
+fwoodcook
+room_nosleep
+handpump
+head_any_educ
+incomemain_crop
+bicycle
+radio_tv
+phone
+mosqnet
+healthfac_acess
+borrowmoney
+draughtflood
+
+Description
+Per capita monthly household expenditure
+Log of household size
+Binary variable for whether the household is located in a rural area
+Binary variable for whether the head of the household is female
+Binary variable for whether the household has some source of lighting
+Binary variable for whether the household has a private or shared pit latrine
+Binary variable for whether the household uses wood for cooking
+Binary variable for whether the household has at least one room not used for sleeping
+Binary variable for whether the household has access to a hand pump for water
+Binary variable for whether the household head has any education
+Binary variable for whether the household’s main income is agriculture
+Binary variable for whether the household owns a bicycle
+Binary variable for whether the household owns a radio or TV or both
+Binary variable for whether the household owns a phone
+Binary variable for whether the household sleeps under a mosquito net
+Binary variable for whether the household has access to health facilities
+Binary variable for whether the household has borrowed money
+Binary variable for whether the household has been exposed to a draught or flood
+
+Source: Republic of South Sudan, NBS (2009).
+
+Table B.2 Binary variables
+Variable
+rural
+female_head
+lighting
+latrine
+fwoodcook
+room_nosleep
+handpump
+head_any_educ
+incomemain_crop
+bicycle
+radio_tv
+phone
+mosqnet
+healthfac_acess
+borrowmoney
+draughtflood
+
+1
+Frequency
+1,859
+907
+2,197
+900
+2,136
+1,053
+957
+981
+1,628
+933
+1,114
+870
+1,904
+2,273
+667
+1,284
+
+Percent
+64.06
+31.25
+75.71
+31.01
+73.60
+36.29
+32.98
+33.80
+56.10
+32.15
+38.39
+29.98
+65.61
+78.33
+22.98
+44.25
+
+0
+Frequency
+1,043
+1,995
+705
+2,002
+766
+1,849
+1,945
+1,921
+1,274
+1,969
+1,788
+2,032
+998
+629
+2,235
+1,618
+
+Source: Calculated from Republic of South Sudan, NBS (2009).
+
+44
+
+Percent
+35.94
+68.75
+24.29
+68.99
+26.40
+63.71
+67.02
+66.20
+43.90
+67.85
+61.61
+70.02
+34.39
+21.67
+77.02
+55.75
+
+Table B.3 Variables used in two-step Heckman regressions
+Variable
+expshare_sorghumh
+expshare_maizeh
+expshare_wheath
+quantity_sorghumh
+quantity_maizeh
+quantity_wheath
+log(predexp)
+log(predexp)2
+log(hhsize)
+rural
+state
+income
+IMR
+log(price)
+
+Description
+Percent of total household expenditure spent on sorghum
+Percent of total household expenditure spent on maize
+Percent of total household expenditure spent on wheat
+Quantity of monthly per capita sorghum consumed
+Quantity of monthly per capita maize consumed
+Quantity of monthly per capita wheat consumed
+Log of predicted expenditure
+Square of the log of predicted expenditure
+Log of household size
+Binary variable for whether the household is located in a rural or urban area
+State dummies for the 10 states
+Income dummies using household characteristics as a proxy for income
+Inverse Mills ratio calculated in the first stage of the regression
+Log of cereal prices
+
+Source: Republic of South Sudan, NBS (2009).
+
+45
+
+REFERENCES
+AfDB (African Development Bank). 2013. South Sudan: A Study on Competitiveness and Cross Border Trade with
+Neighbouring Countries. Tunis, Tunisia.
+Ahmed, R., S. Haggblade, and T.E. Chowdhury. 2000. Out of the Shadow of Famine: Evolving Food Markets and
+Food Policy in Bangladesh. Baltimore: Johns Hopkins University Press.
+Arnold, M., and M. LeRiche. 2012. South Sudan: From Revolution to Independence. London: Hurst & Co.
+Boysen, O., and A. Matthews. 2012. “The Differentiated Effects of Food Price Spikes on Poverty in Uganda.” Paper
+prepared for the 123rd European Association of Agricultural Economists Seminar Price Volatility and Farm
+Income Stabilization: Modeling Outcomes and Assessing Market and Policy Based Responses, Dublin,
+Ireland, February 23–24
+del Ninno, C., P.A. Dorosh, and L.C. Smith. 2003. “Public Policy, Markets and Household Coping Strategies in
+Bangladesh: Avoiding a Food Security Crisis following the 1998 Floods.” World Development 31 (7):
+1221–1238.
+del Ninno, C., P.A. Dorosh, L.C. Smith, and D.K. Roy. 2001. The 1998 Floods in Bangladesh: Disaster Impacts,
+Household Coping Strategies and Response. Research Report 122. Washington, DC: International Food
+Policy Research Institute.
+del Ninno, C., P.A. Dorosh, and K. Subbarao. 2007. “Food Aid, Domestic Policy and Food Security: Contrasting
+Experiences from South Asia and Sub-Saharan Africa.” Food Policy 32 (3): 413–435.
+Diao, X., L. You, V. Alpuerto and R. Folledo. 2011. “Current Condition and Agricultural Potential in Southern
+Sudan.” Background Paper prepared for the World Bank by the Development Strategy and Governance
+Division, IFPRI, Washington, D.C.
+Dorosh, P.A. 2001. “Trade Liberalization and National Food Security: Rice Trade between Bangladesh and India.”
+World Development 29 (4): 673–689.
+FAO (Food and Agriculture Organization) and WFP (World Food Programme). Various dates. Crop and Food
+Security Assessment Mission to South Sudan. Special report. Rome.
+FAO (Food and Agriculture Organization), FAOSTAT database. Accessed July 10, 2015.
+http://faostat3.fao.org/home/E.
+FEWS NET (Famine Early Warning Systems Network). 2014. East Africa Crossborder Trade Bulletin, January.
+www.fews.net/sites/default/files/documents/reports/Quarterly%20GHA%20Cross%20Border%20Trade%2
+0Bulletin%20January%202014.pdf.
+———. 2015. Markets & Trade database. Accessed July 10, 2015. www.fews.net/sectors/markets-trade.
+Holland, H. 2012. “South Sudan Officials Have Stolen $4 Billion: President.” Reuters.
+www.reuters.com/article/2012/06/04/us-southsudan-corruption-idUSBRE8530QI20120604.
+Human Rights Watch. 2013. “South Sudan: Soldiers Target Ethnic Group in Juba Fighting.”
+www.hrw.org/news/2013/12/19/south-sudan-soldiers-target-ethnic-group-juba-fighting.
+IMF (International Monetary Fund). 2011. International Financial Statistics database. Accessed July 10, 2015.
+www.imf.org/en/Data.
+———. 2014. 2014 Article IV Consultation. Country Report 14/345. Washington, DC.
+ICG (International Crisis Group). 2005. The Khartoum-SPLM Agreement: Sudan’s Uncertain Peace. Africa Report
+96. Brussels.
+Kowr, P. 2013. Status, Priorities and Needs for Sustainable Soil Management in South Sudan. Rome: Food and
+Agriculture Organization.
+Ngigi, M. 2008. Structure, Conduct and Performance of Commodity Markets in South Sudan: Linkages Food
+Security. Washington, DC: Famine Early Warning Systems Network.
+
+46
+
+Ormhaug, C. 2009. Armed Conflict Deaths Disaggregated by Gender. Oslo: International Peace Research Institute
+(PRIO).
+Rashid, S., A. Gulati, and R.W.J. Cummings. 2008. From Parastatals to Private Trade: Lessons from Asian
+Agriculture. Baltimore: Johns Hopkins University Press.
+Rashid, S., S. Lemma, and P. Thangata. 2010. “Grain Reserves in Africa: A Cross-Country Synthesis of Lessons.”
+Unpublished, Bill & Melinda Gates Foundation, Seattle.
+Republic of South Sudan, NBS (National Bureau of Statistics). 2009. National Households Baseline Survey 2009.
+Juba.
+———. 2011. South Sudan Cost-to-Market Report: An Analysis of Check-Points on the Major Trader Routes in
+South Sudan. Juba.
+———. 2014. Release of New South Sudan Gross Domestic Product (GDP) Estimates for 2013. June. Juba.
+———. 2015. Aggregate Consumer Price Index. June. Juba.
+Sudan Tribune. 2013. “South Sudan’s Kiir Moves to Take Down Machar & Amum, Khartoum Says Accords
+Unaffected.” July 23. www.sudantribune.com/spip.php?article47380.
+Tibrichu, H. 2014. Trading with Neighbours: Understanding Uganda–South Sudan Business Community Trade
+Relations. London: International Alert.
+Timmer, P. 1997. “Building Efficiency in Agricultural Marketing: The Long-run Role of Bulog in the Indonesian
+Food Economy,” Journal of International Development 9 (1): 133-145.
+UNHCR (United Nations High Commissioner for Refugees). 2015. South Sudan Situation. Regional Update 69.
+Geneva.
+United Nations Security Council. 2015. Report of the Secretary-General on South Sudan (Covering the Period from
+11 February to 13 April 2015). New York. www.un.org/en/ga/search/view_doc.asp?symbol=S/2015/296.
+USAID (United States Agency for International Development). 2012. “First Paved Highway in South Sudan
+Constructed by USAID, Officially Opened.” www.usaid.gov/news-information/press-releases/first-pavedhighway-south-sudan-constructed-usaid-officially-opened.
+USAID and Fintrac. 2012. South Sudan USAID-BEST Analysis. Washington, DC.
+Wambua, T.R. 2009. Southern Sudan S-C-P Markets Study: Implications on Food Security. Washington, DC:
+Famine Early Warning Systems Network.
+WFP (World Food Programme). 2011. Annual Needs and Livelihoods Analysis South Sudan. Rome.
+———. 2013a. 2012 Food Aid Flows. Rome.
+———. 2013b. Annual Needs and Livelihoods Analysis 2012/2013: South Sudan. Rome.
+———. 2015. South Sudan Rapid Market Assessment. Rome.
+World Bank. 2012a. Agricultural Potential, Rural Roads, and Farm Competitiveness in South Sudan. Agriculture
+and Rural Development Unit Report 68399-SS. Washington, DC.
+World Bank. 2012a. Agricultural Potential, Rural Roads, and Farm Competitiveness in South Sudan. Agriculture
+and Rural Development Unit Report 68399-SS. Washington, DC.
+———. 2012b. Inflation in South Sudan. South Sudan Economic Brief 1. Washington, DC.
+———. 2014. Doing Business 2015. Washington, DC.
+———. 2015. World Development Indicators database. Accessed July 10, 2015. .http://data.worldbank.org/
+country/south-sudan#cpwdi.
+
+47
+
+RECENT IFPRI DISCUSSION PAPERS
+For earlier discussion papers, please go to www.ifpri.org/pubs/pubs.htm#dp.
+All discussion papers can be downloaded free of charge.
+1481. Gender, headship, and the life cycle: Landownership in four Asian countries. Kathryn Sproule, Caitlin Kieran, Agnes
+Quisumbing, and Cheryl Doss, 2015.
+1480. The food-energy-water security nexus: Definitions, policies, and methods in an application to Malawi and Mozambique.
+Thea Nielsen, Franziska Schunemann, Emily McNulty, Manfred Zeller, Ephraim Nkonya, Edward Kato, Stefan Meyer,
+Weston Anderson, Tingju Zhu, Antonio Queface, and Lawrence Mapemba, 2015.
+1479. The making of public investments: Champions, coordination, and characteristics of nutrition interventions, Tewodaj
+Mogues and Lucy Billings, 2015.
+1478. The dynamics of smallholder marketing behavior: Explorations using Ugandan and Mozambican panel data. Bjorn Van
+Campenhout, 2015.
+1477. Adjusting to external shocks in small open economies: The case of Honduras. Samuel Morley and Valeria Piñeiro, 2015.
+1476. Drivers of growth in agricultural returns to scale: The hiring in of tractor services in the Terai of Nepal. Hiroyuki
+Takeshima, 2015.
+1475. The contribution of increased equity to the estimated social benefits from a transfer program: An illustration from
+PROGRESA. Harold Alderman, Jere R. Behrman, and Afia Tasneem, 2015.
+
+1474. Reconstructing public expenditure data: Use of classification systems to better measure public spending in agriculture —
+A Mozambique case study. Tewodaj Mogues, Leonardo Caceres, Francisco A. Fernandez, and Mariam B. Umarji, 2015.
+
+1473. Agricultural insurance and the World Trade Organization. Joseph W. Glauber, 2015.
+1472. Grain price and volatility transmission from international to domestic markets in developing countries. Francisco
+Ceballos, Manuel A. Hernandez, Nicholas Minot, and Miguel Robles, 2015.
+1471. Policy changes in times of crisis: Evidence from the Arab Spatial Policy Analyzer. Jacopo Bordignon and Clemens
+Breisinger, 2015.
+1470. Gender empowerment gaps in agriculture and children’s well-being in Bangladesh. Hazel Jean L. Malapit, Esha Sraboni,
+Agnes R. Quisumbing, and Akhter Ahmed, 2015.
+1469. Climate change adaptation in agriculture: Ex ante analysis of promising and alternative crop technologies using DSSAT
+and IMPACT. Sherman Robinson, Daniel Mason-D’Croz, Shahnila Islam, Nicola Cenacchi, Bernardo Creamer, Arthur
+Gueneau, Guy Hareau, Ulrich Kleinwechter, Khondoker Mottaleb, Swamikannu Nedumaran, Richard Robertson, Mark
+W. Rosegrant, Gbegbelegbe Sika, Timothy B. Sulser, Keith Wiebe, 2015.
+1468. A proximity-based measure of industrial clustering. Jianqing Ruan and Xiaobo Zhang, 2015.
+1467. Aspirations and the role of social protection: Evidence from a natural disaster in rural Pakistan. Katrina Kosec and
+Cecilia Hyunjung Mo, 2015.
+1466. Addressing human capital development in public agriculture extension in southern Africa: Assessing Mozambique’s
+experience. Hélder R. Gêmo and Kristin E. Davis, 2015.
+1465. Microinsurance decisions: Gendered evidence from rural Bangladesh. Daniel J. Clarke and Neha Kumar, 2015.
+1464. Institutions and market integration: The case of coffee in the Ethiopian commodity exchange. Manuel A. Hernandez,
+Shahidur Rashid, Solomon Lemma, and Tadesse Kuma, 2015.
+1463. Happiness in the air: How does a dirty sky affect subjective well-being? Xin Zhang, Xiaobo Zhang, and Xi Chen, 2015.
+1462. The impact of the use of new technologies on farmers’ wheat yield in Ethiopia: Evidence from a randomized controlled
+trial. Gashaw Tadesse Abate, Alan de Brauw, Nicholas Minot, and Tanguy Bernard, 2015.
+1461. Living like there’s no tomorrow: Saving and spending following the Sichuan earthquake. Mateusz Filipski, Ling Jin,
+Xiaobo Zhang, and Kevin Chen, 2015.
+1460. Agricultural value chain development in practice: Private sector–led smallholder Development. Shashidhara Kolavalli,
+Akwasi Mensah-Bonsu, and Saima Zaman, 2015.
+
+.
+
+INTERNATIONAL FOOD POLICY
+RESEARCH INSTITUTE
+www.ifpri.org
+IFPRI HEADQUARTERS
+2033 K Street, NW
+Washington, DC 20006-1002 USA
+Tel.: +1-202-862-5600
+Fax: +1-202-467-4439
+Email: ifpri@cgiar.org
+
+

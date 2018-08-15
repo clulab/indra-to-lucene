@@ -1,0 +1,1437 @@
+SYNTHESIS REPORT
+
+Extreme weather and resilience
+of the global food system
+
+Contents
+
+This report originates from a Taskforce of academics, industry and policy
+experts to examine the resilience of the global food system to extreme
+weather events. The Taskforce was brought together by the UK’s Global Food
+Security programme and was jointly commissioned by the UK Foreign and
+Commonwealth Office and UK Government Science and Innovation Network.
+This Synthesis report on Extreme weather and resilience of the global food
+system, sits in the context of three detailed sub reports on Climate and global
+production shocks, Review of the responses to food production shocks and
+Country level impacts of Global Production Shocks. There is also an overall
+Extreme weather and resilience of the global food system summary report.
+The contents of these reports are based upon workshop discussions held at
+Willis Tower, Chicago in October 2014 and the Foreign and Commonwealth
+Office, London in February 2015 (see Appendix for a full list).
+This report should be cited as:
+Extreme weather and resilience of the global food system (2015). Final Project
+Report from the UK-US Taskforce on Extreme Weather and Global Food System
+Resilience, The Global Food Security programme, UK.
+Authors
+The following are the lead authors for this report, in alphabetical order
+(*=coordinating lead authors):
+Rob Bailey*(Chatham House, UK)
+Tim G. Benton* (UK Global Food Security Programme & University of Leeds, UK)
+Andy Challinor (University of Leeds, UK)
+Joshua Elliott* (Computation Institute at the University of Chicago, USA)
+
+Foreword
+
+1
+
+Executive summary
+
+2
+
+1. Food demand and supply and the impact of
+weather in a changing world
+
+3
+
+2. The US-UK Taskforce on extreme weather
+& global food system resilience
+
+4
+
+3. Weather and shocks to the global food system
+
+5
+
+4. Policy and market responses to
+weather-influenced production shocks
+
+7
+
+5. How would a plausible worst case scenario impact
+on societies, economies and the environment?
+10
+6. Key recommendations for increasing resilience to 		
+production shocks at global and local levels
+11
+Visual summary of scenarios
+
+12
+
+Appendix
+
+14
+
+References
+
+16
+
+David Gustafson*(ILSI Research Foundation, Washington, USA)
+Bradley Hiller (Global Sustainability Institute, Anglia Ruskin University, UK)
+Aled Jones* (Global Sustainability Institute, Anglia Ruskin University, UK)
+Molly Jahn (University of Wisconsin-Madison, USA)
+Chris Kent (Met Office, UK)
+Kirsty Lewis* (Met Office, UK)
+Theresa Meacham (UK Global Food Security Programme)
+Mike Rivington (The James Hutton Institute, Aberdeen, Scotland, UK)
+David Robson (Scottish Government, UK)
+Richard Tiffin*(Centre for Food Security, University of Reading, UK)
+Donald J. Wuebbles (Department of Atmospheric Sciences, University of Illinois,
+USA)
+Plus contributors to report and attendees at workshops in Chicago and London
+
+Electronic versions of the report series may be found at the addresses below:
+Extreme weather and resilience of the global food system summary report
+www.foodsecurity.ac.uk/assets/pdfs/extreme-weather-resilience-of-global-food-system.pdf
+Climate and Global Crop Production Shocks
+www.foodsecurity.ac.uk/assets/pdfs/climate-and-global-crop-production-shocks.pdf
+Review of the responses to food production shocks
+www.foodsecurity.ac.uk/assets/pdfs/review-of-responses-to-food-production-shocks.pdf
+Country level impacts of Global Production Shocks
+www.foodsecurity.ac.uk/assets/pdfs/country-impacts-of-global-grain-production-shocks.pdf
+Front cover: simazoran/istockphoto.com
+
+Foreword
+This report makes a vital contribution to the study of the
+risks facing the international food system and helpfully
+identifies areas where more work is needed.
+We know that the climate is changing and weather
+records are being broken all the time. Some of these
+weather records make a big impact on people – their
+ability to make a living and feed their families and in
+some cases their vulnerability to extreme events.
+Looking ahead, we can see that the world is changing,
+but we are not yet in a position to understand in detail
+what the weather will look like, and what the events will
+be that impact upon people’s lives the most.
+
+Sir David King
+UK Foreign Secretary’s Special Representative for
+Climate Change and former UK Government Chief
+Scientist
+
+The food system we increasingly rely on is a global
+enterprise. Up to now it’s been pretty robust and
+extreme weather has had limited impact on a global
+scale. But if the risks of an event are growing, and
+it could be unprecedented in scale and extent, how
+well prepared are we? Especially in the context of an
+international food system that over time has become
+increasingly efficient and therefore less resilient, the risks
+are serious and should be a cause for concern.
+Given the potentially huge impacts such an event
+could have in our increasingly interconnected world, we
+should be looking carefully at even very low probability
+situations and the likelihood of the scenarios suggested
+in this report are far too significant to ignore.
+This report examines some of the things we know
+and identifies areas where we need to know more. It
+imagines a plausible worst case scenario for the near
+future, and uses this to look at responses and impacts.
+It is useful in making us think about ensuring that when
+such events happen we take timely steps that make the
+situation better and not worse as well as what we can do
+now to prepare.
+
+|
+
+1
+
+Executive summary
+A Taskforce of academics, industry and policy experts was
+commissioned to examine the resilience of the global food system
+to extreme weather. This summary is built on three detailed reports:
+Climate and global production shocks (Annex A), Review of the
+responses to production shocks (Annex B) and the Country-level
+impacts of global grain production shocks (Annex C).
+We present evidence that the global food system is vulnerable to
+production shocks caused by extreme weather, and that this risk
+is growing. Although much more work needs to be done to reduce
+uncertainty, preliminary analysis of limited existing data suggests
+that the risk of a 1-in-100 year production shock is likely to increase
+to 1-in-30 or more by 2040. Additionally, recent studies suggest that
+our reliance on increasing volumes of global trade, whilst having
+many benefits, also creates structural vulnerability via a liability to
+amplify production shocks in some circumstances. Action is therefore
+needed to improve the resilience of the global food system to
+weather-related shocks, to mitigate their impact on people. A visual
+of the scenarios in the report can be found on pages 12-13. Key
+recommendations include:
+
+Understand the risks better
+More research is needed to understand and quantify the risks set
+out in this report. Our assessment is that they are non-trivial and
+increasing, but our knowledge of how extreme weather may be
+connected across the world, and hence the precise probability
+of multiple bread basket failures, is limited by available model
+simulations. Modelling limitations also constrain our ability to
+understand how production shocks translate into short run price
+impacts.
+
+Explore opportunities for coordinated risk management
+As knowledge emerges regarding plausible worst case scenarios,
+it will be possible for governments, international institutions and
+businesses to develop contingency plans and establish early warning
+systems with agreed response protocols. Other opportunities include
+coordinated management of emergency and/or strategic reserves.
+
+2
+
+|
+
+Improve the functioning of international markets
+History demonstrates that the actions of market participants in
+response to production losses, or the behaviours of other actors,
+are a crucial determinant of price impacts. Other problems that
+can exacerbate price spikes include low levels of stocks relative to
+consumption, poor transparency of market information and physical
+limitations on trade such as infrastructural constraints.
+
+Bolster national resilience to market shocks
+Governments should also consider policies to bolster national
+resilience to international market shocks. This is a particularly
+important policy agenda for import dependent developing countries
+with high numbers of poor food consumers, and/or high risk of
+political instability. The precise mix of appropriate policy measures
+will vary according to national context.
+
+Adapt agriculture for a changing climate
+Agriculture faces a triple challenge. Productivity must be increased by
+reversing declines in yield growth and closing the gap between actual
+and attainable yields in the developing world, whilst also reducing its
+environmental impact (eg 50:1 degradation, depletion of freshwater
+supplies, increasing greenhouse gas emissions or eutrophication).
+However, given the increasing risk of extreme weather, this
+cannot come at the expense of production resilience. Increases
+in productivity, sustainability and resilience to climate change are
+required. This will require significant investment from the public and
+private sectors, as well as new cross-sector collaborations.
+
+1. Food demand and supply and the impact of weather in a
+changing world
+By 2050, the FAO estimates that demand for food will increase
+over 60% above the current situation. Demand growth is driven
+by population and demographic change, and increasing global
+wealth. This, in turn, leads to greater per capita food demand,
+often associated with demand for more livestock produce. In
+2007/8, a small weather-related production shock, coupled with
+historically low stock-to-use levels, led to rapid food price inflation,
+as measured by the FAO Food Price Index and associated with the
+main internationally traded grains1. This increase was compounded
+by some countries imposing barriers to local export, to ensure their
+own food security, leading to an FAO price spike of over 100%. A
+similar price spike occurred in 2010/11, partly influenced by weather
+in Eastern Europe and Russia2.
+
+There is now very extensive and convincing evidence that the
+climate4 is changing5. Climate change can lead to a change in the
+mean (average) of a climatic variable, like temperature or rainfall,
+and/or its variability6. Changes in variability are just as important
+as changes in the average. To caricature this, climate change may
+result, on average, in an area getting wetter; however, if the variance
+is also increasing, it is possible for both floods and droughts to
+become more common. As extreme weather is often associated
+with the highest impacts on human systems, understanding exactly
+how the shape of the distribution of weather will change relative
+to the mean is important7. Whilst there is currently incomplete
+understanding of how extremes will change (see discussion in Annex
+A), there is nonetheless good evidence that extreme weather events,
+from intense storms to droughts and heatwaves, are increasing in
+frequency and severity at a considerable rate8.
+Most agriculture is climate dependent. Weather’s variability
+determines the relative productivity of the seasons9, and thus
+underpins variation in global food markets and determines the
+spatial distribution of agriculture. If production variability is also
+being driven by increasing variability of the weather across years, it
+implies there will be increased within-season price instability coupled
+with longer term challenges to the structure of the food system. The
+impact of changing patterns of extreme weather on global food
+
+istockphoto.com
+
+These spikes created a number of significant impacts around the
+world. In rich countries, where food is freely available, food price
+inflation was significant and the poorest suffered, resulting in
+people trading down on food quality or quantity, and in the process
+spending significantly more. In poorer countries, especially those
+with fragile governance, rapid food price inflation undermined
+civil order, and, in part was a spark for the Arab Spring and the
+consequences that have followed3. In 2012, the worst drought to
+hit the American Midwest for half a century triggered comparable
+spikes in international maize and soybean prices. This sequence of
+price spikes, and their consequences, re-alerted the world to the need
+to focus on global food availability and the volatility in its supply. Sir
+John Beddington’s powerful analogy of “the perfect storm” - of rising
+demand for food, water and energy whilst climate change creates
+increasing constraints - became a call to action on how to manage
+demand growth in a world under pressure.
+system resilience therefore requires more investigation.
+It is easier to make inferences from climate models and historical
+data about the average climate than it is about the extremes of
+the distribution, because by their very nature these events are
+rare, so sample sizes are small. Inferences about extremes are
+therefore much more uncertain. So, whilst climate models give us
+a good understanding of how climate may change in future, our
+understanding of the way extreme events may change is much less
+certain. For example, the authors of a recent paper10 comparing
+data to model predictions of extreme rainfall, concluded: “Our
+results also show that the global climate models we used may have
+underestimated the observed trend, which implies that extreme
+precipitation events may strengthen more quickly in the future
+than projected and that they may have more severe impacts
+than estimated.” In addition, for some climate phenomena (such
+as the way that large scale circulation patterns like the southern
+oscillation may change), inter-model comparison shows considerable
+variability11. Given that “it is difficult to rank models for their accuracy,
+...any model integration can be considered equally valid, and those
+that indicate [worse] conditions imply a future potential risk”12. In
+other words the rarest conditions are the most uncertain and difficult
+to study, but because they are also typically the most impactful, their
+study is most important.
+
+|
+
+3
+
+2. The US-UK Taskforce on extreme weather & global food
+system resilience
+In 2012, Sir John Beddington, then UK Government Chief Scientific
+Advisor, commissioned a report on food system resilience from the
+UK’s Food Research Partnership. That report13 concluded:
+The complexity of interactions between the global food
+supply chain and global weather means that the impacts
+of a particular weather event will vary with the location,
+timing and the overall context. The evidence is not available
+properly to describe with any certainty how variable weather
+will impact on food production systems and worldwide trade,
+but our contention is that we need greater investigation
+of what they could be, with perhaps greater consideration
+being given to reasonable “worst case scenarios”. …
+The weather in 2012 (drought to floods in the UK,
+drought, heatwave, floods across the rest of the Northern
+Hemisphere) cautions us to consider fully that weather may
+simultaneously impact in different places separated widely
+in space, and that therefore there is potential for widespread
+impacts on food supply. Given that the frequency of weather
+extremes is increasing, the potential for large impacts, and
+unprecedented ones, is growing.
+
+In 2014, the UK Foreign and Commonwealth Office and the UK
+Government Science and Innovation Network (supported also
+by the Department for the Environment, Food and Rural Affairs)
+jointly commissioned the UK’s Global Food Security programme to
+bring together a cross-disciplinary UK-US taskforce of experts (see
+Appendix A) to examine the risks of extreme weather’s impact on
+the food system, the responses the market and policy actors may
+make to any shortfall in production, and the impacts this may lead
+to (Figure 1). Given better understanding of climatic risks, likely
+responses and impacts, a further aim was to highlight positive actions
+to reduce impacts on people and markets. The Taskforce’s work also
+highlights gaps in our understanding and where further research is
+needed.
+This report summarises the outputs from the Taskforce into three
+areas: (i) how the changing weather may create shocks to the global
+food system (Section 3, Annex A), and, from this the development
+of a “plausible” worst case scenario for a shock; (ii) plausible market
+and policy responses to the worst case scenario (Section 4, Annex B);
+and (iii) how the combination of scenario and responses may impact
+upon different societies, economies and the environment (Section 5,
+Annex C).
+
+eg	  ECONOMIC	  -­‐	  POLITICAL	  -­‐	  SOCIAL	  –	  TECHNOLOGICAL	  
+
+Weather	  
+Events	  
+
+Food	  
+Produc2on	  
+SHOCK
+
+eg	  INFRASTRUCTURE	  –	  ENVIRONMENT	  
+
+RESPONSE	  
+to	  shocks	  
+
+Prices…	  
+Imports…	  
+Exports…	  
+
+IMPACTS	  
+
+eg	  STATE	  -­‐	  CORPORATE	  –	  MARKET	  
+
+SYSTEMIC	  
+AMPLIFYING	  AND	  MITIGATING	  FACTORS	  
+
+Figure 1: The conceptual framework for devising and assessing different scenarios of disruption to the food supply chain. Analysis was fixed around the two
+quantitative reference points of a shock to production (in terms of total loss), and the effects on food prices, imports and exports. The disruption pathways
+described how (a) climatological conditions that could create the shocks (e.g. droughts, storms) and their likelihood, (b) the most plausible and likely policy and
+market responses to the shock, and (c) the pathways that will result in the global food security impacts.
+
+4
+
+|
+
+3. Weather and shocks to the global food system
+Food production of the globally most important commodity crops
+(maize, soybean, wheat and rice) comes from a small number of
+major producing countries. The exposure of a large proportion of
+global production of the major crops is therefore concentrated in
+particular parts of the globe (Figure 2), and so extreme weather
+events in these regions have the largest impact on global food
+production. Simultaneous extreme weather events in two or more
+of these regions – creating a multiple bread basket failure – would
+represent a serious production shock, however understanding the
+covariance of extreme weather events in different production regions
+is currently under-researched. There is an urgent need to understand
+the driving dynamics of meteorological teleconnections, such as
+the El Niño – which may be becoming more extreme - in order to
+quantify the likelihoods of coincident production shocks in major
+food-producing regions.
+By examining production shocks in the recent past, we show that
+weather events, particularly drought, are a major driver of these
+shocks. Using the example of these past events we generated a
+set of scenarios, in the present or near-future, of weather-driven
+production shocks for each of the four crops (Annex A). These we
+combined to create a plausible worst case scenario (Box 1).
+
+Figure 2. Proportion of the total calories coming from the main four
+commodity crops per country. Within each country, agricultural production is
+also typically concentrated (see fig S7a in Foley 2011 for a spatially resolved
+map). For example, the bulk of calories produced in the US come from soy
+and maize in the Midwest, in Brazil agricultural production, mainly soy, is
+concentrated inland from the SE coast; rice predominantly comes from
+the Indo-Gangetic plain, SE China and SE Asia) and wheat production is
+concentrated in NW Europe and around the Black Sea.
+
+Box 1: Plausible scenario for extreme weather’s impacts on crop production
+Analysis of the historical records indicated that in 1988/89 there was a significant drought-related impact on the yields of maize and
+soybean, and in 2002/3 drought impacted on wheat in Europe, Russia, India and China and rice in India. The global production loss
+estimated from the historical and simulated anomalies using the Global Gridded Crop Model Intercomparison (GGCMI) data for the four
+crops in 1988/9 and 2002/3 are given in Table 1. Our plausible worst case scenario is that the two patterns of weather - that resulted in
+maize and soy, and wheat and rice being significantly affected - occur simultaneously. Without further work we cannot quantify the risk of
+this scenario, but we consider that a significant impact on all four crops of these magnitudes is plausible.
+Table 1. Impacts of weather on production of 4 main crops in 1988/9 and 2002/3 (from Annex A)
+
+CROP
+
+CASE STUDY YEAR
+
+% GLOBAL
+PRODUCTION
+DECREASE
+
+ABSOLUTE
+PRODUCTION LOSS
+(MILLION TONNES)
+
+MODELLED YIELD LOSS
+FROM GGCMI (%)
+
+MAIZE
+
+1988
+
+12%
+
+55.9
+
+13.5-16.4
+
+SOYBEAN
+
+1988/89
+
+8.5%
+
+8.9
+
+6.0-6.3
+
+WHEAT
+
+2003
+
+6%
+
+36.6
+
+6.4-9.5
+
+RICE
+
+2002/03
+
+4%
+
+21.7
+
+1.9-3.5
+
+3.1 Changing profiles of risks over time: a first analysis
+Through the use of climate models coupled to crop models, we can
+explore the changing risk of major shocks to the food system. To
+gauge whether we should be concerned about changing risks, we
+undertook an initial exploration of existing model outputs using
+the AgMIP/ISI-MIP model ensemble16. In terms of global calorieweighted yields of maize, soy, wheat and rice produced, the ensemble
+produces a distribution of yields in response to modelled weather
+(shown in Fig 3 as histograms for “historical” and “near-term” future,
+and as box plots for 4 time periods). Comparing the histograms, there
+are changes in the shape of the distribution in future relative to the
+last decades: they “flatten out”. This change in shape represents a
+significant increase in variance between the modelled historical and
+the near term future (For Fig 3’s top histograms, the near-term future
+
+variance increases 43% relative to the historical, Fisher Variance
+Ratio Test, P<0.0001), and this increasing variability continues to
+increase throughout the century (Fig 3, top right hand panel).
+This ensemble analysis suggests that what we would call an extreme
+food production shock in the late 20th century will become more
+common in the future (Fig 3). These data indicate that a 1-in-200
+year event for the climate in the late 20th century equates to a loss of
+approximately 8.5% (Fig 3 top), and over the next decades (20112040), a 1-in-200 year event is about 15% larger in magnitude and
+equivalent to the loss of 9.8% of calorie production. Furthermore,
+according to the ensemble, an event that we would have called 1-in100 years over the period 1951-2010 may become as frequent as a
+1-in-30 year event before the middle of the century.
+
+|
+
+5
+
+Figure 3: Model-based distributions of global calorie-weighted yield of maize, soy, wheat, and rice for the historical (1951-2010) and near-future (2011-2040)
+period with (top row) and without (bottom row) the effects of fertilization from increasing atmospheric CO2 included. The estimated magnitude of a 1-in200 year event in each period is indicated by arrows on the histograms. The box plots summarise the distributions and show the likely increasing variability
+continuing throughout the century.
+
+The analysis shown in the top row of Fig 3, assumes full effectiveness
+of CO2 fertilization. Recently questions have been raised about the
+magnitude of this beneficial effect17,18. If we assume instead that
+there is no CO2 fertilization at this large scale, we find similar but even
+more severe effects in later decades (Fig 3 bottom): a 1-in-200 year
+event in the near-term future is ~25% greater magnitude and the
+extreme left tail indicates the potential for historically unprecedented
+events. Without CO2 effects, a historically 1-in-100 year event is
+estimated to occur more than once every 10 years by the second half
+of the 21st century.
+We must emphasise these results are a preliminary analysis and
+limited by the availability of high-resolution global climate model
+runs. Significant work is needed to reduce the uncertainty and better
+understand the way extreme weather may change. Nonetheless, the
+indications are clear that the global food system is facing increasing
+risks due to more frequent extreme weather.
+
+6
+
+|
+
+4. Policy and market responses to weather-influenced
+production shocks
+Global food trade has increased in recent years, bringing well
+understood benefits. Trade allows countries with limited productive
+potential to meet domestic demand; it facilitates specialisation
+and efficiency; and it generally increases resilience by smoothing
+local disruptions. However, not all disruptions are equal. As Section
+3 highlighted, the system is not robust to a shock in one or more
+major production regions, pointing to inherent systemic risk in the
+geographical concentration of global food production.
+As noted by May (regarding financial and ecosystem networks,
+but similarly applies to the global food network which shares some
+network properties) there is a complex interplay between robustness
+and vulnerability19. Greater interconnectedness reduces countries’
+vulnerability to local production shocks, but may increase vulnerability
+to shocks in distant breadbasket regions. It also means the food
+system is more vulnerable to a sudden reversal in connectivity, for
+example due to an outbreak of trade restrictions.
+A recent study examining the evolution of trade networks over the
+period 1992-2009 concluded:
+…the global food system does exhibit characteristics consistent
+with a fragile one that is vulnerable to self-propagating
+disruptions. That is, in a setting where countries are increasingly
+interconnected and more food is traded globally over the [last
+two decades], a significant majority of countries are either
+dependent on imports for their staple food supply or would look
+to imports to meet any supply shortfalls20.
+In essence, through deeper trade food importing countries have
+reduced costs and vulnerability to localized production shocks, but at
+the expense of increased exposure to systemic risks such as a shock
+in a major production hub or a sudden deterioration in connectivity.
+Recent price spikes illustrate clearly the systemic risks associated with
+disruptions in major production regions and/or outbreaks of trade
+restrictions. Other factors thought to have amplified these price spikes
+include biofuel mandates, low ratios of stocks relative to demand and
+depreciation of the US dollar21.
+Historically, following past production shocks, individual grain prices
+have more than doubled in a short space of time (Annex B). The food
+system’s resilience to a weather-related shock can be defined by how
+much food prices, access and availability are affected by it. Resilience
+therefore depends on the magnitude of the physical shock and the
+policy and market responses that may amplify or buffer its effects as
+it propagates through the system.
+In response to the last decade’s food price spikes, many governments
+have developed strategic responses to better manage food
+production. However, other key problems pertaining to demand and
+trade responses remain unaddressed. If we are to avoid the worst
+impacts of future production shocks, we need to develop greater
+understanding of how responses may amplify, or mitigate, the price
+impact of production shocks. These responses are determined by
+the actions of agents mediated through markets. Governments
+are significant players in this, both through their direct influence on
+markets and their indirect influence on the other agents including
+
+farmers, food manufacturers and retailers, consumers and relief
+agencies.
+To capture the potential market and government responses to food
+production shocks in wheat, maize, soybean and rice, we conducted a
+literature review, undertook a historical data analysis and completed
+~50 interviews with experts from industry and policy around the
+world (Annex B). Taking the plausible worst case production shocks
+set out in Box 1 as a starting point, we developed a detailed scenario
+of how weather and responses may interact on a global scale to
+produce a significant market shock. Below we present this scenario for
+2016 and 2026, assuming a plausible deterioration in food system
+resilience in the latter case.
+Economic modelling of the price impacts of these scenarios has not
+been possible, and in any case, typical economic simulation models
+are poorly suited to modelling short-run prices during periods where
+markets are in disequilibrium and the magnitude of the shock is
+significantly “out-of-sample”. Nevertheless, it is our judgement that
+the combined production shock and responses outlined below in
+the 2016 plausible worst case scenario could see the FAO food price
+index reach record highs, surpassing 250 compared to around 170
+at the time of writing, with a likely trebling in the price of individual
+grains. By way of comparison, the index reached 226 in 2008
+and 238 in 2011. All other things being equal, the 2026 scenario
+would be expected to result in an even higher price spike. Economic
+modelling of these scenarios would be one subject for subsequent
+research.
+
+4.1 Plausible scenarios22 for extreme weather and country
+responses
+4.1.1 A plausible worst case scenario for 2016
+A disappointing Indian monsoon the previous year means 2016
+opens with a poor outlook for wheat in India. But it is not until
+early spring, when large areas of the Black Sea winter wheat crop
+are killed by a temporary snow thaw and refreeze, that alarm
+mounts. Russia and Ukraine both impose export bans in an effort to
+conserve domestic supply23. International wheat prices climb rapidly,
+precipitating a flurry of similar measures among Kazakhstan, India,
+China and Pakistan; Argentina tightens existing export restrictions24.
+Several countries including China, Saudi Arabia, Morocco and
+Iran implement measures to reduce import prices, such as tariff
+reductions or consumption subsidies25.
+In early spring, the wheat harvest begins in India and the poor
+outlook is confirmed. Expectations are similarly poor for the Chinese
+wheat harvest, due to begin later in the season. In response both
+governments increase export controls on rice in a bid to shore-up
+domestic availability of cereals. Pakistan and Bangladesh follow
+suit26. As mounting export controls constrain supply, the number of
+importing countries slashing cereal tariffs or hiking consumption
+subsidies continues to grow, driving up effective demand.
+In late spring, drought sets in in North America and persists
+throughout the summer. Soybean and maize forecasts drop steadily
+
+|
+
+7
+
+over the period whilst prices, already dragged high by wheat, climb
+rapidly. Argentina raises export taxes on both commodities; China
+imposes an export tax on maize27. The situation is compounded by a
+heatwave and drought that hits the European wheat crop, leading to
+further rises across all cereals. The US indicates it will not waive the
+ethanol mandate despite calls for it to do so, from other governments
+and from interests in the livestock and food and beverage sectors28.
+In early summer a second failure of the Indian monsoon is confirmed,
+raising concerns about the rice harvest later in the year. Panic sets
+in in the rice market, where Asian households, recalling the 2008
+crisis, have been steadily hoarding. Myanmar, Sri Lanka, Egypt and
+Nepal impose export restrictions29. Major importers such as Nigeria,
+Malaysia and the Philippines place orders far in excess of normal
+levels in a bid to calm domestic markets, bidding-up a tight market.
+The commitment from governments in the Association of SE Asian
+Nations (ASEAN) to coordinate trade responses buckles under
+pressure and Vietnam, Cambodia and Indonesia impose export
+bans30.
+4.1.2 Plausible scenarios for 2026
+Factors that may amplify the impact of production shocks in
+2026
+The consequences for global food security of any production shock
+depends not only on the responses of key actors, but critically
+also on the overall resilience of the food system and prevailing
+macroeconomic conditions. It is far from difficult to develop a
+plausible worst case scenario for 2026 in which system resilience
+is lowered over the next decade and macroeconomic conditions
+
+8
+
+|
+
+unfavourable, making the global food system considerably more
+vulnerable to the same shocks.
+The following factors would cumulatively reduce the resilience of the
+global food system to supply shocks and increase the likelihood of a
+price crisis.
+•
+
+Low stock-to-use ratios. Over the next decade, a number of
+trends combine to drive down stock-to-use ratios to below crisis
+thresholds31 by 2026. At the global level, sluggish yield growth
+means production struggles to keep pace with demand, driven
+by increasing consumption of animal products, increasing biofuel
+use and population growth, generating sustained downward
+pressure on stocks. Two disappointing global harvests in 2024
+and 2025 see stock-to-use ratios fall below 20%.
+
+•
+
+Reduced self-sufficiency of China. China has maintained levels
+of self-sufficiency in cereals in the range of 95-105% since the
+mid-1990s, reducing its impacts on the international market.
+However recent years have been characterised by modest but
+persistent trade deficits, reflecting the growing challenge of
+meeting increasing demand with a depleted resource base.
+Over the coming decade, these deficits steadily increase. Soil
+depletion, pollution and constraints on availability of water and
+arable land cause production to fall further behind demand.
+Farms become less competitive with imports due to a high
+renminbi, aging rural workforce and increasing labour costs. In
+an effort to contain domestic inflation the government allows
+imports to rise, increasing demand on international markets.
+
+•
+
+•
+
+•
+
+•
+
+Increasingly inelastic demand. By 2026, demand is more
+inelastic, meaning that a greater price change is needed for
+demand to adjust. Two factors contribute to this. First, higher
+incomes in the developing world mean consumers are slower to
+adjust consumption in response to price increases. Second, and
+more importantly, further implementation of inflexible biofuel
+mandates – primarily in developing countries – makes demand
+more inelastic.
+Recovery of oil prices. A sustained period of international oil
+prices around $60 a barrel sees investments in production and
+exploration cut back, leading to a subsequent supply crunch.
+Prices climb steadily from 2020, and then rise rapidly in 2024
+and 2025 due to instability in the Middle East. This feeds
+through to food prices via a cost push effect, and increases
+demand for biofuels.
+Cumulative underinvestment in infrastructure in key
+exporting regions. Three of the most important export
+regions – Brazil, the USA, and the Black Sea region - face serious
+infrastructural constraints that are already limiting their export
+capacity at the margin, contributing to higher export prices and
+slower supply responses. Underinvestment in all three regions
+over the next decade sees the situation deteriorate.
+Depreciation of US dollar. In 2025 and 2026, the US dollar
+depreciates sharply, leading to an appreciation in the prices
+of dollar-denominated commodities, including agricultural
+commodities.
+
+Box 2: Factors that may mitigate the impact of
+production shocks in 2026
+Rather than exacerbate a price spike, smart responses can also
+mitigate one. In aggregate, the following actions could plausibly
+limit price rises to within normal levels of annual variability:
+• After an emergency meeting of the Rapid Response Forum
+early in the year, member governments make a joint
+commitment not to impose any export restrictions on their
+agricultural sectors.
+• ASEAN governments follow suit, with a similar
+announcement on rice.
+• Governments in major biofuel consuming countries reduce
+biofuel mandates, increasing availability of grains and
+oilseeds and dampening prices. This could be implemented
+politically – for example an agreement brokered through the
+Rapid Response Forum. Alternatively, a similar effect could
+be achieved using call options that trigger when a certain
+price threshold is breached, effectively transforming biofuel
+mandates into virtual reserves32.
+• Low-income consumers in poor or fragile countries are
+protected from price rises through cash transfers and social
+protection arrangements, quelling unrest and reducing the
+incentives for governments to impose export controls.
+
+Under this set of preconditions the production shocks considered
+here would almost certainly result in a more dramatic price response.
+Consequently, the responses of societies and governments would
+likely be more extreme. A larger number of countries would probably
+experience civil unrest. This would raise the stakes for governments,
+and result in more states intervening. In such a scenario, Thailand
+– a crucial rice exporter – might limit exports to contain domestic
+rice prices for example33. Reponses might also be more extreme
+– for example, governments that apply export taxes or quotas in
+the 2016 scenario might impose outright export bans. In fragile
+political contexts where household food insecurity is high, civil unrest
+might spill over into violence or conflict. The Middle East and North
+Africa region is of particular systemic concern, given its exposure to
+international price volatility and risk of instability, its vulnerability
+to import disruption and the potential for interruption of energy
+exports34.
+
+|
+
+9
+
+5. How would a plausible worst case scenario impact on
+societies, economies and the environment?
+The preceding section set out a plausible worst case scenario in 2016,
+comprising a weather-related global production shock amplified
+through the responses of market actors, that could plausibly result
+in a spike of the FAO food price index to over 250 in 2016. Based on
+this scenario, it is possible to consider the potential consequences for
+human populations and national economies. Information on possible
+country level impacts was collected through an expert interview
+process. An “Interview Questionnaire” was developed and a panel
+of experts from academia/research institutions, government and
+the private sector were interviewed about the likely impacts in Brazil,
+China, Egypt, Ethiopia, Europe, India, Russia, Saudi Arabia, and the
+United States. The country selection criteria are provided in Annex C.
+This analysis revealed the following broad expectations of how
+the plausible worst case scenario might unfold at the national and
+societal level. These are highly consistent with the impacts observed
+during the 2007/8 and 2010/11 price spikes.
+The hardest impacts would be felt by import dependent
+developing countries, particular in Sub-Saharan Africa. These
+countries would be expected to experience the most pronounced
+short-term deteriorations in poverty rates and nutrition security.
+At the economy level, impacts would likely include inflation,
+deteriorations in the balance of payments and budgetary pressures
+arising from higher food subsidies and social transfers.
+
+Other import dependent countries could experience social
+unrest. In particular, in the wake of the Arab Spring and ongoing
+instability in the region, the highly import dependent countries of the
+Middle East and North Africa region could be particularly vulnerable.
+Impacts on major economies would be muted. Consumers in
+large industrialised countries such as the US and EU, where food
+represents a small share of household expenditures, would be
+relatively unaffected36. The crop sectors of these economies, and
+other major agricultural producers, would likely benefit from higher
+prices, though other sectors could suffer. Poor food consumers in
+China would likely be relatively unaffected due to government
+intervention to buffer these households from food price inflation
+through the use of strategic reserves and price controls.
+The supply response may have negative consequences in the
+longer term. In response to the price spike, agricultural output
+would likely increase through a combination of extensification and
+intensification. In the short-term, this would increase supply and
+help stocks to recover, facilitating a decline in food prices. However, if
+extensification occurred at the expense of high carbon value and/or
+high biodiversity value land such as forest, this could have long-term
+environmental costs. Similarly, unsustainable intensification could
+degrade soils, deplete freshwater supplies and increase greenhouse
+gas emissions and eutrophication. The risk of unsustainable
+production responses is likely to be higher in the event of a dramatic
+price spike, with potential long-term consequences for the resilience
+of food production.
+
+istockphoto.com
+
+10
+
+|
+
+6. Key recommendations for increasing resilience to
+production shocks at global and local levels
+We have argued that the risk of a serious weather-related shock
+to global food production appears to be increasing rapidly due to
+climate change. Such an event could have serious implications for
+the stability of global grain markets and human security in vulnerable
+countries. Below we set out five broad areas where action can begin
+to be taken in order to address this.
+
+6.1 Better understand the risks
+More research is needed to understand and quantify the risks set
+out in this paper. Our assessment is that they are non-trivial and
+increasing, but our knowledge of how extreme weather may be
+connected across the world, and hence the precise probability
+of multiple bread basket failures, is limited by available model
+simulations. Modelling limitations also constrain our ability to
+understand how production shocks translate into short run price
+impacts. Specific opportunities include:
+• High-resolution global climate model runs using stationary present
+day radiative forcing, with an ensemble size that is sufficient for
+probabilistic analysis of extreme event risk. Similar stationary
+forcing runs for snapshots of future forcing would also be needed.
+
+• Agreeing international rules to limit the scope for unilateral export
+controls in the agriculture sector.
+• Developing mechanisms to increase the flexibility of biofuel
+mandates.
+• Research to identify critical geographical pinch points in
+international trade and approaches to address their vulnerability,
+such as investment in infrastructure or plurilateral agreements to
+maintain sea lanes for example.
+
+6.4 Bolster national resilience to market shocks
+Governments should also consider policies to bolster national
+resilience to international market shocks. This is a particularly
+important policy agenda for import dependent developing countries
+with high numbers of poor food consumers, and/or high risk of
+political instability. The precise mix of appropriate policy measures will
+vary according to national context. Options include:
+• Investing in strategic storage.
+• ‘De-risking’ imports through, for example, diversification of supply
+or use of forward contracts.
+
+• Development of economic modelling to dynamically capture
+the transmission of shocks through the trade network, and the
+impacts of stock levels on price elasticities and different trade
+responses such as export controls or panic buying on short run
+prices.
+
+• Developing methodologies to measure and monitor household
+vulnerability and using these to design and target interventions
+such as social protection or safety net programmes.
+
+• Development of crop modelling to better incorporate on-going
+adaptation responses, physiological mechanisms, genetic
+variation and improvement in response to extreme growing
+conditions.
+
+All are likely to entail cost and many may present significant
+implementation challenges. It is also noteworthy that, unlike those
+set out in 6.3, these interventions need not necessarily contribute to
+overall system resilience. For example, increasing domestic production
+should improve system resilience at the margin and in the short-term,
+but may be environmentally unsustainable. If the objective is to use
+export restrictions to secure output for domestic consumption in the
+event of a price spike, the consequence for system resilience will be
+negative. It is important to find ways to strike an appropriate balance
+among competing objectives, and to identify approaches that
+minimize negative effects in other policy areas.
+
+6.2 Explore opportunities for coordinated risk
+management
+As knowledge emerges regarding plausible worst case scenarios,
+it will be possible for governments, international institutions and
+businesses to develop contingency plans and establish early warning
+systems with agreed response protocols. Other opportunities include
+coordinated management of emergency and/or strategic reserves.
+
+6.3 Improve the functioning of international markets
+History demonstrates that the actions of market participants in
+response to production losses, or the behaviours of other actors,
+are a crucial determinant of price impacts. Other problems that
+can exacerbate price spikes include low levels of stocks relative to
+consumption, poor transparency of market information and physical
+limitations on trade such as infrastructural constraints. Interventions
+to reduce the risk of extreme price responses include:
+• Improving the quality and accessibility of key market data, not
+least estimates of public and private stockholdings. Building on
+the recent success of the Agricultural Market Information System
+will be important in this regard.
+
+• Investing in domestic production (its amount and diversity) to
+reduce dependency on imports.
+
+6.5 Adapt agriculture for a changing climate
+Demand for food, at a global level, is increasing faster than agricultural
+yields are growing37. Agriculture therefore faces a triple challenge.
+Productivity – at a global level - must be increased by reversing
+declines in yield growth and closing the gap between actual and
+attainable yields in the developing world, whilst also reducing its
+environmental impact. However, given the increasing risk of extreme
+weather, this cannot come at the expense of production resilience.
+Increases in productivity, sustainability and resilience to climate
+change are required. This will require significant investment from the
+public and private sectors, as well as new cross-sector collaborations
+between scientists, agriculture, water and environmental specialists,
+technology providers, policy-makers and civil engineers among others.
+
+|
+
+11
+
+EXTREME WEATHER AND RESILIENCE
+• Isolated crises have occurred before: for example, in 1988/89 there was a significant
+drought related impact on the yields of maize and soybean, and in 2002/03 drought
+impacted wheat in Europe, Russia, India, and China; rice in India.
+
+OPERATING
+CONTEXT
+
+2016…
+…by 2026 ?
+
+• Escalating demand for food
+• Trade volume and interdependencies amplify shocks
+• Crop production concentrated in global regions,
+increasing exposure to extreme weather risks
+• Reduced self sufficiency in China for cereals
+• Increasingly inelastic demand
+
+MULTIPLE BREADBASKET FAILURE
+EXTREME WEATHER
+disrupts production
+
+ESCALATING PANIC
+exacerbates crisis
+
+IMPACTS:	  the	  hardest	  economic,	  social	  and	  p
+dependent	  countries,	  par9cularly	  in	  Sub-­‐Sah
+PRICE volatility
+be
+EXPORT likely	  
+bans
+• As cereal prices climb, export bans
+are imposed
+
+• Poor Indian monsoon, reduces
+wheat crop in India and China
+
+• Countries impose tariff reductions
+or consumption subsidies
+
+• Early Spring thaw-freeze in Black
+sea area affects wheat crop
+
+• China and Argentina raise export
+taxes on Soybean and Maize
+
+• Summer drought in N. America
+affects maize and wheat
+forecasts
+
+• The US does not waive the
+ethanol mandate
+• Hoarding and further export
+restrictions in SE Asia
+• Further export bans are imposed
+
+• Heat wave and drought in
+Europe affects wheat crop
+• Indian monsoon second failure,
+causes rice harvest concerns
+
+Import Restrictions
+
+• Low stock to use ratio raises
+concerns of availability
+
+KEY
+RECOMMENDATIONS
+
+• Adapt agriculture to account for climate extremes
+• Better understand the risks by improving climate,
+economic and crop modelling tools
+• Better coordinate risk management
+• Do not impose export restrictions
+
+• The above visualisation represents a fictional, but plausible 2016 scenario
+outlined in the Resilience Taskforce summary report.
+• Text in red indicates how the scenario could develop further in a 2026 situation.
+Figure 4: A visual summary of the scenarios presented in the report.
+12
+
+|
+
+OF THE GLOBAL FOOD SYSTEM
+• The level of risk is growing: evidence suggests that the risk of a 1-in-100 year production shock
+event from extreme weather, could increase to 1-in-30 year or more in the next few decades.
+• Extremes are where the greatest impacts from climate change will be felt, but predicting the
+frequency and intensity of extreme events is extremely challenging.
+•
+•
+•
+•
+•
+
+Key Food import states, economically and politically unstable
+Greater interdependencies
+Production struggles to keep pace with demand
+Underinvestment in exporting region infrastructure
+Recovery of oil prices
+
+POLITICAL
+• Social unrest experienced; Middle
+East and North Africa particularly
+vulnerable.
+
+poli9cal	  impacts	  are	  likely	  to	  be	  felt	  Reduced
+by	  import	  
+Resilience
+ECONOMIC
+haran	  Africa.	  Major	  economy	  impacts	  would	  
+e	  muted.	  
+IMPACTS: the hardest economic,
+social and political impacts are likely to be
+felt by import dependent countries,
+particularly in Sub-Saharan Africa. Major
+economy impacts would likely be muted.
+
+SOCIAL
+
+• FAO food prices hit 250 and prices
+of affected grains go up 3x.
+• Country level budgetary pressures
+experienced
+• Poverty rates increase
+• Inflation and deterioration in the
+balance of payments
+
+• Deterioration in nutritional security
+• Government intervention (e.g. in
+China) may protect some poor
+food consumers
+
+•
+•
+•
+•
+•
+
+Better understand how responses can amplify shocks
+Improve function of international markets
+Bolster national resilience to market shocks
+Make biofuel mandates more flexible
+Implement mechanisms to protect low income, fragile countries
+
+• Intensification and extensification
+of agriculture
+• Degradation of biodiversity, soil
+and water resources
+
+• Increase in GHG emissions and
+degradation of landscape carbon
+• Destabilisation of governments
+• Increase in regional migration
+(internal and external)
+• Reduction in global stocks
+
+Increased
+Vulnerability
+
+• The scenario originated from the isolated crises outlined above in 1988/89 and
+2002/03, occurring simultaneously.
+
+|
+
+13
+
+Appendix
+Contributors to report and attendees at workshops in Chicago (C)
+and London (L)
+
+The following have been interviewed to date as part of this work:
+
+• John Beghin, Iowa State University (C)
+
+• Rob Bailey, Chatham House, UK
+
+• Judy Buttriss, British Nutrition Foundation (L)
+
+• Nancy DeVore, Bunge Global, USA
+
+• Riaz Bhunnoo, Global Food Security Programme (C,L)
+
+• Karimah Hudda, Mondelez, Canada
+
+• Chris Brown, ASDA (L)
+
+• Jonathan Horrell, Mondelez, Canada
+
+• Kris Carlson, Thomson Reuters (C)
+
+• Gordon Friend, DEFRA, UK
+
+• Erik Chavez, Imperial College London (C,L)
+
+• Corey Cherr, Thomson Reuters, USA
+
+• Nancy DeVore, DHF Team LLC (C,L)
+
+• Chris Brown, ASDA Walmart, UK
+
+• Kenneth Donaldson, Actuary (L)
+
+• Jerry Hjelle, Monsanto, USA
+
+• Rowan Douglas, Willis Research Network (C,L)
+
+• Jay Gulledge, Oakridge National Laboratory, USA
+
+• Gordon Friend, Defra (C,L)
+
+• Marc Sadler, World Bank, USA
+
+• Olivia Gray, Willis (C)
+
+• Puvan J. Selvanathan, UN Agriculture / Global Compact, USA
+
+• Jay Gulledge, Oak Ridge National Laboratory (C,L)
+
+• Samir Saran, ORF, India
+
+• Jerry Hjelle, Monsanto (L)
+
+• Tom Lumpkin, CGIAR, Mexico 		
+
+• Jonathan Horrell, Mondelez (L)
+
+• Jerry Skees, University of Kentucky, USA
+
+• Karimah Hudda, Mondelez (C)
+
+• Professor Paul Teng, National Institute of Education, Singapore
+
+• Molly Jahn, University of Wisconsin–Madison (C,L)
+• Daniel Krohn, Iowa State University (L)
+
+• Stephen Lorimer, Ministry of Business, Innovation and
+Employment, New Zealand
+
+• Andrew Leakey, University of Illinois (C,L)
+
+• Jonatan Lassa, United Nations University, Singapore
+
+• Marc Levy, Center for International Earth Science Information
+Network (C,L)
+
+• Dave Gustavsen, ILSI, USA
+
+• Victoria Loughlan, Scottish Government*
+
+• Mark Rose Grant, IFPRI, USA
+
+• Bob Phillipson, Foreign and Commonwealth Office (L)
+
+• Don Seville, Sustainable Food Lab, USA
+
+• George Prpich, Cranfield University (C,L)
+
+• Chris Joknik, Oxfam, USA		
+
+• Sherman Robinson, CGIAR (L)
+
+• Gerald Nelson, University of Illinois, USA 		
+
+• David Robson, Scottish Government (C,L)
+
+• John Antle, Oregan State University, USA
+
+• Simon Sharpe, Foreign and Commonwealth Office (C,L)
+
+• Erik Chavez, Imperial College, UK
+
+• Lucy Stanbrough, Lloyds (L)
+
+• Margaret Walsh, USDA, USA
+
+• Jack Westwood, British Consulate-General, Chicago (C,L)
+
+• Eija Pehu, World Bank, USA
+
+*Contributed after the workshops had taken place
+
+• Mukul Sanwal, Institute for Defence Studies & Analyses / UMass
+Amherst, India
+
+• Zhang Hongzhou, Nanyang Technological University, Singapore
+
+• James Jones, University of Florida, USA
+
+• Arunabha Ghosh, CEEW, India
+• Naomi Hossain, University of Sussex, Indonesia
+• Robin Lougee, IBM, USA
+• Biraj Patnaik, Supreme Court Commissioners Office on Right to
+Food, India
+• John Magrath, Oxfam, UK
+• Tassew Waldehanna, Addis Ababa University, Ethiopia
+• Anne Roulin, Nestle, Switzerland
+• Felino Lansigan, Univ. of the Philippines Los Banos, Philippines
+• Simon Ticehurst, Oxfam, Brazil
+• Elias Fereres, Irrigation Science, Journal, Spain
+• Sir Gordon Conway, Imperial College, UK
+• Joanna Syroka, WFP, USA
+• JohnIngram, Oxford University, UK
+
+14
+
+|
+
+• Bruce Babcock, Iowa State University, USA
+• Helen Edmundsen, DfID, UK
+• Renato Maluf, Rural Federal University of Rio de Janeiro, Brazil
+• Claudia Schmitt, Rural Federal University of Rio de Janeiro, Brazil
+• Zhang Hongzhou, Nanyang Technological University, Singapore
+• Jikun Huang, Chinese Academy of Sciences, Institute of
+Geographic Sciences and Natural Resources Research, China
+• Tarek Tawfik, ENCC Food Security and Safety Sub-Council, Egypt
+• Amina Ghanem, Egyptian National Competitiveness Council,
+Egypt
+• James McCann, Boston University, USA
+• Bart Minten, International Food Policy Research Institute (IFPRI),
+Ethiopia
+• Chris Brown, ASDA/Walmart, USA
+• Biraj Patnaik, Supreme Court Commissioners Office on Right to
+Food, India
+• Yury Safonov, Moscow Higher School of Economics, Russia
+• Blair Fortner, Monsanto Company, USA
+A workshop hosted by Chatham House on February 11th 2015
+refined the Responses report. Those attending the workshop were:
+• Nick Silver, Institute of Actuaries
+• Paul McMahon, Associate Fellow, Chatham House / Managing
+Director, SLM Partners LLP
+• Gordon Friend, DEFRA
+• Maria Lacunza, DEFRA
+• James Ballantyne, FCO
+• Rowan Douglas, Willis Research
+• Olivia Gray, Willis Research
+• Laura Wellesley, Chatham House
+
+|
+
+15
+
+References
+1
+
+GFS Insight paper on Food Price Spikes (2014) http://www.foodsecurity.ac.uk/assets/pdfs/1404-gfs-insight-food-price-spikes.pdf
+
+2
+
+COULIBALY, A,L, (2013) The Food Price Increase of 2010–2011: Causes and Impacts Background Paper No. 2013-02-E
+http://www.parl.gc.ca/Content/LOP/ResearchPublications/2013-02-e.htm
+
+3
+
+LAGI, M., et al. 2011. The food crises and political instability in North Africa and the Middle East. arXiv preprint arXiv:1108.2455;
+BELLEMARE, M. F. 2015. Rising Food Prices, Food Price Volatility, and Social Unrest. Am. J. Agricultural Economics, 97, 1-21.
+NATALINI, D.,et al. , ‘Quantitative assessment of approaches to measuring likelihood of food riots in countries’, 2015,
+Sustainability, 7 (4), 4360-4385
+
+4
+
+If the temperature, or rainfall, is measured each day in a location for a long time, the daily conditions will describe a frequency
+distribution: the climate. This distribution will have common weather close to the average and the rarer, or extreme, weather will
+be in the tails of the distribution. Extreme weather is typically high-impact.
+
+5
+
+IPCC (2014) 5th Assessment, reports available at https://www.ipcc.ch/report/ar5/
+
+6
+
+HANSEN, J et al (2012) “Perception of climate change” PNAS www.pnas.orc/cgi/doi/10.1073/pnas.1205276109
+
+7
+
+Turn down the heat: climate extremes, regional impacts, and the case for resilience. World Bank. http://documents.worldbank.org/
+cura-ted/ en/2013/06/17862361/turn-down-heat-climate-extremes-regional-impacts-case-resilience-full-report
+
+8
+
+See Hansen (op. cit.) and for a brief review COUMOU, D. & S. RAHMSTORF (2012) “A decade of weather extremes” Nature Climate
+Change DOI 10.1038/NCLIMATE1452 and IPCC (2012) A Special Report of Working Groups I and II of the Intergovernmental
+Panel on Climate Change (IPCC). Cambridge University Press, Cambridge, UK, and New York, NY, USA; CHALLINOR, A., et al..
+2014. A meta-analysis of crop yield under climate change and adaptation. Nature Climate Change, 4, 287-291
+
+9
+
+For a synopsis of how weather may affect agricultural production see http://www.foodsecurity.ac.uk/assets/pdfs/frp-severeweather-uk-food-chain-resilience.pdf.
+
+10 MIN, Seung-Ki et al (2011) Human contribution to more-intense precipitation extremes Nature 470, 378-381
+11 GUILYARDI, E et al (2012) A first look at ENSO in CMIP5 from http://www.gfdl.noaa.gov/~atw/yr/2012/guilyardi_etal_2012_clivex.
+pdf
+12 P32 in FORSTER, P et al (2012) Food Security: near future projections of the impact of drought in Asia. Working Paper from the
+Centre for Low Carbon Futures. Available at http://www.lowcarbonfutures.org/
+13 http://www.foodsecurity.ac.uk/assets/pdfs/frp-severe-weather-uk-food-chain-resilience.pdf
+14
+
+CAI, W., et al. 2014. Increasing frequency of extreme El Nino events due to greenhouse warming. Nature Clim. Change, 4, 111116.
+
+15 FOLEY, J. A. et al. 2011. Solutions for a cultivated planet. Nature, 478, 337-342.
+16
+
+https://www.agmip.org/ag-grid/ggcmi/
+
+17
+
+O’Leary, G. J., et al. (2015), Response of wheat growth, grain yield and water use to elevated CO2 under a Free-Air CO2
+Enrichment (FACE) experiment and modelling in a semi-arid environment. Global Change Biology. doi: 10.1111/gcb.12830
+
+18 Feng, Z., Rütting, T., Pleijel, H., Wallin, G., Reich, P.B., Kammann, C.I., Newton, P.C.D., Kobayashi, K., Luo, Y., Uddling, J., 2015.
+Constraints to nitrogen acquisition of terrestrial plants under elevated CO2. Global Change Biol. (in press); Myers, S.S., Zanobetti,
+A., Kloog, I., Huybers, P., Leakey, A.D., Bloom, A.J., Carlisle, E., Dietterich, L.H., Fitzgerald, G., Hasegawa, T., 2014. Increasing CO2
+threatens human nutrition. Nature 510, 139-142.
+19 May, R.M., 2013. Networks and webs in ecosystems and financial systems. Philosophical Transactions of the Royal Society
+a-Mathematical Physical and Engineering Sciences 371, 20120376.
+20 Page 11 in Puma, M. J. et al. (2015). Assessing the evolving fragility of the global food system. Environmental Research
+Letters,10(2), 024007.
+21 World commodity prices are priced in dollars. Depreciation of the dollar leads to cheaper prices in other currencies. This leads
+to either reduction in supply or an increase in demand, which then drives up world prices. P. CHARLEBOIS & N. HAMANN (2010)
+The consequences of a strong depreciation of the USD on agricultural markets Catalogue A38-4/21-2010E-PDF Project 10-055-r
+http://www.agr.gc.ca/pol/index_e.php
+22 Scenarios are described in italic text
+23 Russia and Ukraine each imposed export restrictions (comprising taxes, quotas and bans) on wheat during the 2007/8 food price
+crisis and in 2010/11 following a poor harvest. See for example, SHARMA 2011. Food Export Restrictions: Review of the 2007-2010
+Experience and Considerations for Disciplining Restrictive Measures, FAO Commodity and Trade Policy Research Working Paper
+No.32, Rome: Food and Agriculture Organization of the United Nations.
+
+16
+
+|
+
+24 All of these countries imposed export controls on wheat during the 2007/8 crisis. See Sharma (2011).
+25 At the end of 2008, 43 of 81 countries surveyed had reduced import tariffs or custom fees on agricultural commodities, including
+those listed here. See DEMEKE et al 2009. Country responses to the food security crisis: Nature and preliminary implications of the
+policies pursued, Rome: Food and Agriculture Organization of the United Nations.
+26 All four countries implemented rice export controls during the 2007/8 crisis, Sharma (2011).
+27 In 2008, Argentina increased export taxes on soybean and maize as international prices rose. China increased export taxes on
+maize. Sharma (2011).
+28 In 2012 with maize prices at record highs following the worst drought in half a century, the US refused to waive the ethanol
+mandate (which consumes roughly 40 per cent of the maize harvest) despite petitions from the livestock sector, the food and
+beverage sector and other governments.
+29 All four imposed export restrictions on rice during 2008. Sharma (2011).
+30 Vietnam, Cambodia and Indonesia all imposed rice export bans in 2008 (Sharma, 2011) and DAWE (ed.) 2010 The Rice Crisis:
+Markets, Policies and Food Security. Food and Agriculture Organization of the United Nations and Earthscan.
+31 Low global stock-to-use ratios appear to be a necessary, but not sufficient, condition for international price spikes. When cereal
+stocks are low, any shock to supply or demand cannot be easily accommodated through releases and so adjustment occurs
+through the price mechanism, leading to price spikes. The precise threshold is a subject of debate, but a rule of thumb for cereals is
+approximately 20%. See Wright 2009. International Grain Reserves and Other Instruments to Address Volatility in Grain Markets,
+World Bank Policy Research Working Paper No. 5028, Washington DC: The World Bank.
+32 OECD-FAO 2013. OECD-FAO Agricultural Outlook 2013, Paris: Organisation for Economic Cooperation and Development.
+33 The 2016 scenario assumed no response from Thailand. In the near term, this is a reasonable assumption given the size of the
+national reserve that Thailand has accumulated. By 2026, this may well have reduced. Although Thailand in the end did not apply
+export controls during the 2008 crisis, the government publicly discussed the idea.
+34 Bailey 2013. Edible Oil: Food Security in the Gulf, Chatham House.
+35 Wright 2011. Biofuels and Food Security: Time to Consider Safety Valves?, International Food and Agricultural Trade Policy Council;
+Lee et al 2012. Resources Futures, Chatham House.
+36 This is on average. Analysis of UK purchases following the 2007/8 food price spike show a complex pattern of changes in response
+to food price increases: as prices increased UK households bought 4.2% less. They also traded down to save money, by buying
+cheaper alternatives. Nonetheless, trading down didn’t compensate prices rises and overall the food bill for an average family
+rose and was 12% more in 2011 than 2007. The poorest spent 17% more in 2011 compared to 2007, so their relative food bill
+increased by 40% more than average (https://www.gov.uk/government/publications/family-food-2011).
+37 BAJZELJ, B.et al. 2014. Importance of food-demand management for climate mitigation. Nature Clim. Change, 4, 924-929.
+
+|
+
+17
+
+Available related reports
+
+Global Food Security (GFS) is a multi-agency programme
+bringing together the main UK funders of research and
+training relating to food. GFS publications provide balanced
+analysis of food security issues on the basis of current
+evidence, for use by policy-makers and practitioners.
+For further information please visit:
+www.foodsecurity.ac.uk
+Email: info@foodsecurity.ac.uk
+
+

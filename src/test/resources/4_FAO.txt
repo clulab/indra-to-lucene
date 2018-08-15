@@ -1,0 +1,338 @@
+An Introduction to the Basic Concepts of Food Security
+Practical Guides
+
+Food Security Information for Action
+
+I. THE FOUR DIMENSIONS OF FOOD SECURITY
+Food security exists when all people, at all times, have physical and economic access to sufficient safe and
+nutritious food that meets their dietary needs and food preferences for an active and healthy life.
+- 1996 World Food Summit
+
+From this definition, four main dimensions of food security can be identified:
+Physical AVAILABILITY
+of food
+
+Food availability addresses the “supply side” of food security and is determined by the level of
+food production, stock levels and net trade.
+
+Economic and physical
+ACCESS to food
+
+An adequate supply of food at the national or international level does not in itself guarantee
+household level food security. Concerns about insufficient food access have resulted in a greater
+policy focus on incomes, expenditure, markets and prices in achieving food security objectives.
+
+Food UTILIZATION
+
+Utilization is commonly understood as the way the body makes the most of various nutrients
+in the food. Sufficient energy and nutrient intake by individuals is the result of good care and
+feeding practices, food preparation, diversity of the diet and intra-household distribution of food.
+Combined with good biological utilization of food consumed, this determines the nutritional status
+of individuals.
+
+STABILITY of the other
+three dimensions over
+time
+
+Even if your food intake is adequate today, you are still considered to be food insecure if you have
+inadequate access to food on a periodic basis, risking a deterioration of your nutritional status.
+Adverse weather conditions, political instability, or economic factors (unemployment, rising food
+prices) may have an impact on your food security status.
+
+For food security objectives to be realized, all four dimensions must be fulfilled simultaneously.
+II. THE DURATION OF FOOD INSECURITY
+Food security analysts have defined two general types of food insecurity:
+
+CHRONIC FOOD INSECURITY
+
+TRANSITORY FOOD INSECURITY
+
+is...
+
+long-term or persistent.
+
+short-term and temporary.
+
+occurs
+when...
+
+people are unable to meet their minimum food
+requirements over a sustained period of time.
+
+there is a sudden drop in the ability to produce or
+access enough food to maintain a good nutritional
+status.
+
+results
+from...
+
+extended periods of poverty, lack of assets and
+inadequate access to productive or financial
+resources.
+
+short-term shocks and fluctuations in food availability
+and food access, including year-to-year variations in
+domestic food production, food prices and household
+incomes.
+
+can be
+overcome
+with...
+
+typical long term development measures also used
+to address poverty, such as education or access to
+productive resources, such as credit. They may also
+need more direct access to food to enable them to
+raise their productive capacity.
+
+transitory food insecurity is relatively unpredictable
+and can emerge suddenly. This makes planning and
+programming more difficult and requires different
+capacities and types of intervention, including early
+warning capacity and safety net programmes ( see
+Box 1).
+
+The concept of seasonal food security falls between chronic and transitory food insecurity. It is similar to chronic
+food insecurity as it is usually predictable and follows a sequence of known events. However, as seasonal food
+insecurity is of limited duration it can also be seen as recurrent, transitory food insecurity. It occurs when there is
+a cyclical pattern of inadequate availability and access to food. This is associated with seasonal fluctuations in the
+climate, cropping patterns, work opportunities (labour demand) and disease.
+The EC - FAO Food Security Programme is funded by the European Union and implemented by FAO
+
+1
+
+An Introduction to the Basic Concepts of Food Security
+
+Practical Guides
+
+Food Security Information for Action
+
+Box 1. What are Safety Nets?
+Measures to enhance direct access to food are more
+likely to be beneficial if these are embedded in more
+general social safety net programmes. Safety nets
+include income transfers for those chronically unable
+to work—because of age or handicaps—and for those
+temporarily affected by natural disasters or economic
+recession.
+
+The severity of undernourishment indicates, for the
+food deprived, the extent to which dietary energy
+consumption falls below the pre-determined threshold.
+The Integrated Food Security Phase Classification
+(IPC)
+The IPC is a classification system for food security
+crises based on a range of livelihood needs:
+
+Options include:
+
+IPC Phase Classification
+
+Indicators
+
+• Targeted direct feeding programmes. These include
+school meals; feeding of expectant and nursing mothers
+as well as children under five through primary health
+centres, soup kitchens and special canteens.
+
+Generally food secure
+
+• Food-for-work programmes. Food-for-work programmes
+provide support to households while developing useful
+infrastructure such as small-scale irrigation, rural roads,
+buildings for rural health centres and schools.
+
+Humanitarian emergency
+
+- Crude Mortality Rate
+- Malnutrition prevalence
+- Food Access/ Availability
+- Dietary Diversity
+- Water Access/Availability
+- Coping strategies
+- Livelihood Assets
+
+Chronically food insecure
+Acute food and livelihood
+crisis
+
+Famine / humanitarian
+catastrophe
+
+See www.ipcinfo.org for more information
+
+• Income-transfer programmes. These can be in cash
+or in kind, including food stamps, subsidized rations and
+other targeted measures for poor households.
+Stamoulis, K. and Zezza, A. 2003. A Conceptual Framework for
+National Agricultural, Rural Development, and Food Security Strategies
+and Policies. ESA Working Paper No. 03-17, November 2003.
+Agricultural and Development Economics Division, FAO, Rome. www.
+fao.org/documents/show_cdr.asp?url_file=/docrep/007/ae050e/
+ae050e00.htm
+
+III. THE SEVERITY OF FOOD INSECURITY
+When analyzing food insecurity, it is not enough to
+know the duration of the problem that people are
+experiencing, but also how intense or severe the impact
+of the identified problem is on the overall food security
+and nutrition status. This knowledge will influence the
+nature, extent and urgency of the assistance needed by
+affected population groups.
+Different ‘scales’ or ‘phases’ to ‘grade’ or ‘classify’
+food security have been developed by food security
+analysts using different indicators and cut-off points or
+‘benchmarks’. Examples include:
+
+IV. VULNERABILITY
+The dynamic nature of food security is implicit when we
+talk about people who are vulnerable to experiencing
+food insecurity in the future. Vulnerability is defined in
+terms of the following three critical dimensions:
+1. vulnerability to an outcome;
+2. from a variety of risk factors;
+3. because of an inability to manage those risks.
+Indeed, a person can be vulnerable to hunger even if
+he or she is not actually hungry at a given point in time.
+Vulnerability analysis suggests two main intervention
+options:
+1. Reduce the degree of exposure to the hazard;
+2. Increase the ability to cope.
+By accounting for vulnerability, food security policies and
+programs broaden their efforts from addressing current
+constraints to food consumption, to include actions that
+also address future threats to food security.
+
+Measuring the Severity of Undernourishment
+The measure for hunger compiled by FAO, defined as
+undernourishment, refers to the proportion of the
+population whose dietary energy consumption is less
+than a pre-determined threshold. This threshold is
+country specific and is measured in terms of the number
+of kilocalories required to conduct sedentary or light
+activities. The undernourished are also referred to as
+suffering from food deprivation.
+
+Box 2. Analyzing the Risk of Becoming Food
+Insecure
+For example, we may be interested in analyzing the risk
+of becoming food insecure as a result of a flood.
+If a household lives outside a flood plain then the
+exposure to flooding is low and therefore the risk of a
+flood causing the household to become food insecure is
+
+2
+
+An Introduction to the Basic Concepts of Food Security
+
+Practical Guides
+
+Food Security Information for Action
+
+low (unless their crops are in the valley!).
+However, if they live on the flood plain, but they have the
+ability to cope with the hazard, for example by being very
+mobile, and being able to move their animals and/or food
+crops to safety, then the risk may still be low.
+
+V. HUNGER, MALNUTRITION AND POVERTY
+It is important to understand how these three concepts
+are related to food insecurity.
+Hunger is usually understood as an uncomfortable or
+
+painful sensation caused by insufficient food energy
+consumption. Scientifically, hunger is referred to as
+food deprivation.
+
+deprivation that relate to human capabilities including
+consumption and food security, health, education,
+rights, voice, security, dignity and decent work.”
+- Organisation for Economic Co-operation and Development (OECD)
+
+It is argued that a strategy for attacking poverty in
+conjunction with policies to ensure food security offers
+the best hope of swiftly reducing mass poverty and
+hunger. However, recent studies show that economic
+growth alone will not take care of the problem of food
+security. What is needed is a combination of:
+- income growth; supported by
+- direct nutrition interventions; and
+- investment in health, water and education.
+FIND OUT MORE:
+
+Simply put, all hungry people are food insecure, but not
+all food insecure people are hungry, as there are other
+causes of food insecurity, including those due to poor
+intake of micro-nutrients.
+
+E-learning
+
+Malnutrition results from deficiencies, excesses or
+
+Further Reading
+
+imbalances in the consumption of macro- and/or micronutrients. Malnutrition may be an outcome of food
+insecurity, or it may relate to non-food factors, such as:
+- inadequate care practices for children,
+- insufficient health services; and
+- an unhealthy environment.
+While poverty is undoubtedly a cause of hunger, lack
+of adequate and proper nutrition itself is an underlying
+cause of poverty.
+A current and widely used definition of poverty is:
+“Poverty encompasses different
+
+dimensions of
+
+Figure 1: Food insecurity, malnutrition and poverty are
+deeply interrelated phenomena
+Poverty
+
+These guidelines are taken from the e-learning course “Food
+Security Concepts and Frameworks” available at:
+www.foodsec.org/dl
+
+Devereux, S. 2006 Distinguishing between chronic and
+transitory food insecurity in emergency needs assessments.
+SENAC. WFP. Rome.
+Dilley M. and Boudreau T.E. Coming to terms with
+vulnerability: a critique of the food security definition. Food
+Policy, Volume 26, Number 3, June 2001 , pp. 229-247(19)
+FAO. 2003. Focus on Food Insecurity and Vulnerability – A
+review of the UN System Common Country Assessments
+and World Bank Poverty Reduction Strategy Papers. FIVIMS
+Secretariat and Wageningen University and Research Centre:
+www.fao.org/DOCREP/006/Y5095E/Y5095E00.htm
+Sen, A.K. 1981. Poverty and Famines: An Essay on
+Entitlements and Deprivation. Oxford. Clarendon Press.
+Stamoulis, K. and Zezza, A. 2003. A Conceptual Framework
+for National Agricultural, Rural Development, and Food Security
+Strategies and Policies. ESA Working Paper No. 03-17,
+November 2003. Agricultural and Development Economics
+Division, FAO, Rome. www.fao.org/documents/show_cdr.
+asp?url_file=/docrep/007/ae050e/ae050e00.htm
+WFP.2005. Emergency Food Security Assessment Handbook.
+http://www.wfp.org/operations/emergency_needs/EFSA_
+section1.pdf
+
+Low productivity
+
+Food insecurity, hunger and
+malnutrition
+
+This document is available online at:
+www.foodsec.org/docs/concepts_guide.pdf
+For more resources see:
+http://www.foodsec.org/pubs.htm
+
+Poor physical and cognitive
+development
+
+© FAO 2008
+Published by the EC - FAO Food Security Programme
+website: www.foodsec.org
+e-mail: information-for-action@fao.org
+
+3
+
+
