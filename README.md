@@ -1,7 +1,7 @@
 # indra-to-lucene
 Converts INDRA statements into a Lucene index
 
-The source code is organized as an sbt project.  A plugin is configured to create a fat jar.
+The source code is organized as an sbt project.  A plugin is configured to create a fat jar:
 ```
 sbt assembly
 ```
