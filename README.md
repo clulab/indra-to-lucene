@@ -1,7 +1,12 @@
 # indra-to-lucene
 Converts INDRA statements into a Lucene index
 
-The software is also distributed as a fat jar, which includes all the required libraries except those of Java itself.  Lucene and Scala are included.  API access to search results is demonstrated in the sample Java application, included with the source and shown below.
+The source code is organized as an sbt project.  A plugin is configured to create a fat jar.
+```
+sbt assembly
+```
+
+The resulting fat jar contains all the required libraries except those of Java itself.  Lucene and Scala are included.  API access to search results is demonstrated in the included Scala apps, test case, and sample Java application.  Here's the sample:
 ```
 package org.clulab.wm.indraToLucene;
 
@@ -21,7 +26,7 @@ public class Sample {
 }
 ```
 
-The default Scala application, SearcherApp, will run by default if the jar file is executed.  It may provide useful diagnostic output.
+The jar's default Scala application, SearcherApp, will run by default if the jar file is executed.  It may provide useful diagnostic output.
 ```
 > java -jar '.\indra-to-lucene-assembly-0.1.jar'
 Syntax: org.clulab.wm.indraToLucene.apps.SearcherApp$ indexDir "query" [maxHits]
