@@ -10,7 +10,7 @@ object Utils {
 
   def getContents(file: File) = {
     val source = Source.fromFile(file)
-    val rawText = source.getLines.mkString("\n")
+    val rawText = source.mkString
 
     source.close()
     rawText
