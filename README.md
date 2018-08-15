@@ -31,7 +31,6 @@ The jar's default Scala application, SearcherApp, will run by default if the jar
 > java -jar '.\indra-to-lucene-assembly-0.1.jar'
 Syntax: org.clulab.wm.indraToLucene.apps.SearcherApp$ indexDir "query" [maxHits]
 
-> java -jar '.\indra-to-lucene-assembly-0.1.jar' ../index52 "hunger AND famine" 1
-0.20504367      32_sudantribune.txt     32_success.json
-...
+> java -jar '.\indra-to-lucene-assembly-0.1.jar' ../SmallIndex "hunger AND famine" 1
+0.20504367      32_sudantribune.txt     32_success.json...
 ```
