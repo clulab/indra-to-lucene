@@ -1,6 +1,10 @@
 package org.clulab.wm.indraToLucene
 
-import java.io.File
+import java.io.{File, FileOutputStream, OutputStreamWriter, PrintWriter}
+import java.nio.charset.StandardCharsets
+
+import org.json4s.{JField, JObject, JString, JValue}
+import org.json4s.jackson.JsonMethods.parse
 
 import scala.collection.mutable
 
@@ -30,6 +34,41 @@ class Mapper {
 
   protected case class SideInfo(year: String, kind: String, url: String, title: String)
 
+  protected def getMetaValue(json: JValue, name: String): Option[String] = {
+    val values: List[String] = for {
+      JObject(child) <- json
+      JField("MT", JObject(mt)) <- child
+      JField("N", JString(n)) <- mt // name
+      if n == name
+      JField("V", JString(v)) <- mt // value
+    } yield {
+      v
+    }
+    values.headOption
+  }
+
+  protected def getMetaJson(file: File): Option[JValue] = {
+    if (file.exists()) {
+      val text = Utils.getContents(file)
+      val json = parse(text)
+
+      Some(json)
+    }
+    else
+      None
+  }
+
+  protected def getTitle(file: File): String = {
+    val jValue = getMetaJson(file)
+
+    if (jValue.isDefined) {
+      val title = getMetaValue(jValue.get, "title")
+
+      title.getOrElse("")
+    }
+    else ""
+  }
+
   protected def getSideInfos(sideFileName: String): mutable.Map[String, SideInfo] = {
     def toKey(url: String): String = beforeLast(afterLast(url, '/'), '.')
 
@@ -43,12 +82,14 @@ class Mapper {
       lines.foreach { line =>
         val values = line.split('\t')
 
-        require(values.size == 4)
+        if (values.size != 3 && values.size != 4)
+          println("bad")
+        require(values.size == 3 || values.size == 4)
 
         val year = values(0)
         val kind = values(1)
         val url = values(2)
-        val title = values(3)
+        val title = if (values.size > 3) values(3) else ""
         val sideInfo = SideInfo(year, kind, url, title)
         val key = toKey(url)
 
@@ -76,10 +117,12 @@ class Mapper {
       beforeLast(afterLast(textFileName, '_'), '.')
 
   def map(textDir: String, jsonldDir: String, metaDir: String, sideFileName: String): Unit = {
+//    val pw = new PrintWriter(new OutputStreamWriter(new FileOutputStream(new File("Map.txt")), StandardCharsets.UTF_8.toString))
+    val pw = System.out
     val sideInfos = getSideInfos(sideFileName)
     val textFiles = Utils.findFiles(textDir, "txt")
 
-    println("textFile\tjsonldFile\tmetaFile\tindraId\tyear\tkind\turl\ttitle")
+    pw.println("textFile\tjsonldFile\tmetaFile\tindraId\tyear\tkind\turl\ttitle")
     for (textFile <- textFiles) {
       val textFileName = textFile.getName()
       val jsonldFile = jsonldMapping(textFileName, jsonldDir)
@@ -87,28 +130,32 @@ class Mapper {
       val indraId = indraMapping(textFileName)
       val sideKey = sideMapping(textFileName)
 
-      print(textFile.getName())
-      print("\t")
-      print(if (jsonldFile.exists()) jsonldFile.getName() else "")
-      print("\t")
-      print(if (metaFile.exists()) metaFile.getName() else "")
-      print("\t")
-      print(if (jsonldFile.exists()) indraId else "")
-      print("\t")
+      pw.print(textFile.getName())
+      pw.print("\t")
+      pw.print(if (jsonldFile.exists()) jsonldFile.getName() else "")
+      pw.print("\t")
+      pw.print(if (metaFile.exists()) metaFile.getName() else "")
+      pw.print("\t")
+      pw.print(if (jsonldFile.exists()) indraId else "")
+      pw.print("\t")
       if (sideInfos.contains(sideKey)) {
         val sideInfo = sideInfos(sideKey)
+        val title =
+          if (!sideInfo.title.isEmpty) sideInfo.title
+          else getTitle(metaFile)
 
-        print(sideInfo.year)
-        print("\t")
-        print(sideInfo.kind)
-        print("\t")
-        print(sideInfo.url)
-        print("\t")
-        print(sideInfo.title)
+        pw.print(sideInfo.year)
+        pw.print("\t")
+        pw.print(sideInfo.kind)
+        pw.print("\t")
+        pw.print(sideInfo.url)
+        pw.print("\t")
+        pw.print(title)
       }
       else
-        print("\t\t\t")
-      println()
+        pw.print("\t\t\t")
+      pw.println()
     }
+    pw.close()
   }
 }
